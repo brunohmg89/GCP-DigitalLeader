@@ -38,103 +38,103 @@
 
 1. Em qual ameaça cibernética a vítima é obrigada a pagar um resgate para reaver o acesso aos arquivos e sistemas?
 
-(X) Ransomware
+    - [x] Ransomware
 
-Cavalo de troia
+    - [ ] Cavalo de troia
 
-Spyware
+    - [ ] Spyware
 
-Vírus
+    - [ ] Vírus
 
 2. Qual definição a seguir é a melhor descrição de um firewall?
 
-Um modelo de segurança que pressupõe que nenhum usuário ou dispositivo é confiável.
+    - [ ] Um modelo de segurança que pressupõe que nenhum usuário ou dispositivo é confiável.
 
-Um software que criptografa dados para que não sejam lidos por usuários não autorizados.
+    - [ ] Um software que criptografa dados para que não sejam lidos por usuários não autorizados.
 
-(X) Um dispositivo de segurança de rede que monitora e controla o tráfego de rede que entra e sai com base em regras predefinidas.
+    - [x] Um dispositivo de segurança de rede que monitora e controla o tráfego de rede que entra e sai com base em regras predefinidas.
 
-Um conjunto de medidas de segurança criado para proteger uma rede ou um sistema de computação contra ataques cibernéticos.
+    - [ ] Um conjunto de medidas de segurança criado para proteger uma rede ou um sistema de computação contra ataques cibernéticos.
 
 3. Em qual ameaça cibernética comum os usuários são enganados para que revelem informações sensíveis ou realizem ações que comprometam a segurança?
 
-Erro de configuração
+    - [ ] Erro de configuração
 
-Malware
+    - [ ] Malware
 
-(X) Phishing
+    - [x] Phishing
 
-Ransomware
+    - [ ] Ransomware
 
 4. Qual item a seguir é um benefício da segurança na nuvem em relação à segurança tradicional no local?
 
-(X) Aumento da escalonabilidade.
+    - [x] Aumento da escalonabilidade.
 
-As atualizações de segurança são instaladas apenas uma vez por semana.
+    - [ ] As atualizações de segurança são instaladas apenas uma vez por semana.
 
-Grande investimento inicial de capital.
+    - [ ] Grande investimento inicial de capital.
 
-Acesso físico ao hardware.
+    - [ ] Acesso físico ao hardware.
 
 5. Quais são os três aspectos de segurança na nuvem que compõem as bases da tríade CIA?
 
-Contêineres, infraestrutura e arquitetura
+    - [ ] Contêineres, infraestrutura e arquitetura
 
-Certificados, inteligência e autenticação
+    - [ ] Certificados, inteligência e autenticação
 
-Conformidade, identidade e gerenciamento de acesso
+    - [ ] Conformidade, identidade e gerenciamento de acesso
 
-(X) Confidencialidade, integridade e disponibilidade
+    - [x] Confidencialidade, integridade e disponibilidade
 
 6. Qual princípio de segurança na nuvem está relacionado à manutenção de dados precisos e confiáveis?
 
-Compliance
+    - [ ] Compliance
 
-Confidencialidade
+    - [ ] Confidencialidade
 
-(X) Integridade
+    - [x] Integridade
 
-Controle
+    - [ ] Controle
 
 7. Qual princípio de segurança na nuvem garante que as práticas e medidas de segurança estejam alinhadas aos padrões e diretrizes estabelecidos?
 
-(X) Compliance
+    - [x] Compliance
 
-Controle
+    - [ ] Controle
 
-Integridade
+    - [ ] Integridade
 
-Confidencialidade
+    - [ ] Confidencialidade
 
 8. Qual ameaça cibernética ocorre quando são cometidos erros durante a configuração de recursos que acabam expondo dados sensíveis e sistemas a acesso não autorizado?
 
-Phishing
+    - [ ] Phishing
 
-Malware
+    - [ ] Malware
 
-Vírus
+    - [ ] Vírus
 
-(X) Erros de configuração
+    - [x] Erros de configuração
 
 9. Qual princípio de segurança defende que os usuários tenham apenas o acesso de que precisam para desempenhar suas funções?
 
-Acesso privilegiado
+    - [ ] Acesso privilegiado
 
-Arquitetura de confiança zero
+    - [ ] Arquitetura de confiança zero
 
-Segurança por padrão
+    - [ ] Segurança por padrão
 
-(X) Privilégio mínimo
+    - [x] Privilégio mínimo
 
 10. Qual é a responsabilidade do provedor de nuvem em um modelo de segurança de nuvem?
 
-Gerenciar o acesso dos usuários do cliente.
+    - [ ] Gerenciar o acesso dos usuários do cliente.
 
-Proteger os dados do cliente.
+    - [ ] Proteger os dados do cliente.
 
-(X) Manter a infraestrutura do cliente.
+    - [x] Manter a infraestrutura do cliente.
 
-Configurar os aplicativos do cliente.
+    - [ ] Configurar os aplicativos do cliente.
 
 ## 2º módulo - Infraestrutura confiável do Google
 
@@ -177,83 +177,83 @@ Configurar os aplicativos do cliente.
 
 1. Qual item a seguir é um potente algoritmo de criptografia em que governos e empresas do mundo todo confiam?
 
-(X) Padrão de criptografia avançada (AES)
+    - [x] Padrão de criptografia avançada (AES)
 
-Criptografia isomórfica (IE)
+    - [ ] Criptografia isomórfica (IE)
 
-Criptografia baseada em reticulados (LBC)
+    - [ ] Criptografia baseada em reticulados (LBC)
 
-Criptografia pós-quântica (PQC)
+    - [ ] Criptografia pós-quântica (PQC)
 
 2. Selecione a afirmação correta sobre o Identity and Access Management (IAM).
 
-O IAM é um serviço em nuvem que criptografa dados em repouso e em trânsito baseados na nuvem.
+    - [ ] O IAM é um serviço em nuvem que criptografa dados em repouso e em trânsito baseados na nuvem.
 
-O IAM é um sistema que detecta tráfego malicioso e impede que ele entre em uma rede da nuvem.
+    - [ ] O IAM é um sistema que detecta tráfego malicioso e impede que ele entre em uma rede da nuvem.
 
-O IAM é uma solução para gerenciamento de eventos e informações de segurança na nuvem que coleta e analisa dados de registro de dispositivos e aplicativos de segurança na nuvem.
+    - [ ] O IAM é uma solução para gerenciamento de eventos e informações de segurança na nuvem que coleta e analisa dados de registro de dispositivos e aplicativos de segurança na nuvem.
 
-(X) O IAM fornece controle granular de quem tem acesso aos recursos do Google Cloud e o que é possível fazer com esses recursos.
+    - [x] O IAM fornece controle granular de quem tem acesso aos recursos do Google Cloud e o que é possível fazer com esses recursos.
 
 3. O Google Cloud criptografa dados em vários estados. Qual estado indica que os dados estão sendo processados ativamente por um computador?
 
-Dados em trânsito
+    - [ ] Dados em trânsito
 
-Dados em repouso
+    - [ ] Dados em repouso
 
-(X) Dados em uso
+    - [x] Dados em uso
 
-Data lake
+    - [ ] Data lake
 
 4. Qual prática envolve uma combinação de processos e tecnologias que ajudam a reduzir o risco de vazamento de dados, interrupções no sistema e outros incidentes de segurança na nuvem?
 
-Gerenciamento de postura de segurança na nuvem (CSPM)
+    - [ ] Gerenciamento de postura de segurança na nuvem (CSPM)
 
-Segurança de confiança zero
+    - [ ] Segurança de confiança zero
 
-(X) Operações de segurança (SecOps)
+    - [x] Operações de segurança (SecOps)
 
-Engenharia de confiabilidade do site (SRE)
+    - [ ] Engenharia de confiabilidade do site (SRE)
 
 5. Qual recurso de segurança adiciona uma camada extra de proteção nos sistemas baseados na nuvem?
 
-(X) Verificação em duas etapas (2SV)
+    - [x] Verificação em duas etapas (2SV)
 
-Prevenção contra perda de dados (DLP)
+    - [ ] Prevenção contra perda de dados (DLP)
 
-Firewall como serviço (FaaS)
+    - [ ] Firewall como serviço (FaaS)
 
-Gerenciamento de eventos e informações de segurança (SIEM)
+    - [ ] Gerenciamento de eventos e informações de segurança (SIEM)
 
 6. Qual aspecto do Gerenciamento de identificação do Cloud verifica a identidade de usuários e sistemas?
 
-Autorização
+    - [ ] Autorização
 
-Auditoria
+    - [ ] Auditoria
 
-(X) Autenticação
+    - [x] Autenticação
 
-Accounting
+    - [ ] Accounting
 
 7. Qual produto do Google Cloud fornece proteção robusta contra ataques distribuídos de negação de serviço (DDoS)?
 
-(X) Google Cloud Armor
+    - [x] Google Cloud Armor
 
-Cloud Load Balancing
+    - [ ] Cloud Load Balancing
 
-Cloud IAM
+    - [ ] Cloud IAM
 
-Cloud Monitoring
+    - [ ] Cloud Monitoring
 
 8. Qual métrica do Google Cloud mede a eficiência dos data centers para alcançar as metas de economia de custos e reduzir a pegada de carbono?
 
-Custo total de propriedade (TCO)
+    - [ ] Custo total de propriedade (TCO)
 
-Proporção de eficiência energética (EER)
+    - [ ] Proporção de eficiência energética (EER)
 
-(X) Eficiência no uso de energia (PUE)
+    - [x] Eficiência no uso de energia (PUE)
 
-Eficiência da infraestrutura do data center (DCiE)
+    - [ ] Eficiência da infraestrutura do data center (DCiE)
 
 ## 3º Módulo - Compliance e princípios de confiança do Google Cloud
 
@@ -278,50 +278,50 @@ Eficiência da infraestrutura do data center (DCiE)
 
 1. Qual item é um dos sete princípios de confiança do Google Cloud?
 
-(X) Todos os dados dos clientes são criptografados por padrão.
+    - [x] Todos os dados dos clientes são criptografados por padrão.
 
-O Google dá acesso backdoor a entidades governamentais mediante solicitação.
+    - [ ] O Google dá acesso backdoor a entidades governamentais mediante solicitação.
 
-O Google Cloud usa os dados dos clientes para publicidade.
+    - [ ] O Google Cloud usa os dados dos clientes para publicidade.
 
-O Google vende os dados dos clientes a terceiros.
+    - [ ] O Google vende os dados dos clientes a terceiros.
 
 2. Qual termo descreve o conceito de que os dados estão sujeitos às leis e regulamentações do país onde residem?
 
-(X) Soberania de dados
+    - [x] Soberania de dados
 
-Redundância de dados
+    - [ ] Redundância de dados
 
-Residência dos dados
+    - [ ] Residência dos dados
 
-Consistência de dados
+    - [ ] Consistência de dados
 
 3. Onde estão os detalhes sobre as certificações e os padrões de compliance que o Google Cloud cumpre?
 
-Marketplace
+    - [ ] Marketplace
 
-(X) Central de recursos de compliance
+    - [x] Central de recursos de compliance
 
-Console do Google Cloud
+    - [ ] Console do Google Cloud
 
-Bibliotecas de cliente do Cloud Storage
+    - [ ] Bibliotecas de cliente do Cloud Storage
 
 4. Que tipo de relatório é uma forma de o Google Cloud compartilhar dados sobre como as políticas e ações de governos e corporações afetam a privacidade, a segurança e o acesso à informação?
 
-Relatórios de compliance
+    - [ ] Relatórios de compliance
 
-(X) Relatórios de transparência
+    - [x] Relatórios de transparência
 
-Relatórios de segurança
+    - [ ] Relatórios de segurança
 
-Relatórios de faturamento
+    - [ ] Relatórios de faturamento
 
 5. Qual recurso do Google Cloud permite aos usuários controlar a localização física dos dados?
 
-Áreas
+    - [ ] Áreas
 
-(X) Regiões
+    - [x] Regiões
 
-Distritos
+    - [ ] Distritos
 
-Lugares
+    - [ ] Lugares
