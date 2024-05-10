@@ -154,103 +154,103 @@
 
 1. Qual estratégia define a migração de bancos de dados de ambientes locais e de nuvens privadas para o mesmo tipo de banco de dados hospedado por um provedor de nuvem pública?
 
-() Permanência no local
+    - [ ] Permanência no local
 
-() Refatoração
+    - [ ] Refatoração
 
-() Migração de bancos de dados gerenciados
+    - [ ] Migração de bancos de dados gerenciados
 
-(X) Migração lift-and-shift
+    - [x] Migração lift-and-shift
 
 2. Dados em forma de vídeo, foto e gravação de áudio são os mais adequados para o armazenamento de objetos. Qual o produto ideal para armazenar esse tipo de dado?
 
-Firestore
+    - [ ] Firestore
 
-(X) Cloud Storage
+    - [x] Cloud Storage
 
-Cloud SQL
+    - [ ] Cloud SQL
 
-BigQuery
+    - [ ] BigQuery
 
 3. Qual produto do Google Cloud pode ser usado para sincronizar dados entre bancos de dados, sistemas de armazenamento e aplicativos?
 
-Pub/Sub
+    - [ ] Pub/Sub
 
-(X) Datastream
+    - [x] Datastream
 
-Dataproc
+    - [ ] Dataproc
 
-Dataprep
+    - [ ] Dataprep
 
 4. O BigQuery funciona em um ambiente multicloud. Como este recurso beneficia as organizações?
 
-O suporte multicloud no BigQuery deve ser usado apenas em cenários de recuperação de desastres.
+    - [ ] O suporte multicloud no BigQuery deve ser usado apenas em cenários de recuperação de desastres.
 
-O BigQuery ajuda as organizações a poupar custos porque limita o número de provedores de nuvem usados.
+    - [ ] O BigQuery ajuda as organizações a poupar custos porque limita o número de provedores de nuvem usados.
 
-(X) As equipes de dados podem eliminar os silos de dados fazendo análises em vários provedores de nuvem.
+    - [x] As equipes de dados podem eliminar os silos de dados fazendo análises em vários provedores de nuvem.
 
-A segurança é mais eficiente quando o BigQuery é executado em ambientes locais.
+    - [ ] A segurança é mais eficiente quando o BigQuery é executado em ambientes locais.
 
 5. Quais são os dois serviços que o BigQuery oferece?
 
-Rede e armazenamento
+    - [ ] Rede e armazenamento
 
-Migração e análise
+    - [ ] Migração e análise
 
-(X) Armazenamento e análise
+    - [x] Armazenamento e análise
 
-Computação e análise
+    - [ ] Computação e análise
 
 6. Qual é o serviço de banco de dados de Big Data do Google usado em vários dos principais serviços do Google, como Pesquisa, Analytics, Plataforma Google Maps e Gmail?
 
-Cloud Spanner
+    - [ ] Cloud Spanner
 
-Cloud SQL
+    - [ ] Cloud SQL
 
-Cloud Storage
+    - [ ] Cloud Storage
 
-(X) Cloud Bigtable
+    - [x]  Cloud Bigtable
 
 7. A análise de dados de uma loja on-line precisa gerar um relatório de vendas ao final de cada trimestre. Qual classe do Cloud Storage a loja precisa usar para acessar os dados a cada 90 dias?
 
-Archive
+    - [ ] Archive
 
-Nearline
+    - [ ] Nearline
 
-Standard
+    - [ ] Standard
 
-(X) Coldline
+    - [x] Coldline
 
 8. Qual é a melhor opção de armazenamento com base em SQL para cargas de trabalho transacionais que precisam de escalabilidade global?
 
-Cloud Bigtable
+    - [ ] Cloud Bigtable
 
-Cloud SQL
+    - [ ] Cloud SQL
 
-(X) Cloud Spanner
+    - [x] Cloud Spanner
 
-Firestore
+    - [ ] Firestore
 
 9. Qual característica vale para todas as classes do Cloud Storage?
 
-Limite máximo de armazenamento
+    - [ ] Limite máximo de armazenamento
 
-(X) Redundância geográfica se os dados forem armazenados em um local multirregional ou birregional
+    - [x] Redundância geográfica se os dados forem armazenados em um local multirregional ou birregional
 
-Acessibilidade em apenas uma região
+    - [ ] Acessibilidade em apenas uma região
 
-Latência alta e baixa durabilidade
+    - [ ] Latência alta e baixa durabilidade
 
 10. Qual é a melhor opção de armazenamento com base em SQL para cargas de trabalho transacionais que precisam de escalonabilidade local ou regional?
 
-Cloud Bigtable
+    - [ ] Cloud Bigtable
 
-Cloud Storage
+    - [ ] Cloud Storage
 
-(X) Cloud SQL
+    - [x] Cloud SQL
 
-Cloud Spanner
+    - [ ] Cloud Spanner
 
 ## 3º Módulo - Como ter dados eficientes e acessíveis
 
@@ -266,60 +266,60 @@ Cloud Spanner
 
 1. Qual plataforma de Business Intelligence do Google Cloud foi projetada para ajudar usuários e equipes a analisar, visualizar e compartilhar dados?
 
-Dataplex
+    - [ ] Dataplex
 
-(X) Looker
+    - [x] Looker
 
-Dataflow
+    - [ ] Dataflow
 
-Cloud Storage
+    - [ ] Cloud Storage
 
 2. A análise de streaming é o processamento e a análise de registros de dados continuamente, em vez de em lotes. Qual dessas opções é uma fonte de dados de streaming?
 
-Endereços de e-mail do cliente
+    - [ ] Endereços de e-mail do cliente
 
-Registros de folhas de pagamento
+    - [ ] Registros de folhas de pagamento
 
-Resultados de exames médicos
+    - [ ] Resultados de exames médicos
 
-(X) Sensores de temperatura
+    - [x] Sensores de temperatura
 
 3. No contexto do processamento de dados, o que significa ETL?
 
-(X) Extract, transform, and load (Extração, transformação e carregamento)
+    - [x] Extract, transform, and load (Extração, transformação e carregamento)
 
-Enhanced transaction logic (Lógica de transação aprimorada)
+    - [ ] Enhanced transaction logic (Lógica de transação aprimorada)
 
-Enrichment, tagging, and labeling (Aprimoramento, marcação e rotulagem)
+    - [ ] Enrichment, tagging, and labeling (Aprimoramento, marcação e rotulagem)
 
-Event-time logic (Lógica de hora do evento)
+    - [ ] Event-time logic (Lógica de hora do evento)
 
 4. Qual é o serviço de mensagens distribuídas do Google Cloud que pode receber mensagens de vários streams de dispositivos, como eventos de jogos, dispositivos da Internet das Coisas (IoT) e streams de aplicativos?
 
-Dataplex
+    - [ ] Dataplex
 
-Dataproc
+    - [ ] Dataproc
 
-Looker
+    - [ ] Looker
 
-(X) Pub/Sub
+    - [x] Pub/Sub
 
 5. Qual afirmação sobre o Dataflow é verdadeira?
 
-É um data warehouse baseado na nuvem usado para armazenar e analisar dados de streaming e em lote.
+    - [ ] É um data warehouse baseado na nuvem usado para armazenar e analisar dados de streaming e em lote.
 
-É um serviço para receber mensagens de vários streams de dispositivos.
+    - [ ] É um serviço para receber mensagens de vários streams de dispositivos.
 
-Facilita a limpeza e a transformação de dados usando ferramentas visuais e sugestões baseadas em machine learning.
+    - [ ] Facilita a limpeza e a transformação de dados usando ferramentas visuais e sugestões baseadas em machine learning.
 
-(X) Cuida da configuração e da manutenção da infraestrutura para pipelines de processamento.
+    - [x] Cuida da configuração e da manutenção da infraestrutura para pipelines de processamento.
 
 6. Qual recurso do Looker facilita a integração com fluxos de trabalho atuais e o compartilhamento com várias equipes de uma organização?
 
-Cria visualizações fáceis de entender.
+    - [ ] Cria visualizações fáceis de entender.
 
-Tem suporte para mais de 60 bancos de dados de SQL.
+    - [ ] Tem suporte para mais de 60 bancos de dados de SQL.
 
-É econômico.
+    - [ ] É econômico.
 
-(X) É 100% baseado na Web.
+    - [x] É 100% baseado na Web.
