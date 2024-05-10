@@ -132,23 +132,32 @@
 ## 2º Módulo - Soluções de gerenciamento de dados do Google Cloud
 
 - Tipo de recursos para armazenamento de dados
+    
     - Cloud Storage: que é um serviço que oferece armazenamento de objetos altamente disponível e durável a desenvolvedores e organizações de TI. (Dados não estruturados)
         - Armazenamento de objetos: É uma arquitetura de computador de armazenamento de dados que gerencia os dados como objetos, em vez de armazenamento de arquivos. Esses objetos são armazenados em formato de pacote que contém o formato binário dos dados reais e metadados associados relevantes. Esses tipos de dados são conhecidos como não estruturados. 
+        
         - Tipos de armazenamento do Cloud Storage:
             - Standard Storage: Ela é considerada ideal para dados acessados frequentemente.
             - Nearline Storage: Essa opção é melhor para armazenar dados acessados com pouca frequência, como leitura ou modificação de dados em média uma vez por mês ou menos.
             - Coldline Storage: Ela também é uma opção de baixo custo para armazenamento de dados acessados com pouca frequência. destinada a leitura ou modificação de dados no máximo uma vez a cada 90 dias.
             - Archive Storage: Essa é a opção de menor custo, ideal para arquivamento de dados, backup on-line e recuperação de desastres. opção ideal para dados que você planeja acessar menos de uma vez por ano
+    
     - Cloud SQL (Dados estruturados) (Disponibilidade 99,95%)
         - MySQL -> PostgreSQL -> SQL Server
+    
     - Cloud Spanner (Disponibilidade 99,999%) um serviço de banco de dados relacional totalmente gerenciado que escalona horizontalmente para lidar com picos inesperados de negócios.
         - Se você não precisa de escalonamento horizontal ou de um sistema disponível globalmente, o Cloud SQL é uma solução econômica.
         - Se você ultrapassar o limite de um banco de dados relacional, fragmentar os bancos de dados para conseguir alto desempenho de capacidade de processamento, precisar de consistência transacional, dados globais e consistência forte utilize Cloud Spanner
+    
     - Big Query: é um data warehouse totalmente gerenciado. Como já aprendemos, o data warehouse é um grande repositório que contém petabytes de dados coletados de uma ampla variedade de fontes dentro de uma organização e é usado para orientar decisões de gerenciamento.
+    
     - Fire Store: é um banco de dados em nuvem NoSQL flexível e escalonável horizontalmente para armazenamento e sincronização de dados em tempo real.
+    
     - Cloud Bigtable: o serviço de banco de dados de Big Data NoSQL do Google. Bigtable responde às solicitações com rapidez e alta capacidade de processamento, ou seja, ele pode enviar e receber grandes quantidades de dados. Se você estiver trabalhando com mais de um terabyte de dados estruturados ou semiestruturados.
-    - Lift and shift: É aqui que os bancos de dados são migrados de ambientes de nuvem no local e privados para o mesmo tipo de banco de dados hospedado por um provedor de nuvem pública, como o Google Cloud.
-    - Migração de dados gerenciada: permite a migração de bancos de dados do SQL Server, MySQL, PostgreSQL e outros para um banco de dados Google Cloud totalmente gerenciado.
+    
+- Lift and shift: É aqui que os bancos de dados são migrados de ambientes de nuvem no local e privados para o mesmo tipo de banco de dados hospedado por um provedor de nuvem pública, como o Google Cloud.
+
+- Migração de dados gerenciada: permite a migração de bancos de dados do SQL Server, MySQL, PostgreSQL e outros para um banco de dados Google Cloud totalmente gerenciado.
     
 ### Questões
 
