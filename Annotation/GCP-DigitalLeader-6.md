@@ -21,7 +21,7 @@
 
 - Policy: é um conjunto de regras que definem quem pode acessar um recurso e o que a pessoa pode fazer com ele.
 
-Beneficios de controle de acesso a nuvem
+- Beneficios de controle de acesso a nuvem:
     - ela fornece controle de acesso granular, o que significa que você pode atribuir funções e permissões em diferentes níveis da hierarquia, como no nível da pasta, do projeto ou de um recurso individual.
     - Segundo, como a hierarquia de recursos segue regras de herança e propagação, as permissões definidas em níveis superiores são herdadas de modo automático pelos recursos de nível inferior.
     - Terceiro, a hierarquia de recursos aumenta a segurança e a conformidade através de princípios de privilégio mínimo.
