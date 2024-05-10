@@ -40,7 +40,7 @@
   - Confiabilidade
   - Tecnologia sustentavel
 
-- Diferença entre "padrão aberto" e código aberto
+- Diferença entre "padrão aberto" e "código aberto"
   - Padrão aberto: É o software que segue padrões específicos, que qualquer pessoa pode acessar e usar.
   - Código aberto: É o software com código-fonte disponível ao público, e qualquer pessoa pode usar, modificar e compartilhar.
 
@@ -48,13 +48,13 @@
 
 1. O que é considerado uma limitação da infraestrutura no local em comparação à infraestrutura em nuvem?
 
-[] É muito difícil escalonar o processamento devido ao consumo de eletricidade.
+    [ ] É muito difícil escalonar o processamento devido ao consumo de eletricidade.
 
-[] Os encarregados pela manutenção não têm acesso físico aos servidores.
+    [ ] Os encarregados pela manutenção não têm acesso físico aos servidores.
 
-[] A rede no local é mais complicada.
+    [ ] A rede no local é mais complicada.
 
-[x] O processo de aquisição do hardware no local pode levar muito tempo.
+    [x] O processo de aquisição do hardware no local pode levar muito tempo.
 
 2. Com as mudanças no mundo e nos negócios, as organizações precisam escolher entre aderir à nova tecnologia e se transformar, ou manter a tecnologia e as abordagens atuais. Quais são os riscos que uma organização pode enfrentar quando não se transforma para acompanhar a evolução do mercado?
 
