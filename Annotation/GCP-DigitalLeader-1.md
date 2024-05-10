@@ -146,6 +146,8 @@
 
 - Latência: Mede o tempo que um pacote de informações leva para viajar da origem até o destino.
 
+- Largura de banda: métrica de desempenho de rede que indica a quantidade de dados que uma rede pode transferir em determinado período
+
 - Locais - Regiões e Zonas
   - América do norte
   - América do Sul
