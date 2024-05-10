@@ -38,73 +38,73 @@ Beneficios de controle de acesso a nuvem
 
 1. Qual recurso permite definir alertas para quando os custos da nuvem excederem um determinado limite?
 
-Relatórios de faturamento
+    - [ ] Relatórios de faturamento
 
-(X) Regras de limite orçamentário
+    - [x] Regras de limite orçamentário
 
-Previsão de custos
+    - [ ] Previsão de custos
 
-Recomendações de otimização de custos
+    - [ ] Recomendações de otimização de custos
 
 2. Por que é benéfico que a hierarquia de recursos do Google Cloud siga regras de herança e propagação?
 
-Recursos em níveis mais baixos podem melhorar o desempenho dos aplicativos em nuvem.
+    - [ ] Recursos em níveis mais baixos podem melhorar o desempenho dos aplicativos em nuvem.
 
-A propagação mais rápida pode simplificar uma migração para a nuvem.
+    - [ ] A propagação mais rápida pode simplificar uma migração para a nuvem.
 
-(X) As permissões definidas em níveis superiores da hierarquia de recursos são herdadas automaticamente pelos recursos de nível inferior.
+    - [x] As permissões definidas em níveis superiores da hierarquia de recursos são herdadas automaticamente pelos recursos de nível inferior.
 
-A herança na hierarquia reduz o custo geral da computação em nuvem.
+    - [ ] A herança na hierarquia reduz o custo geral da computação em nuvem.
 
 3. Qual termo descreve um hub centralizado dentro de uma organização composto por uma parceria entre finanças, tecnologia e funções de negócios?
 
-Centro de inovação
+    - [ ] Centro de inovação
 
-Centro do hub
+    - [ ] Centro do hub
 
-Centro de excelência
+    - [x] Centro de excelência
 
-Centro de competência
+    - [ ] Centro de competência
 
 4. Qual das opções abaixo oferece um método reativo de monitorar e entender o que você gastou em recursos do Google Cloud e ajuda a otimizar seus custos?
 
-Previsão de custos
+    - [ ] Previsão de custos
 
-Uso de recursos
+    - [ ] Uso de recursos
 
-(X) Relatórios do Cloud Billing
+    - [x] Relatórios do Cloud Billing
 
-Calculadora de preços do Google Cloud
+    - [ ] Calculadora de preços do Google Cloud
 
 5. Qual recurso permite definir limites para a quantidade de recursos que podem ser usados por um projeto ou usuário?
 
-Limites de faturamento
+    - [ ] Limites de faturamento
 
-(X) Políticas de cotas
+    - [x] Políticas de cotas
 
-Relatórios de faturamento
+    - [ ] Relatórios de faturamento
 
-Descontos por compromisso de uso
+    - [ ] Descontos por compromisso de uso
 
 6. Qual ferramenta do Google Cloud permite estimar como as mudanças no uso da nuvem afetarão os custos?
 
-Cloud Trace
+    - [ ] Cloud Trace
 
-(X) Calculadora de preços do Google Cloud
+    - [x] Calculadora de preços do Google Cloud
 
-Cloud Monitoring
+    - [ ] Cloud Monitoring
 
-Cloud Billing
+    - [ ] Cloud Billing
 
 7. O que representa o nível mais baixo na hierarquia de recursos do Google Cloud?
 
-Pastas
+    - [ ] Pastas
 
-Nó da organização
+    - [ ] Nó da organização
 
-(X) Recursos
+    - [x] Recursos
 
-Projetos
+    - [ ] Projetos
 
 ## 2º Módulo - Excelência operacional e confiabilidade em escala
 
@@ -158,93 +158,93 @@ Projetos
 
 1. O pacote de operações do Google Cloud oferece um conjunto abrangente de ferramentas de monitoramento, geração de registros e diagnóstico. Qual ferramenta coleta dados de latência de aplicativos e fornece insights sobre o desempenho deles?
 
-Cloud Profiler
+    - [ ] Cloud Profiler
 
-Cloud Logging
+    - [ ] Cloud Logging
 
-Cloud Monitoring
+    - [ ] Cloud Monitoring
 
-(X) Cloud Trace
+    - [x] Cloud Trace
 
 2. O que a ferramenta Cloud Profiler faz?
 
-(X) Ela identifica quanta energia, memória e outros recursos de CPU um aplicativo usa.
+    - [x] Ela identifica quanta energia, memória e outros recursos de CPU um aplicativo usa.
 
-Ela conta, analisa e agrega as falhas na execução de serviços em nuvem em tempo real.
+    - [ ] Ela conta, analisa e agrega as falhas na execução de serviços em nuvem em tempo real.
 
-Ela fornece uma perspectiva abrangente da sua infraestrutura e aplicativos em nuvem.
+    - [ ] Ela fornece uma perspectiva abrangente da sua infraestrutura e aplicativos em nuvem.
 
-Ela coleta e armazena todos os registros de aplicativos e infraestrutura.
+    - [ ] Ela coleta e armazena todos os registros de aplicativos e infraestrutura.
 
 3. Um dos quatro sinais de outro é a latência. O que a latência mede?
 
-As falhas do sistema ou outros problemas.
+    - [ ] As falhas do sistema ou outros problemas.
 
-Quantas solicitações chegam a um sistema.
+    - [ ] Quantas solicitações chegam a um sistema.
 
-A proximidade de um sistema da capacidade.
+    - [ ] A proximidade de um sistema da capacidade.
 
-(X) Quanto tempo leva para uma parte específica de um sistema retornar um resultado.
+    - [x] Quanto tempo leva para uma parte específica de um sistema retornar um resultado.
 
 4. Como a replicação ajuda no projeto de infraestrutura e processos resilientes e tolerantes a falhas em um ambiente de nuvem?
 
-Ela monitora e controla o tráfego de rede que entra e sai com base em regras de segurança predefinidas.
+    - [ ] Ela monitora e controla o tráfego de rede que entra e sai com base em regras de segurança predefinidas.
 
-Ela duplica componentes ou recursos críticos para fornecer alternativas de backup.
+    - [ ] Ela duplica componentes ou recursos críticos para fornecer alternativas de backup.
 
-(X) Ela cria várias cópias de dados ou serviços e as distribui em diferentes servidores ou locais.
+    - [x] Ela cria várias cópias de dados ou serviços e as distribui em diferentes servidores ou locais.
 
-Ela dimensiona a infraestrutura para lidar com diversas cargas de trabalho e acomodar o aumento da demanda.
+    - [ ] Ela dimensiona a infraestrutura para lidar com diversas cargas de trabalho e acomodar o aumento da demanda.
 
 5. Qual métrica mostra o desempenho de um sistema ou serviço?
 
-(X) Indicadores de nível de serviço
+    - [x] Indicadores de nível de serviço
 
-Contratos de nível de serviço
+    - [ ] Contratos de nível de serviço
 
-Acordos de nível de serviço
+    - [ ] Acordos de nível de serviço
 
-Objetivos de nível de serviço
+    - [ ] Objetivos de nível de serviço
 
 6. De quem é a função de garantir a confiabilidade, disponibilidade e eficiência dos sistemas e serviços de software implantados na nuvem?
 
-Engenheiro de segurança em nuvem
+    - [ ] Engenheiro de segurança em nuvem
 
-Cloud Architect
+    - [ ] Cloud Architect
 
-(X) Engenheiro de confiabilidade do site
+    - [x] Engenheiro de confiabilidade do site
 
-Engenheiro de DevOps
+    - [ ] Engenheiro de DevOps
 
 7. Quais destas medidas devem ser automatizadas com frequência e armazenadas em locais geograficamente separados para permitir a rápida recuperação de desastres ou falhas?
 
-Arquivos de registro
+    - [ ] Arquivos de registro
 
-Patches de segurança
+    - [ ] Patches de segurança
 
-(X) Backups
+    - [x] Backups
 
-Dados de inventário
+    - [ ] Dados de inventário
 
 8. Por que encaminhar um tíquete de suporte para um supervisor nem sempre é o melhor a se fazer para tentar resolver um problema?
 
-Isso pode diminuir o número de máquinas virtuais disponíveis.
+    - [ ] Isso pode diminuir o número de máquinas virtuais disponíveis.
 
-Isso pode aumentar o custo mensal dos planos de suporte.
+    - [ ] Isso pode aumentar o custo mensal dos planos de suporte.
 
-(X) Isso pode atrapalhar o fluxo de trabalho da equipe de atendimento ao cliente e atrasar a resolução de outros casos.
+    - [x] Isso pode atrapalhar o fluxo de trabalho da equipe de atendimento ao cliente e atrasar a resolução de outros casos.
 
-Isso pode resultar no aumento do consumo de energia, impactando a neutralidade de carbono.
+    - [ ] Isso pode resultar no aumento do consumo de energia, impactando a neutralidade de carbono.
 
 9. Qual nível de suporte do Google Cloud Customer Care foi desenvolvido para empresas com cargas de trabalho críticas e apresenta o tempo de resposta mais rápido?
 
-Suporte Avançado
+    - [ ] Suporte Avançado
 
-Suporte Básico
+    - [ ] Suporte Básico
 
-(X) Suporte Premium
+    - [x] Suporte Premium
 
-Suporte Padrão
+    - [ ] Suporte Padrão
 
 ## 3º módulo - Sustentabilidade com o Google Cloud
 
