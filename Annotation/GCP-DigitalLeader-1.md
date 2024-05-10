@@ -116,7 +116,7 @@
 
     - [ ] Software como serviço
 
-9. Selecione dois recursos que compõem a base de uma nuvem de transformação. Selecione duas respostas corretas.
+8. Selecione dois recursos que compõem a base de uma nuvem de transformação. Selecione duas respostas corretas.
 
     - [ ] Uma rede confiável dá o controle de todos os recursos ao usuário para garantir a alta disponibilidade sempre.
 
@@ -128,15 +128,15 @@
 
     - [x] Com a infraestrutura aberta, você tem liberdade para inovar porque pode executar os aplicativos no local mais adequado.
 
-10. Qual item descreve um objetivo de uma organização que busca a transformação digital?
+9. Qual item descreve um objetivo de uma organização que busca a transformação digital?
 
-    - [] Reduce emissions by using faster networks in their on-premises workloads.
+    - [ ] Reduce emissions by using faster networks in their on-premises workloads.
 
     - [x] Break down data silos and generate real time insights.
 
-    - [] Streamline their hardware procurement process to forecast at least a quarter into the future.
+    - [ ] Streamline their hardware procurement process to forecast at least a quarter into the future.
 
-    - [] Ensure better security by decoupling teams and their data.
+    - [ ] Ensure better security by decoupling teams and their data.
 
 ## 2º Módulo - Conceitos fundamentais da nuvem
 
