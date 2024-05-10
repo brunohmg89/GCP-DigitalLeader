@@ -260,30 +260,30 @@ Beneficios de controle de acesso a nuvem
 
 1. Os data centers do Google foram os primeiros a conquistar a certificação ISO 14001. Qual é o propósito deste padrão?
 
-É uma estrutura de compras sustentáveis, que é o processo de aquisição de bens e serviços minimizando os impactos ambientais e sociais.
+    - [ ] É uma estrutura de compras sustentáveis, que é o processo de aquisição de bens e serviços minimizando os impactos ambientais e sociais.
 
-É uma estrutura para identificar, prever e avaliar os impactos ambientais de um projeto proposto.
+    - [ ] É uma estrutura para identificar, prever e avaliar os impactos ambientais de um projeto proposto.
 
-É uma estrutura relacionada à pegada de carbono que calcula a quantidade total de emissões de gases de efeito estufa associadas a um produto, serviço ou organização.
+    - [ ] É uma estrutura relacionada à pegada de carbono que calcula a quantidade total de emissões de gases de efeito estufa associadas a um produto, serviço ou organização.
 
-(X) Ele representa uma estrutura para uma organização melhorar o próprio desempenho ambiental aprimorando a eficiência dos recursos e reduzindo resíduos.
+    - [x] Ele representa uma estrutura para uma organização melhorar o próprio desempenho ambiental aprimorando a eficiência dos recursos e reduzindo resíduos.
 
 2. Qual meta de sustentabilidade o Google pretende alcançar até 2030?
 
-Ser a primeira grande empresa a gerir a própria usina eólica.
+    - [ ] Ser a primeira grande empresa a gerir a própria usina eólica.
 
-Ser a primeira grande empresa a alcançar 100% de energia renovável.
+    - [ ] Ser a primeira grande empresa a alcançar 100% de energia renovável.
 
-(X) Ser a primeira grande empresa a operar totalmente livre de carbono.
+    - [x] Ser a primeira grande empresa a operar totalmente livre de carbono.
 
-Ser a primeira grande empresa a ser neutra em carbono.
+    - [ ] Ser a primeira grande empresa a ser neutra em carbono.
 
 3. Kaluza é uma solução de carregamento inteligente para veículos elétricos. Como ela usa o BigQuery e o Looker Studio?
 
-Ela usa o BigQuery e Looker Studio para conteinerizar cargas de trabalho.
+    - [ ] Ela usa o BigQuery e Looker Studio para conteinerizar cargas de trabalho.
 
-Ela usa o BigQuery e Looker Studio para criar e implantar modelos de machine learning.
+    - [ ] Ela usa o BigQuery e Looker Studio para criar e implantar modelos de machine learning.
 
-(X) Ela usa o BigQuery e Looker Studio para criar painéis com insights operacionais granulares.
+    - [x] Ela usa o BigQuery e Looker Studio para criar painéis com insights operacionais granulares.
 
-Ela usa o BigQuery e Looker Studio para cumprir regulamentações governamentais.
+    - [ ] Ela usa o BigQuery e Looker Studio para cumprir regulamentações governamentais.
