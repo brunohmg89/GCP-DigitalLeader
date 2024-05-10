@@ -16,7 +16,7 @@
 
 - Dados
     - Dados próprios: são conjuntos de dados dos clientes reservados que uma empresa coleta do cliente ou de interações ou transações com o público.
-    - Dados secundários: geralmente são dados próprios de outra organização, como um parceiro
+    - Dados secundários: geralmente são dados próprios de outra organização, como um parceiro.
     - Dados de terceiros: que são conjuntos de dados coletados e gerenciados por organizações que não interagem diretamente com os negócios nem com os clientes de uma organização.
 
 - Linha de dados
@@ -33,101 +33,101 @@
 
 1. Qual o repositório criado para ingerir, armazenar, explorar, processar e analisar qualquer tipo ou volume de dados brutos, independentemente da origem?
 
-() Arquivo de dados
+    - [ ] Arquivo de dados
 
-(X) Data lake
+    - [x] Data lake
 
-() Banco de dados
+    - [ ] Banco de dados
 
-() Data warehouse
+    - [ ] Data warehouse
 
 2. Qual opção representa os conjuntos de dados reservados que a empresa coleta das interações e transações com clientes ou público-alvo?
 
-() Dados secundários
+    - [ ] Dados secundários
 
-() Dados de terceiros
+    - [ ] Dados de terceiros
 
-(X) Dados próprios
+    - [x] Dados próprios
 
 3. Novas ferramentas da nuvem ajudam a aproveitar o potencial dos dados não estruturados. Qual caso de uso abaixo melhor demonstra isso?
 
-() Analisar os valores dos históricos de vendas para prever tendências futuras
+    - [ ] Analisar os valores dos históricos de vendas para prever tendências futuras
 
-() Usar coordenadas de GPS para criar um app de caronas
+    - [ ] Usar coordenadas de GPS para criar um app de caronas
 
-() Criar visualizações usando dados climáticos sazonais
+    - [ ] Criar visualizações usando dados climáticos sazonais
 
-(X) Analisar postagens de redes sociais para identificar o sentimento associado a uma marca
+    - [x] Analisar postagens de redes sociais para identificar o sentimento associado a uma marca
 
 4. Os dados brutos coletados são convertidos para uma forma que possibilita a extração de insights em qual dessas etapas da cadeia de valor dos dados?
 
-() Análise de dados
+    - [ ] Análise de dados
 
-(X) Processamento de dados
+    - [x] Processamento de dados
 
-() Gênese de dados
+    - [ ] Gênese de dados
 
-() Armazenamento de dados
+    - [ ] Armazenamento de dados
 
 5. Uma loja on-line usa uma ferramenta de análises inteligentes para ingerir dados de comportamento do cliente em tempo real e, com isso, mostrar sugestões aprimoradas para alguns usuários. Como o machine learning pode ajudar nisso?
 
-() O machine learning pode ser usado para recomendar os mesmos produtos para todos os usuários, independentemente das preferências ou comportamentos deles.
+    - [ ] O machine learning pode ser usado para recomendar os mesmos produtos para todos os usuários, independentemente das preferências ou comportamentos deles.
 
-(X) Com o machine learning, cada clique do usuário aprimora a personalização da experiência no site.
+    - [x] Com o machine learning, cada clique do usuário aprimora a personalização da experiência no site.
 
-() O machine learning pode ajudar a identificar o comportamento do usuário em tempo real, mas não faz sugestões personalizadas com base em dados.
+    - [ ] O machine learning pode ajudar a identificar o comportamento do usuário em tempo real, mas não faz sugestões personalizadas com base em dados.
 
-() Com o machine learning, as transações do cartão de crédito do usuário podem ser analisadas para identificar as compras comuns.
+    - [ ] Com o machine learning, as transações do cartão de crédito do usuário podem ser analisadas para identificar as compras comuns.
 
 6. Uma empresa de energia solar quer analisar dados meteorológicos para entender o impacto sazonal nos negócios. Em qual plataforma é possível encontrar conjuntos de dados climáticos gratuitos?
 
-(X) Google Cloud Marketplace
+    - [x] Google Cloud Marketplace
 
-() Console do Google Cloud
+    - [ ] Console do Google Cloud
 
-() Google Play
+    - [ ] Google Play
 
-() App Engine
+    - [ ] App Engine
 
-7. O que é governança de dados? ERRADO
+7. O que é governança de dados?
 
-() É o processo de analisar dados para receber insights e tomar decisões fundamentadas
+    - [ ] É o processo de analisar dados para receber insights e tomar decisões fundamentadas
 
-() É o processo de configurar as políticas de dados internas e garantir a conformidade com padrões externos
+    - [x] É o processo de configurar as políticas de dados internas e garantir a conformidade com padrões externos
 
-(X) É o processo de coletar e armazenar dados para uso futuro
+    - [ ] É o processo de coletar e armazenar dados para uso futuro
 
-() É o processo de excluir dados desnecessários para economizar espaço de armazenamento
+    - [ ] É o processo de excluir dados desnecessários para economizar espaço de armazenamento
 
 8. Qual tipo de dado é altamente organizado e bem definido?
 
-(X) Dados estruturados
+    - [x] Dados estruturados
 
-() Dados não estruturados
+    - [ ] Dados não estruturados
 
-() Dados semiestruturados
+    - [ ] Dados semiestruturados
 
-() Um híbrido de dados estruturados, semiestruturados e não estruturados
+    - [ ] Um híbrido de dados estruturados, semiestruturados e não estruturados
 
 9. Qual é a solução de armazenamento em data warehouse moderna e sem servidor do Google Cloud?
 
-() Compute Engine
+    - [ ] Compute Engine
 
-(X) BigQuery
+    - [x] BigQuery
 
-() Cloud Storage
+    - [ ] Cloud Storage
 
-() Vertex AI
+    - [ ] Vertex AI
 
 10. Uma empresa de seguro para carros tem um grande banco de dados que armazena informações dos clientes, incluindo os veículos e acionamentos anteriores. A estrutura do banco de dados mostra que a informação é armazenada em tabelas, linhas e colunas. Que tipo de banco de dados é este?
 
-(X) Um banco de dados relacional
+    - [x] Um banco de dados relacional
 
-() Um banco de dados de objetos
+    - [ ] Um banco de dados de objetos
 
-() Um banco de dados não relacional
+    - [ ] Um banco de dados não relacional
 
-() Um banco de dados XML
+    - [ ] Um banco de dados XML
 
 ## 2º Módulo - Soluções de gerenciamento de dados do Google Cloud
 
