@@ -43,63 +43,63 @@
 
 1. Qual plataforma de código aberto desenvolvida originalmente pelo Google administra serviços e cargas de trabalho conteinerizados?
 
-TensorFlow
+    - [ ] TensorFlow
 
-(X) Kubernetes
+    - [x] Kubernetes
 
-Go
+    - [ ] Go
 
-Angular
+    - [ ] Angular
 
 2. Qual das opções abaixo se refere ao processo em que uma carga de trabalho é reospedada sem mudar nada no código ou na arquitetura da carga?
 
-Migrar e aprimorar
+    - [ ] Migrar e aprimorar
 
-Refatorar e remodelar
+    - [ ] Refatorar e remodelar
 
-(X) Fazer uma migração lift-and-shift
+    - [x] Fazer uma migração lift-and-shift
 
-Reimaginar e planejar
+    - [ ] Reimaginar e planejar
 
 3. Qual parte de uma máquina um contêiner virtualiza?
 
-Camadas de software acima do nível do firmware
+    - [ ] Camadas de software acima do nível do firmware
 
-(X) Camadas de software acima do nível do sistema operacional
+    - [x] Camadas de software acima do nível do sistema operacional
 
-Camadas de hardware acima do nível elétrico
+    - [ ] Camadas de hardware acima do nível elétrico
 
-Toda a máquina
+    - [ ] Toda a máquina
 
 4. Qual opção de computação provisiona automaticamente em segundo plano os recursos, como a capacidade de computação, conforme necessário?
 
-IaaS (infraestrutura como serviço)
+    - [ ] IaaS (infraestrutura como serviço)
 
-PaaS (plataforma como serviço)
+    - [ ] PaaS (plataforma como serviço)
 
-Computação tradicional no local
+    - [ ] Computação tradicional no local
 
-(X) Computação sem servidor
+    - [x] Computação sem servidor
 
 5. Uma empresa de viagens está nas etapas iniciais do desenvolvimento de um novo aplicativo, e ela quer testar o app com diferentes combinações de sistemas operacionais, processadores e opções de armazenamento. Qual recurso de computação em nuvem a empresa deve usar?
 
-Contêineres
+    - [ ] Contêineres
 
-(X) Instâncias de máquina virtual
+    - [x] Instâncias de máquina virtual
 
-Colocation
+    - [ ] Colocation
 
-Um ambiente de desenvolvimento local
+    - [ ] Um ambiente de desenvolvimento local
 
 6. Uma empresa de manufatura está querendo migrar a infraestrutura local dela para a nuvem, mas a organização acredita que o acesso aos dados e aplicativos pode ficar indisponível em momentos importantes. A empresa quer garantir que se um data center ficar inativo, outro vai estar disponível para evitar a interrupção do serviço. O que essa empresa está buscando?
 
-Segurança
+    - [ ] Segurança
 
-(X) Confiabilidade
+    - [x] Confiabilidade
 
-Custo total de propriedade
+    - [ ] Custo total de propriedade
 
-Flexibilidade
+    - [ ] Flexibilidade
 
 ## 2º módulo - Como modernizar aplicativos na nuvem
 
@@ -120,101 +120,101 @@ Flexibilidade
 
 1. Qual é o nome do serviço de gerenciamento de APIs do Google Cloud que pode operar APIs com mais escala, segurança e automação?
 
-App Engine
+    - [ ] App Engine
 
-(X) Apigee
+    - [x] Apigee
 
-Cloud API Manager
+    - [ ] Cloud API Manager
 
-AppSheet
+    - [ ] AppSheet
 
 2. No desenvolvimento moderno de aplicativos na nuvem, que nome é dado aos componentes sustentáveis, escalonáveis e implantados de forma independente que podem ser usados para criar vários tipos de aplicativos?
 
-Contêineres
+    - [ ] Contêineres
 
-Monolíticos
+    - [ ] Monolíticos
 
-DevOps
+    - [ ] DevOps
 
-(X) Microsserviços
+    - [x] Microsserviços
 
 3. Qual é o nome da plataforma do Google Cloud pronta para produção e execução de aplicativos do Kubernetes em vários ambientes de nuvem?
 
-Knative
+    - [ ] Knative
 
-(X) GKE Enterprise
+    - [x] GKE Enterprise
 
-Container Registry
+    - [ ] Container Registry
 
-Google Kubernetes Engine
+    - [ ] Google Kubernetes Engine
 
 4. Qual das opções abaixo é usada com frequência para descrever uma estratégia de migração de reospedagem para uma organização que executa aplicativos legados especializados que não são compatíveis com apps nativos da nuvem?
 
-Migrar e aprimorar
+    - [ ] Migrar e aprimorar
 
-Fazer a instalação e queda
+    - [ ] Fazer a instalação e queda
 
-(X) Fazer uma migração lift-and-shift
+    - [x] Fazer uma migração lift-and-shift
 
-Criar e implantar
+    - [ ] Criar e implantar
 
 5. No desenvolvimento moderno de aplicativos, qual das opções abaixo é responsável pelo gerenciamento diário da infraestrutura baseada na nuvem, como aplicar patches, lançar upgrades e fazer o monitoramento?
 
-Segurança na nuvem
+    - [ ] Segurança na nuvem
 
-(X) Serviços gerenciados
+    - [x] Serviços gerenciados
 
-Contêineres
+    - [ ] Contêineres
 
-DevOps
+    - [ ] DevOps
 
 6. Qual termo descreve um conjunto de instruções que permite que programas de software diferentes se comuniquem entre si?
 
-Interface de programação de rede
+    - [ ] Interface de programação de rede
 
-Link de comunicação de programação
+    - [ ] Link de comunicação de programação
 
-Interface do link de comunicação
+    - [ ] Interface do link de comunicação
 
-(X) Interface de programação do aplicativo
+    - [x] Interface de programação do aplicativo
 
 7. Qual das opções abaixo é uma solução de infraestrutura em nuvem totalmente gerenciada que permite que as organizações executem as cargas de trabalho da Oracle em servidores dedicados na nuvem?
 
-App Engine
+    - [ ] App Engine
 
-SQL Server no Google Cloud
+    - [ ] SQL Server no Google Cloud
 
-Google Cloud VMware Engine
+    - [ ] Google Cloud VMware Engine
 
-(X) Solução Bare Metal
+    - [x] Solução Bare Metal
 
 8. Qual nome é dado a um ambiente em que uma organização usa mais de um provedor de nuvem pública como parte da arquitetura?
 
-Nuvem comunitária
+    - [ ] Nuvem comunitária
 
-Nuvem híbrida
+    - [ ] Nuvem híbrida
 
-(X) Multicloud
+    - [x] Multicloud
 
-Nuvem de borda
+    - [ ] Nuvem de borda
 
 9. Como as organizações podem criar novas fontes de receita usando APIs?
 
-Usando APIs para rastrear os envios dos clientes
+    - [ ] Usando APIs para rastrear os envios dos clientes
 
-(X) Cobrando aos desenvolvedores pelo acesso às APIs
+    - [x] Cobrando aos desenvolvedores pelo acesso às APIs
 
-Desenvolvendo novos produtos e serviços internamente
+    - [ ] Desenvolvendo novos produtos e serviços internamente
 
-Permitindo que os desenvolvedores acessem os dados deles gratuitamente
+    - [ ] Permitindo que os desenvolvedores acessem os dados deles gratuitamente
 
 10. Qual nome é dado a um ambiente que tem uma combinação de infraestrutura local ou em uma nuvem privada e serviços da nuvem pública?
 
-Nuvem segura
+    - [ ] Nuvem segura
 
-Nuvem inteligente
+    - [ ] Nuvem inteligente
 
-Multicloud
+    - [ ] Multicloud
 
-(X) Nuvem híbrida
+    - [x] Nuvem híbrida
 
