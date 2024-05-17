@@ -1,0 +1,85 @@
+# Digital Leader
+
+Reference (1): <https://certsqa.com/questions/?exam=Cloud-Digital-Leader/>
+Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
+
+## Questions
+
+1. You are migrating workloads to the cloud. The goal of the migration is to serve customers worldwide as quickly as possible According to local regulations, certain data is required to be stored in a specific geographic area, and it can be served worldwide. You need to design the architecture and deployment for your workloads. What should you do?
+
+    - [ ] Select a public cloud provider that is only active in the required geographic area
+    - [ ]  Select a private cloud provider that globally replicates data storage for fast data access
+    - [x] Select a public cloud provider that guarantees data location in the required geographic area
+    - [ ] Select a private cloud provider that is only active in the required geographic area
+
+    **Explanation:** The goal of the migration is to serve customers worldwide as quickly as possible According to local regulations, certain data is required to be stored in a specific geographic area, and it can be served worldwide" This characteristic are inherent to the public cloud provider
+
+2. Your organization needs a large amount of extra computing power within the next two weeks. After those two weeks, the need for the additional resources will end. Which is the most cost-effective approach?
+
+    - [ ] Use a committed use discount to reserve a very powerful virtual machine
+    - [ ] Purchase one very powerful physical computer
+    - [x] Start a very powerful virtual machine without using a committed use discount
+    - [ ] Purchase multiple physical computers and scale workload across them
+
+    **Explanation:** When you purchase a committed use contract, you purchase Compute Engine resources—such as vCPUs, memory, GPUs, local SSDs, and sole-tenant nodes—at a discounted price in return for committing to paying for those resources for 1 year or 3 years
+
+3. Your organization needs to plan its cloud infrastructure expenditures. Which should your organization do?
+
+    - [x] Review cloud resource costs frequently, because costs change often based on use
+    - [ ] Review cloud resource costs annually as part of planning your organization’s overall budget
+    - [ ] If your organization uses only cloud resources, infrastructure costs are no longer part of your overall budget
+    - [ ] Involve fewer people in cloud resource planning than your organization did for on-premises resource planning
+
+    **Explanation:** Review cloud resource costs frequently, because costs change often based on use because One need to know current usage/ trend for planning; While public cloud eliminates capex, and gets into pay as you go model, the usage pattern determines the cloud cost and hence needs to be measured frequently to enable better forecast
+
+4. The operating systems of some of your organization’s virtual machines may have a security vulnerability. How can your organization most effectively identify all virtual machines that do not have the latest security update?
+
+    - [x] View the Security Command Center to identify virtual machines running vulnerable disk images
+    - [ ] View the Compliance Reports Manager to identify and download a recent PCI audit
+    - [ ] View the Security Command Center to identify virtual machines started more than 2 weeks ago
+    - [ ] View the Compliance Reports Manager to identify and download a recent SOC 1 audit
+
+    **Explanation:** Security Health Analytics and Web Security Scanner detectors generate vulnerabilities findings that are available in Security Command Center. Your ability to view and edit findings is determined by the Identity and Access Management (IAM) roles and permissions you are assigned. For more information about IAM roles in Security Command Center.
+
+5. You are currently managing workloads running on Windows Server for which your company owns the licenses. Your workloads are only needed during working hours, which allows you to shut down the instances during the weekend. Your Windows Server licenses are up for renewal in a month, and you want to optimize your license cost. What should you do?
+
+    - [ ] Renew your licenses for an additional period of 3 years. Renew your licenses for an additional period of 3 years. Negotiate a cost reduction with your current hosting provider wherein infrastructure cost is reduced when workloads are not in use
+    - [ ] Renew your licenses for an additional period of 2 years. Negotiate a cost reduction by committing to an automatic renewal of the licenses at the end of the 2 year period
+    - [ ] Migrate the workloads to Compute Engine with a bring-your-own-license (BYOL) model
+    - [x] Migrate the workloads to Compute Engine with a pay-as-you-go (PAYG) model
+
+    **Explanation:** The PAYG model is more convenient because you only pay for usage. And the case describes that the workloads are only run on certain days.
+
+6. Your team is publishing research results and needs to make large amounts of data available to other researchers within the professional community and the public at minimum cost. How should you host the data?
+
+    - [x] Use a Cloud Storage bucket and enable Requester Pays.
+    - [ ] Use a Cloud Storage bucket and provide Signed URLs for the data files.
+    - [ ] Use a Cloud Storage bucket and set up a Cloud Interconnect connection to allow access to the data.
+    - [ ] Host the data on-premises, and set up a Cloud Interconnect connection to allow access to the data.
+
+    **Explanation:** Whenever a user accesses a Cloud Storage resource such as a bucket or object, there are charges associated with making and executing the request. Normally, the project owner of the resource is billed for these charges; however, if the requester provides a billing project with their request, the requester's project is billed instead. With Requester Pays enabled on your bucket, you can require requesters to include a billing project in their requests, thus billing the requester's project. Enabling Requester Pays is useful, for example, if you have a lot of data you want to make available to users, but you don't want to be charged for their access to that data.
+
+7. Your company needs to segment Google Cloud resources used by each team from the others. The teams' efforts are changing frequently, and you need to reduce operational risk and maintain cost visibility. Which approach does Google recommend?
+
+    - [x] One project per team.
+    - [ ] One organization per team.
+    - [ ] One project that contains all of each team's resources.
+    - [ ] One top-level folder per team.
+
+8. How do Migrate for Compute Engine and Migrate for Anthos differ?
+
+    - [ ] Unlike Migrate for Anthos, Migrate for Compute Engine assumes that the migration source is VMware vSphere.
+    - [ ] Migrate for Compute Engine charges for ingress, but Migrate for Anthos does not.
+    - [ ] Migrate for Compute Engine is closed source, and Migrate for Anthos is open source.
+    - [x] Migrate for Anthos migrates to containers, and Migrate for Compute Engine migrates to virtual machines.
+
+    **Explanation:** Use Migrate to Containers to modernize traditional applications away from virtual machine (VM) instances and into native containers that run on Google Kubernetes Engine (GKE) or Cloud Run platform.
+
+9. Your large and frequently changing organization's user information is stored in an on-premises LDAP database. The database includes user passwords and group and organization membership. How should your organization provision Google accounts and groups to access Google Cloud resources?
+
+    - [ ] Replicate the LDAP infrastructure on Compute Engine
+    - [ ] Use the Firebase Authentication REST API to create users
+    - [x] Use Google Cloud Directory Sync to create users
+    - [ ] Use the Identity Platform REST API to create users
+
+    **Explanation:** You can run a single instance of Google Cloud Directory Sync to synchronize user accounts and groups to Google Cloud.

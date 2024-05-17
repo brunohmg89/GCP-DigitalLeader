@@ -1,5 +1,7 @@
 # Digital Leader
 
+Reference: <https://www.examtopics.com/exams/google/>
+
 ## Questions
 
 1. Your organization needs to build streaming data pipelines. You don't want to manage the individual servers that do the data processing in the pipelines. Instead, you want a managed service that will automatically scale with the amount of data to be processed. Which Google Cloud product or feature should your organization choose?

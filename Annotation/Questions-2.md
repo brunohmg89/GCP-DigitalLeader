@@ -1,5 +1,7 @@
 # Digital Leader
 
+Reference: <https://www.examtopics.com/exams/google/>
+
 ## Questions
 
 1. You are migrating workloads to the cloud. The goal of the migration is to serve customers worldwide as quickly as possible According to local regulations, certain data is required to be stored in a specific geographic area, and it can be served worldwide. You need to design the architecture and deployment for your workloads. What should you do?

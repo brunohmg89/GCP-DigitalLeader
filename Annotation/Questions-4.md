@@ -1,5 +1,7 @@
 # Digital Leader
 
+Reference: <https://www.examtopics.com/exams/google/>
+
 ## Questions
 
 1. Your organization is developing and deploying an application on Google Cloud. Tracking your Google Cloud spending needs to stay as simple as possible. What should you do to ensure that workloads in the development environment are fully isolated from production workloads?
