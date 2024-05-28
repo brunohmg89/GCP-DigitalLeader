@@ -58,11 +58,11 @@
 
 2. Selecione a definição de transformação digital.
 
-    :x: Quando uma organização usa novas tecnologias digitais para criar ou modificar os modelos financeiros de administração da empresa.
+    :white_square_button: Quando uma organização usa novas tecnologias digitais para criar ou modificar os modelos financeiros de administração da empresa.
 
-    :x: Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais no local.
+    :white_square_button: Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais no local.
 
-    :x: Quando uma organização usa novas tecnologias digitais para criar ou modificar a infraestrutura tecnológica com foco na redução de custo.
+    :white_square_button: Quando uma organização usa novas tecnologias digitais para criar ou modificar a infraestrutura tecnológica com foco na redução de custo.
 
     :white_check_mark: Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais, a cultura corporativa e experiências do cliente.
 
