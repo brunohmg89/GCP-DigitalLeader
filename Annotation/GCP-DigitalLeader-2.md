@@ -33,101 +33,101 @@
 
 1. Qual o repositório criado para ingerir, armazenar, explorar, processar e analisar qualquer tipo ou volume de dados brutos, independentemente da origem?
 
-    - [ ] Arquivo de dados
+    :black_large_square: Arquivo de dados
 
-    - [x] Data lake
+    :white_check_mark: Data lake
 
-    - [ ] Banco de dados
+    :black_large_square: Banco de dados
 
-    - [ ] Data warehouse
+    :black_large_square: Data warehouse
 
 2. Qual opção representa os conjuntos de dados reservados que a empresa coleta das interações e transações com clientes ou público-alvo?
 
-    - [ ] Dados secundários
+    :black_large_square: Dados secundários
 
-    - [ ] Dados de terceiros
+    :black_large_square: Dados de terceiros
 
-    - [x] Dados próprios
+    :white_check_mark: Dados próprios
 
 3. Novas ferramentas da nuvem ajudam a aproveitar o potencial dos dados não estruturados. Qual caso de uso abaixo melhor demonstra isso?
 
-    - [ ] Analisar os valores dos históricos de vendas para prever tendências futuras
+    :black_large_square: Analisar os valores dos históricos de vendas para prever tendências futuras
 
-    - [ ] Usar coordenadas de GPS para criar um app de caronas
+    :black_large_square: Usar coordenadas de GPS para criar um app de caronas
 
-    - [ ] Criar visualizações usando dados climáticos sazonais
+    :black_large_square: Criar visualizações usando dados climáticos sazonais
 
-    - [x] Analisar postagens de redes sociais para identificar o sentimento associado a uma marca
+    :white_check_mark: Analisar postagens de redes sociais para identificar o sentimento associado a uma marca
 
 4. Os dados brutos coletados são convertidos para uma forma que possibilita a extração de insights em qual dessas etapas da cadeia de valor dos dados?
 
-    - [ ] Análise de dados
+    :black_large_square: Análise de dados
 
-    - [x] Processamento de dados
+    :white_check_mark: Processamento de dados
 
-    - [ ] Gênese de dados
+    :black_large_square: Gênese de dados
 
-    - [ ] Armazenamento de dados
+    :black_large_square: Armazenamento de dados
 
 5. Uma loja on-line usa uma ferramenta de análises inteligentes para ingerir dados de comportamento do cliente em tempo real e, com isso, mostrar sugestões aprimoradas para alguns usuários. Como o machine learning pode ajudar nisso?
 
-    - [ ] O machine learning pode ser usado para recomendar os mesmos produtos para todos os usuários, independentemente das preferências ou comportamentos deles.
+    :black_large_square: O machine learning pode ser usado para recomendar os mesmos produtos para todos os usuários, independentemente das preferências ou comportamentos deles.
 
-    - [x] Com o machine learning, cada clique do usuário aprimora a personalização da experiência no site.
+    :white_check_mark: Com o machine learning, cada clique do usuário aprimora a personalização da experiência no site.
 
-    - [ ] O machine learning pode ajudar a identificar o comportamento do usuário em tempo real, mas não faz sugestões personalizadas com base em dados.
+    :black_large_square: O machine learning pode ajudar a identificar o comportamento do usuário em tempo real, mas não faz sugestões personalizadas com base em dados.
 
-    - [ ] Com o machine learning, as transações do cartão de crédito do usuário podem ser analisadas para identificar as compras comuns.
+    :black_large_square: Com o machine learning, as transações do cartão de crédito do usuário podem ser analisadas para identificar as compras comuns.
 
 6. Uma empresa de energia solar quer analisar dados meteorológicos para entender o impacto sazonal nos negócios. Em qual plataforma é possível encontrar conjuntos de dados climáticos gratuitos?
 
-    - [x] Google Cloud Marketplace
+    :white_check_mark: Google Cloud Marketplace
 
-    - [ ] Console do Google Cloud
+    :black_large_square: Console do Google Cloud
 
-    - [ ] Google Play
+    :black_large_square: Google Play
 
-    - [ ] App Engine
+    :black_large_square: App Engine
 
 7. O que é governança de dados?
 
-    - [ ] É o processo de analisar dados para receber insights e tomar decisões fundamentadas
+    :black_large_square: É o processo de analisar dados para receber insights e tomar decisões fundamentadas
 
-    - [x] É o processo de configurar as políticas de dados internas e garantir a conformidade com padrões externos
+    :white_check_mark: É o processo de configurar as políticas de dados internas e garantir a conformidade com padrões externos
 
-    - [ ] É o processo de coletar e armazenar dados para uso futuro
+    :black_large_square: É o processo de coletar e armazenar dados para uso futuro
 
-    - [ ] É o processo de excluir dados desnecessários para economizar espaço de armazenamento
+    :black_large_square: É o processo de excluir dados desnecessários para economizar espaço de armazenamento
 
 8. Qual tipo de dado é altamente organizado e bem definido?
 
-    - [x] Dados estruturados
+    :white_check_mark: Dados estruturados
 
-    - [ ] Dados não estruturados
+    :black_large_square: Dados não estruturados
 
-    - [ ] Dados semiestruturados
+    :black_large_square: Dados semiestruturados
 
-    - [ ] Um híbrido de dados estruturados, semiestruturados e não estruturados
+    :black_large_square: Um híbrido de dados estruturados, semiestruturados e não estruturados
 
 9. Qual é a solução de armazenamento em data warehouse moderna e sem servidor do Google Cloud?
 
-    - [ ] Compute Engine
+    :black_large_square: Compute Engine
 
-    - [x] BigQuery
+    :white_check_mark: BigQuery
 
-    - [ ] Cloud Storage
+    :black_large_square: Cloud Storage
 
-    - [ ] Vertex AI
+    :black_large_square: Vertex AI
 
 10. Uma empresa de seguro para carros tem um grande banco de dados que armazena informações dos clientes, incluindo os veículos e acionamentos anteriores. A estrutura do banco de dados mostra que a informação é armazenada em tabelas, linhas e colunas. Que tipo de banco de dados é este?
 
-    - [x] Um banco de dados relacional
+    :white_check_mark: Um banco de dados relacional
 
-    - [ ] Um banco de dados de objetos
+    :black_large_square: Um banco de dados de objetos
 
-    - [ ] Um banco de dados não relacional
+    :black_large_square: Um banco de dados não relacional
 
-    - [ ] Um banco de dados XML
+    :black_large_square: Um banco de dados XML
 
 ## 2º Módulo - Soluções de gerenciamento de dados do Google Cloud
 
