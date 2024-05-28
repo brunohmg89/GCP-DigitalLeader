@@ -130,13 +130,13 @@
 
 9. Qual item descreve um objetivo de uma organização que busca a transformação digital?
 
-  - :x: Reduza as emissões usando redes mais rápidas em suas cargas de trabalho locais.
+    :x: Reduza as emissões usando redes mais rápidas em suas cargas de trabalho locais.
 
-  - :white_check_mark: Elimine silos de dados e gere insights em tempo real.
+    :white_check_mark: Elimine silos de dados e gere insights em tempo real.
 
-  - :x: Simplifique o processo de aquisição de hardware para prever pelo menos um quarto no futuro.
+    :x: Simplifique o processo de aquisição de hardware para prever pelo menos um quarto no futuro.
 
-  - :x: Garanta melhor segurança dissociando as equipes e seus dados.
+    :x: Garanta melhor segurança dissociando as equipes e seus dados.
 
 ## 2º Módulo - Conceitos fundamentais da nuvem
 
