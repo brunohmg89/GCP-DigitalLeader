@@ -130,13 +130,13 @@
 
 9. Qual item descreve um objetivo de uma organização que busca a transformação digital?
 
-    - [ ] Reduce emissions by using faster networks in their on-premises workloads.
+    - [ ] Reduza as emissões usando redes mais rápidas em suas cargas de trabalho locais.
 
-    - [x] Break down data silos and generate real time insights.
+    - [:white_check_mark] Elimine silos de dados e gere insights em tempo real.
 
-    - [ ] Streamline their hardware procurement process to forecast at least a quarter into the future.
+    - [ ] Simplifique o processo de aquisição de hardware para prever pelo menos um quarto no futuro.
 
-    - [ ] Ensure better security by decoupling teams and their data.
+    - [ ] Garanta melhor segurança dissociando as equipes e seus dados.
 
 ## 2º Módulo - Conceitos fundamentais da nuvem
 
