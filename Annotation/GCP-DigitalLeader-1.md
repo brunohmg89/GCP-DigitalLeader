@@ -209,19 +209,15 @@
 
 ## 3º Módulo - Modelos de computação em nuvem e responsabilidade compartilhada
 
-  - IaaS: Oferece recursos de infraestrutura, como computação e armazenamento.
-  - PaaS: Oferece um ambiente de desenvolvimento e implantação para criar apps na nuvem.
-  - SaaS: Entrega aplicativos completos como serviços.
-
-- IaaS: Exemplos Compute Engine e Cloud Storage
+- IaaS: Oferece recursos de infraestrutura, como computação e armazenamento. Exemplos Compute Engine e Cloud Storage
   - Recursos utilizados sob demanda e só paga pelo que usa, custos previsiveis e faceis de orçar.
   - Flexivel e escalonavel
 
-- PaaS: Exemplos BigQuery e Cloud Run
+- PaaS: Oferece um ambiente de desenvolvimento e implantação para criar apps na nuvem. Exemplos BigQuery e Cloud Run
   - Redução de tempo de desenvolvimento por parte dos desenvolvedores
   - Escalonavel
 
-- SaaS: Exemplos, ferramentas do Workspace como Gmail, google drive
+- SaaS: Entrega aplicativos completos como serviços. Exemplos, ferramentas do Workspace como Gmail, google drive
   - Abstrai completamente a infra utilizada, paga uma taxa ao software e abra ele em um navegador sem a necessidade de instalação nos computadores
 
 ### Questões
