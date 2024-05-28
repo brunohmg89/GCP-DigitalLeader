@@ -52,9 +52,9 @@
 
     :white_check_mark: Ela é escalonável, então a organização pode reduzir o tempo de implantação da infraestrutura.
 
-    :white_square_button: Ela é segura, então a organização não vai se preocupar com os dados dos novos assinantes.
+    :black_large_square: Ela é segura, então a organização não vai se preocupar com os dados dos novos assinantes.
 
-    :white_large_square: Ela oferece acesso físico, então a organização vai implantar servidores com mais rapidez.
+    :black_large_square: Ela oferece acesso físico, então a organização vai implantar servidores com mais rapidez.
 
 2. Selecione a definição de transformação digital.
 
