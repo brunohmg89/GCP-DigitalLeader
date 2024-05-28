@@ -48,95 +48,95 @@
 
 1. Uma organização lançou um novo aplicativo, e a infraestrutura no local não está conseguindo acompanhar o aumento nas assinaturas de usuários. Qual benefício da nuvem ajudaria nessa situação?
 
-    - [ ] Ela é econômica, então a organização não vai mais precisar pagar por computação quando o app estiver na nuvem.
+  - [ ] Ela é econômica, então a organização não vai mais precisar pagar por computação quando o app estiver na nuvem.
 
-    - [x] Ela é escalonável, então a organização pode reduzir o tempo de implantação da infraestrutura.
+  - [x] Ela é escalonável, então a organização pode reduzir o tempo de implantação da infraestrutura.
 
-    - [ ] Ela é segura, então a organização não vai se preocupar com os dados dos novos assinantes.
+  - [ ] Ela é segura, então a organização não vai se preocupar com os dados dos novos assinantes.
 
-    - [ ] Ela oferece acesso físico, então a organização vai implantar servidores com mais rapidez.
+  - [ ] Ela oferece acesso físico, então a organização vai implantar servidores com mais rapidez.
 
 2. Selecione a definição de transformação digital.
 
-    - [ ] Quando uma organização usa novas tecnologias digitais para criar ou modificar os modelos financeiros de administração da empresa.
+  - [ ] Quando uma organização usa novas tecnologias digitais para criar ou modificar os modelos financeiros de administração da empresa.
 
-    - [ ] Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais no local.
+  - [ ] Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais no local.
 
-    - [ ] Quando uma organização usa novas tecnologias digitais para criar ou modificar a infraestrutura tecnológica com foco na redução de custo.
+  - [ ] Quando uma organização usa novas tecnologias digitais para criar ou modificar a infraestrutura tecnológica com foco na redução de custo.
 
-    - [x] Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais, a cultura corporativa e experiências do cliente.
+  - [x] Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais, a cultura corporativa e experiências do cliente.
 
 3. O que é considerado uma limitação da infraestrutura no local em comparação à infraestrutura em nuvem?
 
-    - [ ] É muito difícil escalonar o processamento devido ao consumo de eletricidade.
+  - [ ] É muito difícil escalonar o processamento devido ao consumo de eletricidade.
 
-    - [ ] Os encarregados pela manutenção não têm acesso físico aos servidores.
+  - [ ] Os encarregados pela manutenção não têm acesso físico aos servidores.
 
-    - [ ] A rede no local é mais complicada.
+  - [ ] A rede no local é mais complicada.
 
-    - [x] O processo de aquisição do hardware no local pode levar muito tempo.
+  - [x] O processo de aquisição do hardware no local pode levar muito tempo.
 
 4. O que é a nuvem?
 
-    - [ ] Um produto do Google para processar grandes quantidades de dados.
+  - [ ] Um produto do Google para processar grandes quantidades de dados.
 
-    - [ ] Um produto do Google composto por infraestrutura de TI no local.
+  - [ ] Um produto do Google composto por infraestrutura de TI no local.
 
-    - [ ] Uma metáfora que representa a capacidade de rede dos provedores de Internet.
+  - [ ] Uma metáfora que representa a capacidade de rede dos provedores de Internet.
 
-    - [x] Uma metáfora que representa uma rede de data centers.
+  - [x] Uma metáfora que representa uma rede de data centers.
 
 5. Qual é o benefício de implementar uma nuvem de transformação baseada em infraestrutura aberta?
 
-    - [ ] Com o software de código aberto, é mais fácil patentear software.
+  - [ ] Com o software de código aberto, é mais fácil patentear software.
 
-    - [ ] Com padrões abertos, é mais fácil contratar mais desenvolvedores.
+  - [ ] Com padrões abertos, é mais fácil contratar mais desenvolvedores.
 
-    - [ ] O software no local não tem código aberto, então os aplicativos são mais portáteis.
+  - [ ] O software no local não tem código aberto, então os aplicativos são mais portáteis.
 
-    - [x] O software de código aberto reduz a dependência do fornecedor.
+  - [x] O software de código aberto reduz a dependência do fornecedor.
 
 6. Com as mudanças no mundo e nos negócios, as organizações precisam escolher entre aderir à nova tecnologia e se transformar, ou manter a tecnologia e as abordagens atuais. Quais são os riscos que uma organização pode enfrentar quando não se transforma para acompanhar a evolução do mercado?
 
-    - [ ] As organizações correm o risco de perder a liderança do mercado caso passem tempo demais na transformação digital.
+  - [ ] As organizações correm o risco de perder a liderança do mercado caso passem tempo demais na transformação digital.
 
-    - [ ] O foco no motivo da operação pode levar ao uso ineficiente de recursos e à disrupção.
+  - [ ] O foco no motivo da operação pode levar ao uso ineficiente de recursos e à disrupção.
 
-    - [ ] Ao adotar novas tecnologias, as organizações correm o risco de gastar demais com inovação.
+  - [ ] Ao adotar novas tecnologias, as organizações correm o risco de gastar demais com inovação.
 
-    - [x] Quando o foco está na forma de operação, as organizações podem perder oportunidades para se transformar.
+  - [x] Quando o foco está na forma de operação, as organizações podem perder oportunidades para se transformar.
 
 7. Uma organização fez investimentos significativos na infraestrutura própria e precisa hospedar os dados no local devido à regulamentação. Qual implementação da nuvem seria mais adequada para ela?
 
-    - [ ] Nuvem pública
+  - [ ] Nuvem pública
 
-    - [x] Nuvem privada
+  - [x] Nuvem privada
 
-    - [ ] Plataforma como serviço
+  - [ ] Plataforma como serviço
 
-    - [ ] Software como serviço
+  - [ ] Software como serviço
 
 8. Selecione dois recursos que compõem a base de uma nuvem de transformação. Selecione duas respostas corretas.
 
-    - [ ] Uma rede confiável dá o controle de todos os recursos ao usuário para garantir a alta disponibilidade sempre.
+  - [ ] Uma rede confiável dá o controle de todos os recursos ao usuário para garantir a alta disponibilidade sempre.
 
-    - [ ] Com a nuvem sustentável, os custos dos recursos da nuvem são controlados para evitar o estouro do orçamento.
+  - [ ] Com a nuvem sustentável, os custos dos recursos da nuvem são controlados para evitar o estouro do orçamento.
 
-    - [x] A nuvem de dados é uma solução unificada para gerenciar dados ao longo do ciclo de vida.
+  - [x] A nuvem de dados é uma solução unificada para gerenciar dados ao longo do ciclo de vida.
 
-    - [ ] Com a nuvem de colaboração, o dispositivo que um usuário acessa só funciona na rede corporativa.
+  - [ ] Com a nuvem de colaboração, o dispositivo que um usuário acessa só funciona na rede corporativa.
 
-    - [x] Com a infraestrutura aberta, você tem liberdade para inovar porque pode executar os aplicativos no local mais adequado.
+  - [x] Com a infraestrutura aberta, você tem liberdade para inovar porque pode executar os aplicativos no local mais adequado.
 
 9. Qual item descreve um objetivo de uma organização que busca a transformação digital?
 
-    -  [ ] Reduza as emissões usando redes mais rápidas em suas cargas de trabalho locais.
+  -  [ ] Reduza as emissões usando redes mais rápidas em suas cargas de trabalho locais.
 
-    - :white_check_mark: Elimine silos de dados e gere insights em tempo real.
+  :white_check_mark: Elimine silos de dados e gere insights em tempo real.
 
-    - [ ] Simplifique o processo de aquisição de hardware para prever pelo menos um quarto no futuro.
+  - [ ] Simplifique o processo de aquisição de hardware para prever pelo menos um quarto no futuro.
 
-    - [ ] Garanta melhor segurança dissociando as equipes e seus dados.
+  - [ ] Garanta melhor segurança dissociando as equipes e seus dados.
 
 ## 2º Módulo - Conceitos fundamentais da nuvem
 
