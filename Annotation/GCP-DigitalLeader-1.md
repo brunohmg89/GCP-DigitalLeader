@@ -159,53 +159,53 @@
 
 1. Uma organização migrou do modelo de gasto de CapEx para o modelo de OpEx. Qual das afirmações a seguir é verdadeira?
 
-    - [ ] O orçamento será feito apenas uma vez por ano.
+    :black_large_square: O orçamento será feito apenas uma vez por ano.
 
-    - [ ] A aquisição de hardware é feita por uma equipe centralizada.
+    :black_large_square: A aquisição de hardware é feita por uma equipe centralizada.
 
-    - [x] Ela só paga pelo que usa.
+    :white_check_mark: Ela só paga pelo que usa.
 
-    - [ ] Ela vai pagar apenas os custos previstos.
+    :black_large_square: Ela vai pagar apenas os custos previstos.
 
 2. Qual é a métrica de desempenho de rede que indica a quantidade de dados que uma rede pode transferir em determinado período?
 
-    - [ ] Sistema de Nomes de Domínio (DNS)
+    :black_large_square: Sistema de Nomes de Domínio (DNS)
 
-    - [x] Largura de banda
+    :white_check_mark: Largura de banda
 
-    - [ ] Fibra ótica
+    :black_large_square: Fibra ótica
 
-    - [ ] Latência
+    :black_large_square: Latência
 
 3. Uma organização quer ter recursos redundantes para que um aplicativo fique disponível mesmo em caso de desastres. O que ela deve fazer para que isso aconteça?
 
-    - [x] Alocar os recursos em zonas diferentes.
+    :white_check_mark: Alocar os recursos em zonas diferentes.
 
-    - [ ] Usar a rede de borda para armazenar uma imagem do aplicativo inteiro em cache como backup.
+    :black_large_square: Usar a rede de borda para armazenar uma imagem do aplicativo inteiro em cache como backup.
 
-    - [ ] Alocar recursos ao Sistema de Nomes de Domínio (DNS).
+    :black_large_square: Alocar recursos ao Sistema de Nomes de Domínio (DNS).
 
-    - [ ] Atribuir endereços IP diferentes a cada recurso.
+    :black_large_square: Atribuir endereços IP diferentes a cada recurso.
 
 4. Uma organização quer inovar com as tecnologias mais recentes, mas precisa armazenar os dados em determinados locais por questão de compliance. Qual abordagem para a nuvem seria mais adequada para ela?
 
-    - [x] Nuvem híbrida
+    :white_check_mark: Nuvem híbrida
 
-    - [ ] Infraestrutura no local
+    :black_large_square: Infraestrutura no local
 
-    - [ ] Nuvem pública
+    :black_large_square: Nuvem pública
 
-    - [ ] Várias nuvens
+    :black_large_square: Várias nuvens
 
 5. Uma organização de serviços financeiros tem agências em vários países e precisa criar um aplicativo que vai ter configurações diferentes em cada localização, com base nos regulamentos locais. Como a infraestrutura em nuvem ajuda a alcançar esse objetivo?
 
-    - [x] Flexibilidade da configuração de infraestrutura.
+    :white_check_mark: Flexibilidade da configuração de infraestrutura.
 
-    - [ ] Custo total de propriedade da infraestrutura.
+    :black_large_square: Custo total de propriedade da infraestrutura.
 
-    - [ ] Escalonabilidade da infraestrutura conforme as necessidades.
+    :black_large_square: Escalonabilidade da infraestrutura conforme as necessidades.
 
-    - [ ] Confiabilidade da disponibilidade da infraestrutura.
+    :black_large_square: Confiabilidade da disponibilidade da infraestrutura.
 
 ## 3º Módulo - Modelos de computação em nuvem e responsabilidade compartilhada
 
