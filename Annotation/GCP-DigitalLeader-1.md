@@ -48,13 +48,13 @@
 
 1. Uma organização lançou um novo aplicativo, e a infraestrutura no local não está conseguindo acompanhar o aumento nas assinaturas de usuários. Qual benefício da nuvem ajudaria nessa situação?
 
-    :x: Ela é econômica, então a organização não vai mais precisar pagar por computação quando o app estiver na nuvem.
+    :black_large_square: Ela é econômica, então a organização não vai mais precisar pagar por computação quando o app estiver na nuvem.
 
     :white_check_mark: Ela é escalonável, então a organização pode reduzir o tempo de implantação da infraestrutura.
 
-    :x: Ela é segura, então a organização não vai se preocupar com os dados dos novos assinantes.
+    :white_square_button: Ela é segura, então a organização não vai se preocupar com os dados dos novos assinantes.
 
-    :x: Ela oferece acesso físico, então a organização vai implantar servidores com mais rapidez.
+    :white_large_square: Ela oferece acesso físico, então a organização vai implantar servidores com mais rapidez.
 
 2. Selecione a definição de transformação digital.
 
