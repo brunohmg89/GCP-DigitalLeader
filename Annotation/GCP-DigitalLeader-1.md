@@ -58,85 +58,85 @@
 
 2. Selecione a definição de transformação digital.
 
-    :white_square_button: Quando uma organização usa novas tecnologias digitais para criar ou modificar os modelos financeiros de administração da empresa.
+    :black_large_square: Quando uma organização usa novas tecnologias digitais para criar ou modificar os modelos financeiros de administração da empresa.
 
-    :white_square_button: Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais no local.
+    :black_large_square: Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais no local.
 
-    :white_square_button: Quando uma organização usa novas tecnologias digitais para criar ou modificar a infraestrutura tecnológica com foco na redução de custo.
+    :black_large_square: Quando uma organização usa novas tecnologias digitais para criar ou modificar a infraestrutura tecnológica com foco na redução de custo.
 
     :white_check_mark: Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais, a cultura corporativa e experiências do cliente.
 
 3. O que é considerado uma limitação da infraestrutura no local em comparação à infraestrutura em nuvem?
 
-    :x: É muito difícil escalonar o processamento devido ao consumo de eletricidade.
+    :black_large_square: É muito difícil escalonar o processamento devido ao consumo de eletricidade.
 
-    :x: Os encarregados pela manutenção não têm acesso físico aos servidores.
+    :black_large_square: Os encarregados pela manutenção não têm acesso físico aos servidores.
 
-    :x: A rede no local é mais complicada.
+    :black_large_square: A rede no local é mais complicada.
 
     :white_check_mark: O processo de aquisição do hardware no local pode levar muito tempo.
 
 4. O que é a nuvem?
 
-    :x: Um produto do Google para processar grandes quantidades de dados.
+    :black_large_square: Um produto do Google para processar grandes quantidades de dados.
 
-    :x: Um produto do Google composto por infraestrutura de TI no local.
+    :black_large_square: Um produto do Google composto por infraestrutura de TI no local.
 
-    :x: Uma metáfora que representa a capacidade de rede dos provedores de Internet.
+    :black_large_square: Uma metáfora que representa a capacidade de rede dos provedores de Internet.
 
     :white_check_mark: Uma metáfora que representa uma rede de data centers.
 
 5. Qual é o benefício de implementar uma nuvem de transformação baseada em infraestrutura aberta?
 
-    :x: Com o software de código aberto, é mais fácil patentear software.
+    :black_large_square: Com o software de código aberto, é mais fácil patentear software.
 
-    :x: Com padrões abertos, é mais fácil contratar mais desenvolvedores.
+    :black_large_square: Com padrões abertos, é mais fácil contratar mais desenvolvedores.
 
-    :x: O software no local não tem código aberto, então os aplicativos são mais portáteis.
+    :black_large_square: O software no local não tem código aberto, então os aplicativos são mais portáteis.
 
     :white_check_mark: O software de código aberto reduz a dependência do fornecedor.
 
 6. Com as mudanças no mundo e nos negócios, as organizações precisam escolher entre aderir à nova tecnologia e se transformar, ou manter a tecnologia e as abordagens atuais. Quais são os riscos que uma organização pode enfrentar quando não se transforma para acompanhar a evolução do mercado?
 
-    :x: As organizações correm o risco de perder a liderança do mercado caso passem tempo demais na transformação digital.
+    :black_large_square: As organizações correm o risco de perder a liderança do mercado caso passem tempo demais na transformação digital.
 
-    :x: O foco no motivo da operação pode levar ao uso ineficiente de recursos e à disrupção.
+    :black_large_square: O foco no motivo da operação pode levar ao uso ineficiente de recursos e à disrupção.
 
-    :x: Ao adotar novas tecnologias, as organizações correm o risco de gastar demais com inovação.
+    :black_large_square: Ao adotar novas tecnologias, as organizações correm o risco de gastar demais com inovação.
 
     :white_check_mark: Quando o foco está na forma de operação, as organizações podem perder oportunidades para se transformar.
 
 7. Uma organização fez investimentos significativos na infraestrutura própria e precisa hospedar os dados no local devido à regulamentação. Qual implementação da nuvem seria mais adequada para ela?
 
-    :x: Nuvem pública
+    :black_large_square: Nuvem pública
 
     :white_check_mark: Nuvem privada
 
-    :x: Plataforma como serviço
+    :black_large_square: Plataforma como serviço
 
-    :x: Software como serviço
+    :black_large_square: Software como serviço
 
 8. Selecione dois recursos que compõem a base de uma nuvem de transformação. Selecione duas respostas corretas.
 
-    :x: Uma rede confiável dá o controle de todos os recursos ao usuário para garantir a alta disponibilidade sempre.
+    :black_large_square: Uma rede confiável dá o controle de todos os recursos ao usuário para garantir a alta disponibilidade sempre.
 
-    :x: Com a nuvem sustentável, os custos dos recursos da nuvem são controlados para evitar o estouro do orçamento.
+    :black_large_square: Com a nuvem sustentável, os custos dos recursos da nuvem são controlados para evitar o estouro do orçamento.
 
     :white_check_mark: A nuvem de dados é uma solução unificada para gerenciar dados ao longo do ciclo de vida.
 
-    :x: Com a nuvem de colaboração, o dispositivo que um usuário acessa só funciona na rede corporativa.
+    :black_large_square: Com a nuvem de colaboração, o dispositivo que um usuário acessa só funciona na rede corporativa.
 
     :white_check_mark: Com a infraestrutura aberta, você tem liberdade para inovar porque pode executar os aplicativos no local mais adequado.
 
 9. Qual item descreve um objetivo de uma organização que busca a transformação digital?
 
-    :x: Reduza as emissões usando redes mais rápidas em suas cargas de trabalho locais.
+    :black_large_square: Reduza as emissões usando redes mais rápidas em suas cargas de trabalho locais.
 
     :white_check_mark: Elimine silos de dados e gere insights em tempo real.
 
-    :x: Simplifique o processo de aquisição de hardware para prever pelo menos um quarto no futuro.
+    :black_large_square: Simplifique o processo de aquisição de hardware para prever pelo menos um quarto no futuro.
 
-    :x: Garanta melhor segurança dissociando as equipes e seus dados.
+    :black_large_square: Garanta melhor segurança dissociando as equipes e seus dados.
 
 ## 2º Módulo - Conceitos fundamentais da nuvem
 
