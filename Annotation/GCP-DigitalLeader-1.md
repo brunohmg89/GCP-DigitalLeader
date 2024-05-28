@@ -209,7 +209,6 @@
 
 ## 3º Módulo - Modelos de computação em nuvem e responsabilidade compartilhada
 
-- IaaS -> PaaS - SaaS
   - IaaS: Oferece recursos de infraestrutura, como computação e armazenamento.
   - PaaS: Oferece um ambiente de desenvolvimento e implantação para criar apps na nuvem.
   - SaaS: Entrega aplicativos completos como serviços.
@@ -229,40 +228,40 @@
 
 1. Qual opção melhor descreve um benefício da infraestrutura como serviço (IaaS)?
 
-    - [x] É eficiente, já que os recursos de IaaS estão disponíveis quando necessários, e não há desperdício por excesso de capacidade.
+    :white_check_mark: É eficiente, já que os recursos de IaaS estão disponíveis quando necessários, e não há desperdício por excesso de capacidade.
 
-    - [ ] Reduz o tempo de desenvolvimento, já que os desenvolvedores podem começar a programar logo sem perder tempo para configurar e manter o ambiente que vão usar.
+    :black_large_square: Reduz o tempo de desenvolvimento, já que os desenvolvedores podem começar a programar logo sem perder tempo para configurar e manter o ambiente que vão usar.
 
-    - [ ] Tem bom custo-benefício, já que todo o custo da infraestrutura está incluído em uma única taxa de assinatura mensal ou anual.
+    :black_large_square: Tem bom custo-benefício, já que todo o custo da infraestrutura está incluído em uma única taxa de assinatura mensal ou anual.
 
-    - [ ] Tem baixo custo administrativo, já que o fornecedor da nuvem cuida das tarefas de gerenciamento referentes a dados, servidores, armazenamento e atualizações.
+    :black_large_square: Tem baixo custo administrativo, já que o fornecedor da nuvem cuida das tarefas de gerenciamento referentes a dados, servidores, armazenamento e atualizações.
 
 2. Uma organização quer migrar um software de colaboração para a nuvem, mas, por ter uma equipe de TI limitada, um dos fatores necessários é o baixo custo de manutenção. Qual modelo de computação em nuvem é mais adequado para esses requisitos?
 
-    - [ ] TI como serviço (ITaaS)
+    :black_large_square: TI como serviço (ITaaS)
 
-    - [x] Software como serviço (SaaS)
+    :white_check_mark: Software como serviço (SaaS)
 
-    - [ ] Infraestrutura como serviço (IaaS)
+    :black_large_square: Infraestrutura como serviço (IaaS)
 
-    - [ ] Plataforma como serviço (PaaS)
+    :black_large_square: Plataforma como serviço (PaaS)
 
 3. Qual modelo de serviço da computação em nuvem oferece um ambiente de desenvolvimento e implantação para criar aplicativos na nuvem?
 
-    - [ ] Função como serviço (FaaS)
+    :black_large_square: Função como serviço (FaaS)
 
-    - [ ] Software como serviço (SaaS)
+    :black_large_square: Software como serviço (SaaS)
 
-    - [x] Plataforma como serviço (PaaS)
+    :white_check_mark: Plataforma como serviço (PaaS)
 
-    - [ ] Infraestrutura como serviço (IaaS)
+    :black_large_square: Infraestrutura como serviço (IaaS)
 
 4. No modelo de responsabilidade compartilhada da computação em nuvem, qual é o tipo de conteúdo que é sempre responsabilidade dos clientes, seja qual for o modelo de computação escolhido?
 
-    - [ ] O cliente é responsável pela segurança do sistema operacional, da pilha de software que executa os aplicativos, do hardware e da rede, bem como a segurança física.
+    :black_large_square: O cliente é responsável pela segurança do sistema operacional, da pilha de software que executa os aplicativos, do hardware e da rede, bem como a segurança física.
 
-    - [x] O cliente é responsável por proteger tudo aquilo que ele cria na nuvem, como configurações, políticas de acesso e dados do usuário.
+    :white_check_mark: O cliente é responsável por proteger tudo aquilo que ele cria na nuvem, como configurações, políticas de acesso e dados do usuário.
 
-    - [ ] O cliente é responsável por todas as decisões sobre infraestrutura, configurações de servidores e monitoramento de bancos de dados.
+    :black_large_square: O cliente é responsável por todas as decisões sobre infraestrutura, configurações de servidores e monitoramento de bancos de dados.
 
-    - [ ] O cliente não é responsável pelos dados na nuvem, já que o gerenciamento dos dados é responsabilidade do provedor de nuvem que os hospeda.
+    :black_large_square: O cliente não é responsável pelos dados na nuvem, já que o gerenciamento dos dados é responsabilidade do provedor de nuvem que os hospeda.
