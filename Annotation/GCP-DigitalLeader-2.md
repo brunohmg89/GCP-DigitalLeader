@@ -163,103 +163,103 @@
 
 1. Qual estratégia define a migração de bancos de dados de ambientes locais e de nuvens privadas para o mesmo tipo de banco de dados hospedado por um provedor de nuvem pública?
 
-    - [ ] Permanência no local
+    :black_large_square: Permanência no local
 
-    - [ ] Refatoração
+    :black_large_square: Refatoração
 
-    - [ ] Migração de bancos de dados gerenciados
+    :black_large_square: Migração de bancos de dados gerenciados
 
-    - [x] Migração lift-and-shift
+    :white_check_mark: Migração lift-and-shift
 
 2. Dados em forma de vídeo, foto e gravação de áudio são os mais adequados para o armazenamento de objetos. Qual o produto ideal para armazenar esse tipo de dado?
 
-    - [ ] Firestore
+    :black_large_square: Firestore
 
-    - [x] Cloud Storage
+    :white_check_mark: Cloud Storage
 
-    - [ ] Cloud SQL
+    :black_large_square: Cloud SQL
 
-    - [ ] BigQuery
+    :black_large_square: BigQuery
 
 3. Qual produto do Google Cloud pode ser usado para sincronizar dados entre bancos de dados, sistemas de armazenamento e aplicativos?
 
-    - [ ] Pub/Sub
+    :black_large_square: Pub/Sub
 
-    - [x] Datastream
+    :white_check_mark: Datastream
 
-    - [ ] Dataproc
+    :black_large_square: Dataproc
 
-    - [ ] Dataprep
+    :black_large_square: Dataprep
 
 4. O BigQuery funciona em um ambiente multicloud. Como este recurso beneficia as organizações?
 
-    - [ ] O suporte multicloud no BigQuery deve ser usado apenas em cenários de recuperação de desastres.
+    :black_large_square: O suporte multicloud no BigQuery deve ser usado apenas em cenários de recuperação de desastres.
 
-    - [ ] O BigQuery ajuda as organizações a poupar custos porque limita o número de provedores de nuvem usados.
+    :black_large_square: O BigQuery ajuda as organizações a poupar custos porque limita o número de provedores de nuvem usados.
 
-    - [x] As equipes de dados podem eliminar os silos de dados fazendo análises em vários provedores de nuvem.
+    :white_check_mark: As equipes de dados podem eliminar os silos de dados fazendo análises em vários provedores de nuvem.
 
-    - [ ] A segurança é mais eficiente quando o BigQuery é executado em ambientes locais.
+    :black_large_square: A segurança é mais eficiente quando o BigQuery é executado em ambientes locais.
 
 5. Quais são os dois serviços que o BigQuery oferece?
 
-    - [ ] Rede e armazenamento
+    :black_large_square: Rede e armazenamento
 
-    - [ ] Migração e análise
+    :black_large_square: Migração e análise
 
-    - [x] Armazenamento e análise
+    :white_check_mark: Armazenamento e análise
 
-    - [ ] Computação e análise
+    :black_large_square: Computação e análise
 
 6. Qual é o serviço de banco de dados de Big Data do Google usado em vários dos principais serviços do Google, como Pesquisa, Analytics, Plataforma Google Maps e Gmail?
 
-    - [ ] Cloud Spanner
+    :black_large_square: Cloud Spanner
 
-    - [ ] Cloud SQL
+    :black_large_square: Cloud SQL
 
-    - [ ] Cloud Storage
+    :black_large_square: Cloud Storage
 
-    - [x]  Cloud Bigtable
+    :white_check_mark: Cloud Bigtable
 
 7. A análise de dados de uma loja on-line precisa gerar um relatório de vendas ao final de cada trimestre. Qual classe do Cloud Storage a loja precisa usar para acessar os dados a cada 90 dias?
 
-    - [ ] Archive
+    :black_large_square: Archive
 
-    - [ ] Nearline
+    :black_large_square: Nearline
 
-    - [ ] Standard
+    :black_large_square: Standard
 
-    - [x] Coldline
+    :white_check_mark: Coldline
 
 8. Qual é a melhor opção de armazenamento com base em SQL para cargas de trabalho transacionais que precisam de escalabilidade global?
 
-    - [ ] Cloud Bigtable
+    :black_large_square: Cloud Bigtable
 
-    - [ ] Cloud SQL
+    :black_large_square: Cloud SQL
 
-    - [x] Cloud Spanner
+    :white_check_mark: Cloud Spanner
 
-    - [ ] Firestore
+    :black_large_square: Firestore
 
 9. Qual característica vale para todas as classes do Cloud Storage?
 
-    - [ ] Limite máximo de armazenamento
+    :black_large_square: Limite máximo de armazenamento
 
-    - [x] Redundância geográfica se os dados forem armazenados em um local multirregional ou birregional
+    :white_check_mark: Redundância geográfica se os dados forem armazenados em um local multirregional ou birregional
 
-    - [ ] Acessibilidade em apenas uma região
+    :black_large_square: Acessibilidade em apenas uma região
 
-    - [ ] Latência alta e baixa durabilidade
+    :black_large_square: Latência alta e baixa durabilidade
 
 10. Qual é a melhor opção de armazenamento com base em SQL para cargas de trabalho transacionais que precisam de escalonabilidade local ou regional?
 
-    - [ ] Cloud Bigtable
+    :black_large_square: Cloud Bigtable
 
-    - [ ] Cloud Storage
+    :black_large_square: Cloud Storage
 
-    - [x] Cloud SQL
+    :white_check_mark: Cloud SQL
 
-    - [ ] Cloud Spanner
+    :black_large_square: Cloud Spanner
 
 ## 3º Módulo - Como ter dados eficientes e acessíveis
 
