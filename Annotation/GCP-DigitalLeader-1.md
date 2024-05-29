@@ -46,6 +46,8 @@
 
 ### Questões
 
+---
+
 1. Uma organização lançou um novo aplicativo, e a infraestrutura no local não está conseguindo acompanhar o aumento nas assinaturas de usuários. Qual benefício da nuvem ajudaria nessa situação?
 
     :black_large_square: Ela é econômica, então a organização não vai mais precisar pagar por computação quando o app estiver na nuvem.
@@ -55,6 +57,8 @@
     :black_large_square: Ela é segura, então a organização não vai se preocupar com os dados dos novos assinantes.
 
     :black_large_square: Ela oferece acesso físico, então a organização vai implantar servidores com mais rapidez.
+
+---
 
 2. Selecione a definição de transformação digital.
 
@@ -66,6 +70,8 @@
 
     :white_check_mark: Quando uma organização usa novas tecnologias digitais para criar ou modificar processos comerciais, a cultura corporativa e experiências do cliente.
 
+---
+
 3. O que é considerado uma limitação da infraestrutura no local em comparação à infraestrutura em nuvem?
 
     :black_large_square: É muito difícil escalonar o processamento devido ao consumo de eletricidade.
@@ -75,6 +81,8 @@
     :black_large_square: A rede no local é mais complicada.
 
     :white_check_mark: O processo de aquisição do hardware no local pode levar muito tempo.
+
+---
 
 4. O que é a nuvem?
 
@@ -86,6 +94,8 @@
 
     :white_check_mark: Uma metáfora que representa uma rede de data centers.
 
+---
+
 5. Qual é o benefício de implementar uma nuvem de transformação baseada em infraestrutura aberta?
 
     :black_large_square: Com o software de código aberto, é mais fácil patentear software.
@@ -95,6 +105,8 @@
     :black_large_square: O software no local não tem código aberto, então os aplicativos são mais portáteis.
 
     :white_check_mark: O software de código aberto reduz a dependência do fornecedor.
+
+---
 
 6. Com as mudanças no mundo e nos negócios, as organizações precisam escolher entre aderir à nova tecnologia e se transformar, ou manter a tecnologia e as abordagens atuais. Quais são os riscos que uma organização pode enfrentar quando não se transforma para acompanhar a evolução do mercado?
 
@@ -106,6 +118,8 @@
 
     :white_check_mark: Quando o foco está na forma de operação, as organizações podem perder oportunidades para se transformar.
 
+---
+
 7. Uma organização fez investimentos significativos na infraestrutura própria e precisa hospedar os dados no local devido à regulamentação. Qual implementação da nuvem seria mais adequada para ela?
 
     :black_large_square: Nuvem pública
@@ -115,6 +129,8 @@
     :black_large_square: Plataforma como serviço
 
     :black_large_square: Software como serviço
+
+---
 
 8. Selecione dois recursos que compõem a base de uma nuvem de transformação. Selecione duas respostas corretas.
 
@@ -127,6 +143,8 @@
     :black_large_square: Com a nuvem de colaboração, o dispositivo que um usuário acessa só funciona na rede corporativa.
 
     :white_check_mark: Com a infraestrutura aberta, você tem liberdade para inovar porque pode executar os aplicativos no local mais adequado.
+
+---
 
 9. Qual item descreve um objetivo de uma organização que busca a transformação digital?
 
