@@ -44,9 +44,9 @@
   - Padrão aberto: É o software que segue padrões específicos, que qualquer pessoa pode acessar e usar.
   - Código aberto: É o software com código-fonte disponível ao público, e qualquer pessoa pode usar, modificar e compartilhar.
 
-### Questões
+<br>
 
----
+### Questões
 
 1. Uma organização lançou um novo aplicativo, e a infraestrutura no local não está conseguindo acompanhar o aumento nas assinaturas de usuários. Qual benefício da nuvem ajudaria nessa situação?
 
@@ -156,6 +156,8 @@
 
     :black_large_square: Garanta melhor segurança dissociando as equipes e seus dados.
 
+<br>
+
 ## 2º Módulo - Conceitos fundamentais da nuvem
 
 - CapEx e OpEx
@@ -173,6 +175,8 @@
   - Ásia
   - Austrália
 
+<br>
+
 ### Questões
 
 1. Uma organização migrou do modelo de gasto de CapEx para o modelo de OpEx. Qual das afirmações a seguir é verdadeira?
@@ -185,6 +189,8 @@
 
     :black_large_square: Ela vai pagar apenas os custos previstos.
 
+---
+
 2. Qual é a métrica de desempenho de rede que indica a quantidade de dados que uma rede pode transferir em determinado período?
 
     :black_large_square: Sistema de Nomes de Domínio (DNS)
@@ -194,6 +200,8 @@
     :black_large_square: Fibra ótica
 
     :black_large_square: Latência
+
+---
 
 3. Uma organização quer ter recursos redundantes para que um aplicativo fique disponível mesmo em caso de desastres. O que ela deve fazer para que isso aconteça?
 
@@ -205,6 +213,8 @@
 
     :black_large_square: Atribuir endereços IP diferentes a cada recurso.
 
+---
+
 4. Uma organização quer inovar com as tecnologias mais recentes, mas precisa armazenar os dados em determinados locais por questão de compliance. Qual abordagem para a nuvem seria mais adequada para ela?
 
     :white_check_mark: Nuvem híbrida
@@ -215,6 +225,8 @@
 
     :black_large_square: Várias nuvens
 
+---
+
 5. Uma organização de serviços financeiros tem agências em vários países e precisa criar um aplicativo que vai ter configurações diferentes em cada localização, com base nos regulamentos locais. Como a infraestrutura em nuvem ajuda a alcançar esse objetivo?
 
     :white_check_mark: Flexibilidade da configuração de infraestrutura.
@@ -224,6 +236,8 @@
     :black_large_square: Escalonabilidade da infraestrutura conforme as necessidades.
 
     :black_large_square: Confiabilidade da disponibilidade da infraestrutura.
+
+<br>
 
 ## 3º Módulo - Modelos de computação em nuvem e responsabilidade compartilhada
 
@@ -238,6 +252,8 @@
 - SaaS: Entrega aplicativos completos como serviços. Exemplos, ferramentas do Workspace como Gmail, google drive
   - Abstrai completamente a infra utilizada, paga uma taxa ao software e abra ele em um navegador sem a necessidade de instalação nos computadores
 
+<br>
+
 ### Questões
 
 1. Qual opção melhor descreve um benefício da infraestrutura como serviço (IaaS)?
@@ -250,6 +266,8 @@
 
     :black_large_square: Tem baixo custo administrativo, já que o fornecedor da nuvem cuida das tarefas de gerenciamento referentes a dados, servidores, armazenamento e atualizações.
 
+---
+
 2. Uma organização quer migrar um software de colaboração para a nuvem, mas, por ter uma equipe de TI limitada, um dos fatores necessários é o baixo custo de manutenção. Qual modelo de computação em nuvem é mais adequado para esses requisitos?
 
     :black_large_square: TI como serviço (ITaaS)
@@ -260,6 +278,8 @@
 
     :black_large_square: Plataforma como serviço (PaaS)
 
+---
+
 3. Qual modelo de serviço da computação em nuvem oferece um ambiente de desenvolvimento e implantação para criar aplicativos na nuvem?
 
     :black_large_square: Função como serviço (FaaS)
@@ -269,6 +289,8 @@
     :white_check_mark: Plataforma como serviço (PaaS)
 
     :black_large_square: Infraestrutura como serviço (IaaS)
+
+---
 
 4. No modelo de responsabilidade compartilhada da computação em nuvem, qual é o tipo de conteúdo que é sempre responsabilidade dos clientes, seja qual for o modelo de computação escolhido?
 
