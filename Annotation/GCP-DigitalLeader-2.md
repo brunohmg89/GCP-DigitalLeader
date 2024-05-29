@@ -29,6 +29,8 @@
 
 - Governaça de Dados: significa definir padrões internos, políticas de dados que se aplicam a forma como os dados são coletados, armazenados, processados e descartados.
 
+<br>
+
 ### Questões
 
 1. Qual o repositório criado para ingerir, armazenar, explorar, processar e analisar qualquer tipo ou volume de dados brutos, independentemente da origem?
@@ -41,6 +43,8 @@
 
     :black_large_square: Data warehouse
 
+---
+
 2. Qual opção representa os conjuntos de dados reservados que a empresa coleta das interações e transações com clientes ou público-alvo?
 
     :black_large_square: Dados secundários
@@ -48,6 +52,8 @@
     :black_large_square: Dados de terceiros
 
     :white_check_mark: Dados próprios
+
+---
 
 3. Novas ferramentas da nuvem ajudam a aproveitar o potencial dos dados não estruturados. Qual caso de uso abaixo melhor demonstra isso?
 
@@ -59,6 +65,8 @@
 
     :white_check_mark: Analisar postagens de redes sociais para identificar o sentimento associado a uma marca
 
+---
+
 4. Os dados brutos coletados são convertidos para uma forma que possibilita a extração de insights em qual dessas etapas da cadeia de valor dos dados?
 
     :black_large_square: Análise de dados
@@ -68,6 +76,8 @@
     :black_large_square: Gênese de dados
 
     :black_large_square: Armazenamento de dados
+
+---
 
 5. Uma loja on-line usa uma ferramenta de análises inteligentes para ingerir dados de comportamento do cliente em tempo real e, com isso, mostrar sugestões aprimoradas para alguns usuários. Como o machine learning pode ajudar nisso?
 
@@ -79,6 +89,8 @@
 
     :black_large_square: Com o machine learning, as transações do cartão de crédito do usuário podem ser analisadas para identificar as compras comuns.
 
+---
+
 6. Uma empresa de energia solar quer analisar dados meteorológicos para entender o impacto sazonal nos negócios. Em qual plataforma é possível encontrar conjuntos de dados climáticos gratuitos?
 
     :white_check_mark: Google Cloud Marketplace
@@ -88,6 +100,8 @@
     :black_large_square: Google Play
 
     :black_large_square: App Engine
+
+---
 
 7. O que é governança de dados?
 
@@ -99,6 +113,8 @@
 
     :black_large_square: É o processo de excluir dados desnecessários para economizar espaço de armazenamento
 
+---
+
 8. Qual tipo de dado é altamente organizado e bem definido?
 
     :white_check_mark: Dados estruturados
@@ -108,6 +124,8 @@
     :black_large_square: Dados semiestruturados
 
     :black_large_square: Um híbrido de dados estruturados, semiestruturados e não estruturados
+
+---
 
 9. Qual é a solução de armazenamento em data warehouse moderna e sem servidor do Google Cloud?
 
@@ -119,6 +137,8 @@
 
     :black_large_square: Vertex AI
 
+---
+
 10. Uma empresa de seguro para carros tem um grande banco de dados que armazena informações dos clientes, incluindo os veículos e acionamentos anteriores. A estrutura do banco de dados mostra que a informação é armazenada em tabelas, linhas e colunas. Que tipo de banco de dados é este?
 
     :white_check_mark: Um banco de dados relacional
@@ -128,6 +148,8 @@
     :black_large_square: Um banco de dados não relacional
 
     :black_large_square: Um banco de dados XML
+
+<br>
 
 ## 2º Módulo - Soluções de gerenciamento de dados do Google Cloud
 
@@ -158,7 +180,9 @@
 - Lift and shift: É aqui que os bancos de dados são migrados de ambientes de nuvem no local e privados para o mesmo tipo de banco de dados hospedado por um provedor de nuvem pública, como o Google Cloud.
 
 - Migração de dados gerenciada: permite a migração de bancos de dados do SQL Server, MySQL, PostgreSQL e outros para um banco de dados Google Cloud totalmente gerenciado.
-    
+
+<br>
+
 ### Questões
 
 1. Qual estratégia define a migração de bancos de dados de ambientes locais e de nuvens privadas para o mesmo tipo de banco de dados hospedado por um provedor de nuvem pública?
@@ -171,6 +195,8 @@
 
     :white_check_mark: Migração lift-and-shift
 
+---
+
 2. Dados em forma de vídeo, foto e gravação de áudio são os mais adequados para o armazenamento de objetos. Qual o produto ideal para armazenar esse tipo de dado?
 
     :black_large_square: Firestore
@@ -180,6 +206,8 @@
     :black_large_square: Cloud SQL
 
     :black_large_square: BigQuery
+
+---
 
 3. Qual produto do Google Cloud pode ser usado para sincronizar dados entre bancos de dados, sistemas de armazenamento e aplicativos?
 
@@ -191,6 +219,8 @@
 
     :black_large_square: Dataprep
 
+---
+
 4. O BigQuery funciona em um ambiente multicloud. Como este recurso beneficia as organizações?
 
     :black_large_square: O suporte multicloud no BigQuery deve ser usado apenas em cenários de recuperação de desastres.
@@ -200,6 +230,8 @@
     :white_check_mark: As equipes de dados podem eliminar os silos de dados fazendo análises em vários provedores de nuvem.
 
     :black_large_square: A segurança é mais eficiente quando o BigQuery é executado em ambientes locais.
+
+---
 
 5. Quais são os dois serviços que o BigQuery oferece?
 
@@ -211,6 +243,8 @@
 
     :black_large_square: Computação e análise
 
+---
+
 6. Qual é o serviço de banco de dados de Big Data do Google usado em vários dos principais serviços do Google, como Pesquisa, Analytics, Plataforma Google Maps e Gmail?
 
     :black_large_square: Cloud Spanner
@@ -220,6 +254,8 @@
     :black_large_square: Cloud Storage
 
     :white_check_mark: Cloud Bigtable
+
+---
 
 7. A análise de dados de uma loja on-line precisa gerar um relatório de vendas ao final de cada trimestre. Qual classe do Cloud Storage a loja precisa usar para acessar os dados a cada 90 dias?
 
@@ -231,6 +267,8 @@
 
     :white_check_mark: Coldline
 
+---
+
 8. Qual é a melhor opção de armazenamento com base em SQL para cargas de trabalho transacionais que precisam de escalabilidade global?
 
     :black_large_square: Cloud Bigtable
@@ -240,6 +278,8 @@
     :white_check_mark: Cloud Spanner
 
     :black_large_square: Firestore
+
+---
 
 9. Qual característica vale para todas as classes do Cloud Storage?
 
@@ -251,6 +291,8 @@
 
     :black_large_square: Latência alta e baixa durabilidade
 
+---
+
 10. Qual é a melhor opção de armazenamento com base em SQL para cargas de trabalho transacionais que precisam de escalonabilidade local ou regional?
 
     :black_large_square: Cloud Bigtable
@@ -260,6 +302,8 @@
     :white_check_mark: Cloud SQL
 
     :black_large_square: Cloud Spanner
+
+<br>
 
 ## 3º Módulo - Como ter dados eficientes e acessíveis
 
