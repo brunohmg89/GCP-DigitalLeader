@@ -319,60 +319,60 @@
 
 1. Qual plataforma de Business Intelligence do Google Cloud foi projetada para ajudar usuários e equipes a analisar, visualizar e compartilhar dados?
 
-    - [ ] Dataplex
+    :black_large_square: Dataplex
 
-    - [x] Looker
+    :white_check_mark: Looker
 
-    - [ ] Dataflow
+    :black_large_square: Dataflow
 
-    - [ ] Cloud Storage
+    :black_large_square: Cloud Storage
 
 2. A análise de streaming é o processamento e a análise de registros de dados continuamente, em vez de em lotes. Qual dessas opções é uma fonte de dados de streaming?
 
-    - [ ] Endereços de e-mail do cliente
+    :black_large_square: Endereços de e-mail do cliente
 
-    - [ ] Registros de folhas de pagamento
+    :black_large_square: Registros de folhas de pagamento
 
-    - [ ] Resultados de exames médicos
+    :black_large_square: Resultados de exames médicos
 
-    - [x] Sensores de temperatura
+    :white_check_mark: Sensores de temperatura
 
 3. No contexto do processamento de dados, o que significa ETL?
 
-    - [x] Extract, transform, and load (Extração, transformação e carregamento)
+    :white_check_mark: Extract, transform, and load (Extração, transformação e carregamento)
 
-    - [ ] Enhanced transaction logic (Lógica de transação aprimorada)
+    :black_large_square: Enhanced transaction logic (Lógica de transação aprimorada)
 
-    - [ ] Enrichment, tagging, and labeling (Aprimoramento, marcação e rotulagem)
+    :black_large_square: Enrichment, tagging, and labeling (Aprimoramento, marcação e rotulagem)
 
-    - [ ] Event-time logic (Lógica de hora do evento)
+    :black_large_square: Event-time logic (Lógica de hora do evento)
 
 4. Qual é o serviço de mensagens distribuídas do Google Cloud que pode receber mensagens de vários streams de dispositivos, como eventos de jogos, dispositivos da Internet das Coisas (IoT) e streams de aplicativos?
 
-    - [ ] Dataplex
+    :black_large_square: Dataplex
 
-    - [ ] Dataproc
+    :black_large_square: Dataproc
 
-    - [ ] Looker
+    :black_large_square: Looker
 
-    - [x] Pub/Sub
+    :white_check_mark: Pub/Sub
 
 5. Qual afirmação sobre o Dataflow é verdadeira?
 
-    - [ ] É um data warehouse baseado na nuvem usado para armazenar e analisar dados de streaming e em lote.
+    :black_large_square: É um data warehouse baseado na nuvem usado para armazenar e analisar dados de streaming e em lote.
 
-    - [ ] É um serviço para receber mensagens de vários streams de dispositivos.
+    :black_large_square: É um serviço para receber mensagens de vários streams de dispositivos.
 
-    - [ ] Facilita a limpeza e a transformação de dados usando ferramentas visuais e sugestões baseadas em machine learning.
+    :black_large_square: Facilita a limpeza e a transformação de dados usando ferramentas visuais e sugestões baseadas em machine learning.
 
-    - [x] Cuida da configuração e da manutenção da infraestrutura para pipelines de processamento.
+    :white_check_mark: Cuida da configuração e da manutenção da infraestrutura para pipelines de processamento.
 
 6. Qual recurso do Looker facilita a integração com fluxos de trabalho atuais e o compartilhamento com várias equipes de uma organização?
 
-    - [ ] Cria visualizações fáceis de entender.
+    :black_large_square: Cria visualizações fáceis de entender.
 
-    - [ ] Tem suporte para mais de 60 bancos de dados de SQL.
+    :black_large_square: Tem suporte para mais de 60 bancos de dados de SQL.
 
-    - [ ] É econômico.
+    :black_large_square: É econômico.
 
-    - [x] É 100% baseado na Web.
+    :white_check_mark: É 100% baseado na Web.
