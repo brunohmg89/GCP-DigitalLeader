@@ -22,89 +22,105 @@
 - Policy: é um conjunto de regras que definem quem pode acessar um recurso e o que a pessoa pode fazer com ele.
 
 - Beneficios de controle de acesso a nuvem:
-    - ela fornece controle de acesso granular, o que significa que você pode atribuir funções e permissões em diferentes níveis da hierarquia, como no nível da pasta, do projeto ou de um recurso individual.
+    - Primeiro, ela fornece controle de acesso granular, o que significa que você pode atribuir funções e permissões em diferentes níveis da hierarquia, como no nível da pasta, do projeto ou de um recurso individual.
     - Segundo, como a hierarquia de recursos segue regras de herança e propagação, as permissões definidas em níveis superiores são herdadas de modo automático pelos recursos de nível inferior.
     - Terceiro, a hierarquia de recursos aumenta a segurança e a conformidade através de princípios de privilégio mínimo.
     - Por fim, a hierarquia de recursos oferece visibilidade e recursos de auditoria avançados.
 
 - Recursos de controle de gastos
-    - Rosurce Quota Policies: você define limites para a quantidade de recursos que podem ser usados por um projeto ou usuário.
+    - Rosource Quota Policies: você define limites para a quantidade de recursos que podem ser usados por um projeto ou usuário.
     - Budget threshold rules: Com elas, você define alertas para receber notificações quando os custos da nuvem excederem um determinado limite.
     - Cloud Billing reports: oferecem um método reativo para monitorar e entender o que já foi gasto nos recursos do Google Cloud e otimizar os custos.
 
-- CUD: Commited use discounts: Descontos por compromisso: oferece preços com desconto em troca do compromisso de usar um nível mínimo de recursos por um período específico.
+- CUD Commited Use Discounts (Descontos por compromisso): Oferece preços com desconto em troca do compromisso de usar um nível mínimo de recursos por um período específico.
+
+<br>
 
 ### Questões
 
 1. Qual recurso permite definir alertas para quando os custos da nuvem excederem um determinado limite?
 
-    - [ ] Relatórios de faturamento
+    :black_large_square: Relatórios de faturamento
 
-    - [x] Regras de limite orçamentário
+    :white_check_mark: Regras de limite orçamentário
 
-    - [ ] Previsão de custos
+    :black_large_square: Previsão de custos
 
-    - [ ] Recomendações de otimização de custos
+    :black_large_square: Recomendações de otimização de custos
+
+---
 
 2. Por que é benéfico que a hierarquia de recursos do Google Cloud siga regras de herança e propagação?
 
-    - [ ] Recursos em níveis mais baixos podem melhorar o desempenho dos aplicativos em nuvem.
+    :black_large_square: Recursos em níveis mais baixos podem melhorar o desempenho dos aplicativos em nuvem.
 
-    - [ ] A propagação mais rápida pode simplificar uma migração para a nuvem.
+    :black_large_square: A propagação mais rápida pode simplificar uma migração para a nuvem.
 
-    - [x] As permissões definidas em níveis superiores da hierarquia de recursos são herdadas automaticamente pelos recursos de nível inferior.
+    :white_check_mark: As permissões definidas em níveis superiores da hierarquia de recursos são herdadas automaticamente pelos recursos de nível inferior.
 
-    - [ ] A herança na hierarquia reduz o custo geral da computação em nuvem.
+    :black_large_square: A herança na hierarquia reduz o custo geral da computação em nuvem.
+
+---
 
 3. Qual termo descreve um hub centralizado dentro de uma organização composto por uma parceria entre finanças, tecnologia e funções de negócios?
 
-    - [ ] Centro de inovação
+    :black_large_square: Centro de inovação
 
-    - [ ] Centro do hub
+    :black_large_square: Centro do hub
 
-    - [x] Centro de excelência
+    :white_check_mark: Centro de excelência
 
-    - [ ] Centro de competência
+    :black_large_square: Centro de competência
+
+---
 
 4. Qual das opções abaixo oferece um método reativo de monitorar e entender o que você gastou em recursos do Google Cloud e ajuda a otimizar seus custos?
 
-    - [ ] Previsão de custos
+    :black_large_square: Previsão de custos
 
-    - [ ] Uso de recursos
+    :black_large_square: Uso de recursos
 
-    - [x] Relatórios do Cloud Billing
+    :white_check_mark: Relatórios do Cloud Billing
 
-    - [ ] Calculadora de preços do Google Cloud
+    :black_large_square: Calculadora de preços do Google Cloud
+
+---
 
 5. Qual recurso permite definir limites para a quantidade de recursos que podem ser usados por um projeto ou usuário?
 
-    - [ ] Limites de faturamento
+    :black_large_square: Limites de faturamento
 
-    - [x] Políticas de cotas
+    :white_check_mark: Políticas de cotas
 
-    - [ ] Relatórios de faturamento
+    :black_large_square: Relatórios de faturamento
 
-    - [ ] Descontos por compromisso de uso
+    :black_large_square: Descontos por compromisso de uso
+
+---
 
 6. Qual ferramenta do Google Cloud permite estimar como as mudanças no uso da nuvem afetarão os custos?
 
-    - [ ] Cloud Trace
+    :black_large_square: Cloud Trace
 
-    - [x] Calculadora de preços do Google Cloud
+    :white_check_mark: Calculadora de preços do Google Cloud
 
-    - [ ] Cloud Monitoring
+    :black_large_square: Cloud Monitoring
 
-    - [ ] Cloud Billing
+    :black_large_square: Cloud Billing
+
+---
 
 7. O que representa o nível mais baixo na hierarquia de recursos do Google Cloud?
 
-    - [ ] Pastas
+    :black_large_square: Pastas
 
-    - [ ] Nó da organização
+    :black_large_square: Nó da organização
 
-    - [x] Recursos
+    :white_check_mark: Recursos
 
-    - [ ] Projetos
+    :black_large_square: Projetos
+
+<br>
 
 ## 2º Módulo - Excelência operacional e confiabilidade em escala
 

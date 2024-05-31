@@ -108,6 +108,8 @@
 
     :black_large_square: Controle
 
+---
+
 7. Qual princípio de segurança na nuvem garante que as práticas e medidas de segurança estejam alinhadas aos padrões e diretrizes estabelecidos?
 
     :white_check_mark: Compliance
