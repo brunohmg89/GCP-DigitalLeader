@@ -39,67 +39,81 @@
     - Cloud Run: um ambiente totalmente gerenciado para executar aplicativos conteinerizados.
     - App Engine: um serviço para compilar e implantar aplicativos da Web.
 
+<br>
+
 ### Questões
 
 1. Qual plataforma de código aberto desenvolvida originalmente pelo Google administra serviços e cargas de trabalho conteinerizados?
 
-    - [ ] TensorFlow
+    :black_large_square: TensorFlow
 
-    - [x] Kubernetes
+    :white_check_mark: Kubernetes
 
-    - [ ] Go
+    :black_large_square: Go
 
-    - [ ] Angular
+    :black_large_square: Angular
+
+---
 
 2. Qual das opções abaixo se refere ao processo em que uma carga de trabalho é reospedada sem mudar nada no código ou na arquitetura da carga?
 
-    - [ ] Migrar e aprimorar
+    :black_large_square: Migrar e aprimorar
 
-    - [ ] Refatorar e remodelar
+    :black_large_square: Refatorar e remodelar
 
-    - [x] Fazer uma migração lift-and-shift
+    :white_check_mark: Fazer uma migração lift-and-shift
 
-    - [ ] Reimaginar e planejar
+    :black_large_square: Reimaginar e planejar
+
+---
 
 3. Qual parte de uma máquina um contêiner virtualiza?
 
-    - [ ] Camadas de software acima do nível do firmware
+    :black_large_square: Camadas de software acima do nível do firmware
 
-    - [x] Camadas de software acima do nível do sistema operacional
+    :white_check_mark: Camadas de software acima do nível do sistema operacional
 
-    - [ ] Camadas de hardware acima do nível elétrico
+    :black_large_square: Camadas de hardware acima do nível elétrico
 
-    - [ ] Toda a máquina
+    :black_large_square: Toda a máquina
+
+---
 
 4. Qual opção de computação provisiona automaticamente em segundo plano os recursos, como a capacidade de computação, conforme necessário?
 
-    - [ ] IaaS (infraestrutura como serviço)
+    :black_large_square: IaaS (infraestrutura como serviço)
 
-    - [ ] PaaS (plataforma como serviço)
+    :black_large_square: PaaS (plataforma como serviço)
 
-    - [ ] Computação tradicional no local
+    :black_large_square: Computação tradicional no local
 
-    - [x] Computação sem servidor
+    :white_check_mark: Computação sem servidor
+
+---
 
 5. Uma empresa de viagens está nas etapas iniciais do desenvolvimento de um novo aplicativo, e ela quer testar o app com diferentes combinações de sistemas operacionais, processadores e opções de armazenamento. Qual recurso de computação em nuvem a empresa deve usar?
 
-    - [ ] Contêineres
+    :black_large_square: Contêineres
 
-    - [x] Instâncias de máquina virtual
+    :white_check_mark: Instâncias de máquina virtual
 
-    - [ ] Colocation
+    :black_large_square: Colocation
 
-    - [ ] Um ambiente de desenvolvimento local
+    :black_large_square: Um ambiente de desenvolvimento local
+
+---
 
 6. Uma empresa de manufatura está querendo migrar a infraestrutura local dela para a nuvem, mas a organização acredita que o acesso aos dados e aplicativos pode ficar indisponível em momentos importantes. A empresa quer garantir que se um data center ficar inativo, outro vai estar disponível para evitar a interrupção do serviço. O que essa empresa está buscando?
 
-    - [ ] Segurança
+    :black_large_square: Segurança
 
-    - [x] Confiabilidade
+    :white_check_mark: Confiabilidade
 
-    - [ ] Custo total de propriedade
+    :black_large_square: Custo total de propriedade
 
-    - [ ] Flexibilidade
+    :black_large_square: Flexibilidade
+
+<br>
 
 ## 2º módulo - Como modernizar aplicativos na nuvem
 
@@ -116,105 +130,124 @@
 
 - GKE Enterprise: Nessa plataforma gerenciada e pronta para uso, é possível executar aplicativos do Kubernetes em vários ambientes de nuvem. É uma forma consistente de gerenciar clusters e aplicativos do Kubernetes e serviços executados em qualquer lugar. Solução para ambientes multicloud ou hibridos.
 
+<br>
+
 ### Questões
 
 1. Qual é o nome do serviço de gerenciamento de APIs do Google Cloud que pode operar APIs com mais escala, segurança e automação?
 
-    - [ ] App Engine
+    :black_large_square: App Engine
 
-    - [x] Apigee
+    :white_check_mark: Apigee
 
-    - [ ] Cloud API Manager
+    :black_large_square: Cloud API Manager
 
-    - [ ] AppSheet
+    :black_large_square: AppSheet
+
+---
 
 2. No desenvolvimento moderno de aplicativos na nuvem, que nome é dado aos componentes sustentáveis, escalonáveis e implantados de forma independente que podem ser usados para criar vários tipos de aplicativos?
 
-    - [ ] Contêineres
+    :black_large_square: Contêineres
 
-    - [ ] Monolíticos
+    :black_large_square: Monolíticos
 
-    - [ ] DevOps
+    :black_large_square: DevOps
 
-    - [x] Microsserviços
+    :white_check_mark: Microsserviços
+
+---
 
 3. Qual é o nome da plataforma do Google Cloud pronta para produção e execução de aplicativos do Kubernetes em vários ambientes de nuvem?
 
-    - [ ] Knative
+    :black_large_square: Knative
 
-    - [x] GKE Enterprise
+    :white_check_mark: GKE Enterprise
 
-    - [ ] Container Registry
+    :black_large_square: Container Registry
 
-    - [ ] Google Kubernetes Engine
+    :black_large_square: Google Kubernetes Engine
+
+---
 
 4. Qual das opções abaixo é usada com frequência para descrever uma estratégia de migração de reospedagem para uma organização que executa aplicativos legados especializados que não são compatíveis com apps nativos da nuvem?
 
-    - [ ] Migrar e aprimorar
+    :black_large_square: Migrar e aprimorar
 
-    - [ ] Fazer a instalação e queda
+    :black_large_square: Fazer a instalação e queda
 
-    - [x] Fazer uma migração lift-and-shift
+    :white_check_mark: Fazer uma migração lift-and-shift
 
-    - [ ] Criar e implantar
+    :black_large_square: Criar e implantar
+
+---
 
 5. No desenvolvimento moderno de aplicativos, qual das opções abaixo é responsável pelo gerenciamento diário da infraestrutura baseada na nuvem, como aplicar patches, lançar upgrades e fazer o monitoramento?
 
-    - [ ] Segurança na nuvem
+    :black_large_square: Segurança na nuvem
 
-    - [x] Serviços gerenciados
+    :white_check_mark: Serviços gerenciados
 
-    - [ ] Contêineres
+    :black_large_square: Contêineres
 
-    - [ ] DevOps
+    :black_large_square: DevOps
+
+---
 
 6. Qual termo descreve um conjunto de instruções que permite que programas de software diferentes se comuniquem entre si?
 
-    - [ ] Interface de programação de rede
+    :black_large_square: Interface de programação de rede
 
-    - [ ] Link de comunicação de programação
+    :black_large_square: Link de comunicação de programação
 
-    - [ ] Interface do link de comunicação
+    :black_large_square: Interface do link de comunicação
 
-    - [x] Interface de programação do aplicativo
+    :white_check_mark: Interface de programação do aplicativo
+
+---
 
 7. Qual das opções abaixo é uma solução de infraestrutura em nuvem totalmente gerenciada que permite que as organizações executem as cargas de trabalho da Oracle em servidores dedicados na nuvem?
 
-    - [ ] App Engine
+    :black_large_square: App Engine
 
-    - [ ] SQL Server no Google Cloud
+    :black_large_square: SQL Server no Google Cloud
 
-    - [ ] Google Cloud VMware Engine
+    :black_large_square: Google Cloud VMware Engine
 
-    - [x] Solução Bare Metal
+    :white_check_mark: Solução Bare Metal
+
+---
 
 8. Qual nome é dado a um ambiente em que uma organização usa mais de um provedor de nuvem pública como parte da arquitetura?
 
-    - [ ] Nuvem comunitária
+    :black_large_square: Nuvem comunitária
 
-    - [ ] Nuvem híbrida
+    :black_large_square: Nuvem híbrida
 
-    - [x] Multicloud
+    :white_check_mark: Multicloud
 
-    - [ ] Nuvem de borda
+    :black_large_square: Nuvem de borda
+
+---
 
 9. Como as organizações podem criar novas fontes de receita usando APIs?
 
-    - [ ] Usando APIs para rastrear os envios dos clientes
+    :black_large_square: Usando APIs para rastrear os envios dos clientes
 
-    - [x] Cobrando aos desenvolvedores pelo acesso às APIs
+    :white_check_mark: Cobrando aos desenvolvedores pelo acesso às APIs
 
-    - [ ] Desenvolvendo novos produtos e serviços internamente
+    :black_large_square: Desenvolvendo novos produtos e serviços internamente
 
-    - [ ] Permitindo que os desenvolvedores acessem os dados deles gratuitamente
+    :black_large_square: Permitindo que os desenvolvedores acessem os dados deles gratuitamente
+
+---
 
 10. Qual nome é dado a um ambiente que tem uma combinação de infraestrutura local ou em uma nuvem privada e serviços da nuvem pública?
 
-    - [ ] Nuvem segura
+    :black_large_square: Nuvem segura
 
-    - [ ] Nuvem inteligente
+    :black_large_square: Nuvem inteligente
 
-    - [ ] Multicloud
+    :black_large_square: Multicloud
 
-    - [x] Nuvem híbrida
-
+    :white_check_mark: Nuvem híbrida
