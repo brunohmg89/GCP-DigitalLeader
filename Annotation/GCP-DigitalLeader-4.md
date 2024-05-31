@@ -122,7 +122,7 @@
     - Custo
     - Escalonabilidade
 
-- Google CLoud VMware Engine: Solução para re hospedar aplicativos legados. que migra cargas de trabalho VMware para a nuvem sem alterar aplicativos ou operações.
+- Google Cloud VMware Engine: Solução para re hospedar aplicativos legados. que migra cargas de trabalho VMware para a nuvem sem alterar aplicativos ou operações.
 
 - Bare Metal Solution: Outra solução para re hospedar aplicativos legados. Com essa solução de infraestrutura em nuvem totalmente gerenciada, as organizações executam cargas de trabalho Oracle em servidores Bare Metal dedicados na nuvem.
 

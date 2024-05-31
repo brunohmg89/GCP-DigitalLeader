@@ -25,7 +25,7 @@
     - Responsabilidade
     - Escalonabilidade
     - Manutenção e Atualização
-    - Despesasa de capital
+    - Despesas de capital (CapEx)
 
 - Ameaças cibernéticas
     - Engenharia Social
@@ -34,107 +34,127 @@
     - Sistemas vulneraveis de terceiros
     - Erros de configuração
 
+<br>
+
 ### Questões
 
 1. Em qual ameaça cibernética a vítima é obrigada a pagar um resgate para reaver o acesso aos arquivos e sistemas?
 
-    - [x] Ransomware
+    :white_check_mark: Ransomware
 
-    - [ ] Cavalo de troia
+    :black_large_square: Cavalo de troia
 
-    - [ ] Spyware
+    :black_large_square: Spyware
 
-    - [ ] Vírus
+    :black_large_square: Vírus
+
+---
 
 2. Qual definição a seguir é a melhor descrição de um firewall?
 
-    - [ ] Um modelo de segurança que pressupõe que nenhum usuário ou dispositivo é confiável.
+    :black_large_square: Um modelo de segurança que pressupõe que nenhum usuário ou dispositivo é confiável.
 
-    - [ ] Um software que criptografa dados para que não sejam lidos por usuários não autorizados.
+    :black_large_square: Um software que criptografa dados para que não sejam lidos por usuários não autorizados.
 
-    - [x] Um dispositivo de segurança de rede que monitora e controla o tráfego de rede que entra e sai com base em regras predefinidas.
+    :white_check_mark: Um dispositivo de segurança de rede que monitora e controla o tráfego de rede que entra e sai com base em regras predefinidas.
 
-    - [ ] Um conjunto de medidas de segurança criado para proteger uma rede ou um sistema de computação contra ataques cibernéticos.
+    :black_large_square: Um conjunto de medidas de segurança criado para proteger uma rede ou um sistema de computação contra ataques cibernéticos.
+
+---
 
 3. Em qual ameaça cibernética comum os usuários são enganados para que revelem informações sensíveis ou realizem ações que comprometam a segurança?
 
-    - [ ] Erro de configuração
+    :black_large_square: Erro de configuração
 
-    - [ ] Malware
+    :black_large_square: Malware
 
-    - [x] Phishing
+    :white_check_mark: Phishing
 
-    - [ ] Ransomware
+    :black_large_square: Ransomware
+
+---
 
 4. Qual item a seguir é um benefício da segurança na nuvem em relação à segurança tradicional no local?
 
-    - [x] Aumento da escalonabilidade.
+    :white_check_mark: Aumento da escalonabilidade.
 
-    - [ ] As atualizações de segurança são instaladas apenas uma vez por semana.
+    :black_large_square: As atualizações de segurança são instaladas apenas uma vez por semana.
 
-    - [ ] Grande investimento inicial de capital.
+    :black_large_square: Grande investimento inicial de capital.
 
-    - [ ] Acesso físico ao hardware.
+    :black_large_square: Acesso físico ao hardware.
+
+---
 
 5. Quais são os três aspectos de segurança na nuvem que compõem as bases da tríade CIA?
 
-    - [ ] Contêineres, infraestrutura e arquitetura
+    :black_large_square: Contêineres, infraestrutura e arquitetura
 
-    - [ ] Certificados, inteligência e autenticação
+    :black_large_square: Certificados, inteligência e autenticação
 
-    - [ ] Conformidade, identidade e gerenciamento de acesso
+    :black_large_square: Conformidade, identidade e gerenciamento de acesso
 
-    - [x] Confidencialidade, integridade e disponibilidade
+    :white_check_mark: Confidencialidade, integridade e disponibilidade
+
+---
 
 6. Qual princípio de segurança na nuvem está relacionado à manutenção de dados precisos e confiáveis?
 
-    - [ ] Compliance
+    :black_large_square: Compliance
 
-    - [ ] Confidencialidade
+    :black_large_square: Confidencialidade
 
-    - [x] Integridade
+    :white_check_mark: Integridade
 
-    - [ ] Controle
+    :black_large_square: Controle
 
 7. Qual princípio de segurança na nuvem garante que as práticas e medidas de segurança estejam alinhadas aos padrões e diretrizes estabelecidos?
 
-    - [x] Compliance
+    :white_check_mark: Compliance
 
-    - [ ] Controle
+    :black_large_square: Controle
 
-    - [ ] Integridade
+    :black_large_square: Integridade
 
-    - [ ] Confidencialidade
+    :black_large_square: Confidencialidade
+
+---
 
 8. Qual ameaça cibernética ocorre quando são cometidos erros durante a configuração de recursos que acabam expondo dados sensíveis e sistemas a acesso não autorizado?
 
-    - [ ] Phishing
+    :black_large_square: Phishing
 
-    - [ ] Malware
+    :black_large_square: Malware
 
-    - [ ] Vírus
+    :black_large_square: Vírus
 
-    - [x] Erros de configuração
+    :white_check_mark: Erros de configuração
+
+---
 
 9. Qual princípio de segurança defende que os usuários tenham apenas o acesso de que precisam para desempenhar suas funções?
 
-    - [ ] Acesso privilegiado
+    :black_large_square: Acesso privilegiado
 
-    - [ ] Arquitetura de confiança zero
+    :black_large_square: Arquitetura de confiança zero
 
-    - [ ] Segurança por padrão
+    :black_large_square: Segurança por padrão
 
-    - [x] Privilégio mínimo
+    :white_check_mark: Privilégio mínimo
+
+---
 
 10. Qual é a responsabilidade do provedor de nuvem em um modelo de segurança de nuvem?
 
-    - [ ] Gerenciar o acesso dos usuários do cliente.
+    :black_large_square: Gerenciar o acesso dos usuários do cliente.
 
-    - [ ] Proteger os dados do cliente.
+    :black_large_square: Proteger os dados do cliente.
 
-    - [x] Manter a infraestrutura do cliente.
+    :white_check_mark: Manter a infraestrutura do cliente.
 
-    - [ ] Configurar os aplicativos do cliente.
+    :black_large_square: Configurar os aplicativos do cliente.
+
+<br>
 
 ## 2º módulo - Infraestrutura confiável do Google
 
@@ -145,13 +165,13 @@
     - PUE - Power usage effectiveness (eficiência no uso de energia)
 
 - KMS Cloud Key Management Service - Recurso de criptografia de dados
-    - o Google criptografa os dados em repousos automaticamente sem custo adicional.
+    - o Google criptografa os dados em repouso automaticamente sem custo adicional.
 
 - Principal recurso utilizado pela google de criptografia é o AES (Advanced Encryption Standard)
 
 - Google criptografa os dados em "repouso" em "transito" e em "uso"
 
-- Os 3 A: Autenticação - Autorização e Auditoria
+- Os 3 A: Autenticação, Autorização e Auditoria
 
 - IAM (Identity and Access Management): Para ter controle granular sobre quem está autorizado a acessar os recursos do Google Cloud e quais ações são permitidas neles
 
@@ -173,87 +193,105 @@
     - Incidente Response
     - Educação dos usuários
 
+<br>
+
 ### Questões
 
 1. Qual item a seguir é um potente algoritmo de criptografia em que governos e empresas do mundo todo confiam?
 
-    - [x] Padrão de criptografia avançada (AES)
+    :white_check_mark: Padrão de criptografia avançada (AES)
 
-    - [ ] Criptografia isomórfica (IE)
+    :black_large_square: Criptografia isomórfica (IE)
 
-    - [ ] Criptografia baseada em reticulados (LBC)
+    :black_large_square: Criptografia baseada em reticulados (LBC)
 
-    - [ ] Criptografia pós-quântica (PQC)
+    :black_large_square: Criptografia pós-quântica (PQC)
+
+---
 
 2. Selecione a afirmação correta sobre o Identity and Access Management (IAM).
 
-    - [ ] O IAM é um serviço em nuvem que criptografa dados em repouso e em trânsito baseados na nuvem.
+    :black_large_square: O IAM é um serviço em nuvem que criptografa dados em repouso e em trânsito baseados na nuvem.
 
-    - [ ] O IAM é um sistema que detecta tráfego malicioso e impede que ele entre em uma rede da nuvem.
+    :black_large_square: O IAM é um sistema que detecta tráfego malicioso e impede que ele entre em uma rede da nuvem.
 
-    - [ ] O IAM é uma solução para gerenciamento de eventos e informações de segurança na nuvem que coleta e analisa dados de registro de dispositivos e aplicativos de segurança na nuvem.
+    :black_large_square: O IAM é uma solução para gerenciamento de eventos e informações de segurança na nuvem que coleta e analisa dados de registro de dispositivos e aplicativos de segurança na nuvem.
 
-    - [x] O IAM fornece controle granular de quem tem acesso aos recursos do Google Cloud e o que é possível fazer com esses recursos.
+    :white_check_mark: O IAM fornece controle granular de quem tem acesso aos recursos do Google Cloud e o que é possível fazer com esses recursos.
+
+---
 
 3. O Google Cloud criptografa dados em vários estados. Qual estado indica que os dados estão sendo processados ativamente por um computador?
 
-    - [ ] Dados em trânsito
+    :black_large_square: Dados em trânsito
 
-    - [ ] Dados em repouso
+    :black_large_square: Dados em repouso
 
-    - [x] Dados em uso
+    :white_check_mark: Dados em uso
 
-    - [ ] Data lake
+    :black_large_square: Data lake
+
+---
 
 4. Qual prática envolve uma combinação de processos e tecnologias que ajudam a reduzir o risco de vazamento de dados, interrupções no sistema e outros incidentes de segurança na nuvem?
 
-    - [ ] Gerenciamento de postura de segurança na nuvem (CSPM)
+    :black_large_square: Gerenciamento de postura de segurança na nuvem (CSPM)
 
-    - [ ] Segurança de confiança zero
+    :black_large_square: Segurança de confiança zero
 
-    - [x] Operações de segurança (SecOps)
+    :white_check_mark: Operações de segurança (SecOps)
 
-    - [ ] Engenharia de confiabilidade do site (SRE)
+    :black_large_square: Engenharia de confiabilidade do site (SRE)
+
+---
 
 5. Qual recurso de segurança adiciona uma camada extra de proteção nos sistemas baseados na nuvem?
 
-    - [x] Verificação em duas etapas (2SV)
+    :white_check_mark: Verificação em duas etapas (2SV)
 
-    - [ ] Prevenção contra perda de dados (DLP)
+    :black_large_square: Prevenção contra perda de dados (DLP)
 
-    - [ ] Firewall como serviço (FaaS)
+    :black_large_square: Firewall como serviço (FaaS)
 
-    - [ ] Gerenciamento de eventos e informações de segurança (SIEM)
+    :black_large_square: Gerenciamento de eventos e informações de segurança (SIEM)
+
+---
 
 6. Qual aspecto do Gerenciamento de identificação do Cloud verifica a identidade de usuários e sistemas?
 
-    - [ ] Autorização
+    :black_large_square: Autorização
 
-    - [ ] Auditoria
+    :black_large_square: Auditoria
 
-    - [x] Autenticação
+    :white_check_mark: Autenticação
 
-    - [ ] Accounting
+    :black_large_square: Accounting
+
+---
 
 7. Qual produto do Google Cloud fornece proteção robusta contra ataques distribuídos de negação de serviço (DDoS)?
 
-    - [x] Google Cloud Armor
+    :white_check_mark: Google Cloud Armor
 
-    - [ ] Cloud Load Balancing
+    :black_large_square: Cloud Load Balancing
 
-    - [ ] Cloud IAM
+    :black_large_square: Cloud IAM
 
-    - [ ] Cloud Monitoring
+    :black_large_square: Cloud Monitoring
+
+---
 
 8. Qual métrica do Google Cloud mede a eficiência dos data centers para alcançar as metas de economia de custos e reduzir a pegada de carbono?
 
-    - [ ] Custo total de propriedade (TCO)
+    :black_large_square: Custo total de propriedade (TCO)
 
-    - [ ] Proporção de eficiência energética (EER)
+    :black_large_square: Proporção de eficiência energética (EER)
 
-    - [x] Eficiência no uso de energia (PUE)
+    :white_check_mark: Eficiência no uso de energia (PUE)
 
-    - [ ] Eficiência da infraestrutura do data center (DCiE)
+    :black_large_square: Eficiência da infraestrutura do data center (DCiE)
+
+<br>
 
 ## 3º Módulo - Compliance e princípios de confiança do Google Cloud
 
@@ -264,9 +302,9 @@
     - Quarto: todos os dados dos clientes são criptografados por padrão.
     - Quinto: oferecemos proteção contra o acesso interno aos seus dados.
     - Sexto: nunca damos a entidades governamentais acesso "backdoor" aos seus dados.
-    - Sete: Nossas práticas de privacidade são auditadas de acordo com padrões internacionais.
+    - Sétimo: Nossas práticas de privacidade são auditadas de acordo com padrões internacionais.
 
-- Data sovereignty: refere-se ao conceito legal de que os dados estão sujeitos às leis e regulamentações do país onde eles residem.
+- Data sovereignty (Soberania): refere-se ao conceito legal de que os dados estão sujeitos às leis e regulamentações do país onde eles residem.
 
 - Data residency: se refere ao local físico onde os dados são armazenados ou tratados.
 
@@ -274,54 +312,64 @@
 
 - Compliance Reports Manager: uma ferramenta potente à sua disposição. Essa plataforma intuitiva oferece acesso fácil e sob demanda a recursos críticos de conformidade, sem custo financeiro adicional.
 
+<br>
+
 ### Questões
 
 1. Qual item é um dos sete princípios de confiança do Google Cloud?
 
-    - [x] Todos os dados dos clientes são criptografados por padrão.
+    :white_check_mark: Todos os dados dos clientes são criptografados por padrão.
 
-    - [ ] O Google dá acesso backdoor a entidades governamentais mediante solicitação.
+    :black_large_square: O Google dá acesso backdoor a entidades governamentais mediante solicitação.
 
-    - [ ] O Google Cloud usa os dados dos clientes para publicidade.
+    :black_large_square: O Google Cloud usa os dados dos clientes para publicidade.
 
-    - [ ] O Google vende os dados dos clientes a terceiros.
+    :black_large_square: O Google vende os dados dos clientes a terceiros.
+
+---
 
 2. Qual termo descreve o conceito de que os dados estão sujeitos às leis e regulamentações do país onde residem?
 
-    - [x] Soberania de dados
+    :white_check_mark: Soberania de dados
 
-    - [ ] Redundância de dados
+    :black_large_square: Redundância de dados
 
-    - [ ] Residência dos dados
+    :black_large_square: Residência dos dados
 
-    - [ ] Consistência de dados
+    :black_large_square: Consistência de dados
+
+---
 
 3. Onde estão os detalhes sobre as certificações e os padrões de compliance que o Google Cloud cumpre?
 
-    - [ ] Marketplace
+    :black_large_square: Marketplace
 
-    - [x] Central de recursos de compliance
+    :white_check_mark: Central de recursos de compliance
 
-    - [ ] Console do Google Cloud
+    :black_large_square: Console do Google Cloud
 
-    - [ ] Bibliotecas de cliente do Cloud Storage
+    :black_large_square: Bibliotecas de cliente do Cloud Storage
+
+---
 
 4. Que tipo de relatório é uma forma de o Google Cloud compartilhar dados sobre como as políticas e ações de governos e corporações afetam a privacidade, a segurança e o acesso à informação?
 
-    - [ ] Relatórios de compliance
+    :black_large_square: Relatórios de compliance
 
-    - [x] Relatórios de transparência
+    :white_check_mark: Relatórios de transparência
 
-    - [ ] Relatórios de segurança
+    :black_large_square: Relatórios de segurança
 
-    - [ ] Relatórios de faturamento
+    :black_large_square: Relatórios de faturamento
+
+---
 
 5. Qual recurso do Google Cloud permite aos usuários controlar a localização física dos dados?
 
-    - [ ] Áreas
+    :black_large_square: Áreas
 
-    - [x] Regiões
+    :white_check_mark: Regiões
 
-    - [ ] Distritos
+    :black_large_square: Distritos
 
-    - [ ] Lugares
+    :black_large_square: Lugares
