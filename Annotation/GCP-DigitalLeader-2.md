@@ -315,6 +315,8 @@
     - Pub/Sub: é um serviço de distribuição que pode receber mensagens de vários streams de dispositivos, como eventos de jogos, dispositivos IoT e aplicativos.
     - Dataflow: cria um pipeline para processar dados tanto de streaming quanto em lote. Nesse caso, "processar" significa as etapas para extrair, transformar e carregar dados, às vezes chamadas de ETL. Uma solução conhecida para o design de pipelines é o Apache Beam.
 
+<br>
+
 ### Questões
 
 1. Qual plataforma de Business Intelligence do Google Cloud foi projetada para ajudar usuários e equipes a analisar, visualizar e compartilhar dados?
@@ -327,6 +329,8 @@
 
     :black_large_square: Cloud Storage
 
+---
+
 2. A análise de streaming é o processamento e a análise de registros de dados continuamente, em vez de em lotes. Qual dessas opções é uma fonte de dados de streaming?
 
     :black_large_square: Endereços de e-mail do cliente
@@ -336,6 +340,8 @@
     :black_large_square: Resultados de exames médicos
 
     :white_check_mark: Sensores de temperatura
+
+---
 
 3. No contexto do processamento de dados, o que significa ETL?
 
@@ -347,6 +353,8 @@
 
     :black_large_square: Event-time logic (Lógica de hora do evento)
 
+---
+
 4. Qual é o serviço de mensagens distribuídas do Google Cloud que pode receber mensagens de vários streams de dispositivos, como eventos de jogos, dispositivos da Internet das Coisas (IoT) e streams de aplicativos?
 
     :black_large_square: Dataplex
@@ -357,6 +365,8 @@
 
     :white_check_mark: Pub/Sub
 
+---
+
 5. Qual afirmação sobre o Dataflow é verdadeira?
 
     :black_large_square: É um data warehouse baseado na nuvem usado para armazenar e analisar dados de streaming e em lote.
@@ -366,6 +376,8 @@
     :black_large_square: Facilita a limpeza e a transformação de dados usando ferramentas visuais e sugestões baseadas em machine learning.
 
     :white_check_mark: Cuida da configuração e da manutenção da infraestrutura para pipelines de processamento.
+
+---
 
 6. Qual recurso do Looker facilita a integração com fluxos de trabalho atuais e o compartilhamento com várias equipes de uma organização?
 
