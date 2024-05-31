@@ -135,132 +135,169 @@
     - Erros: são eventos que medem as falhas do sistema ou outros problemas.
 
 - Conceitos de SRE:
-    - SLI: Service Level Indicators: consistem em medidas que mostram o desempenho de um sistema ou serviço e as métricas específicas associadas, como tempo de resposta, taxa de erro ou percentual de atividade, que é a quantidade de tempo que um sistema fica disponível para uso.
-    - SLO: Service Level Objective: são as metas de desempenho definidas para um sistema com base nos SLIs. Eles definem o nível de confiabilidade ou de desempenho desejado.
-    - SLA: Service Level Agreements: descrevem as promessas e garantias relativas à qualidade do serviço. Os SLAs incluem os SLOs definidos, as métricas de desempenho, as garantias de atividade e quaisquer penalidades ou soluções resultantes caso o provedor não cumpra esses compromissos.
+    - SLI (Service Level Indicators): Consistem em medidas que mostram o desempenho de um sistema ou serviço e as métricas específicas associadas, como tempo de resposta, taxa de erro ou percentual de atividade, que é a quantidade de tempo que um sistema fica disponível para uso.
+    - SLO (Service Level Objective): São as metas de desempenho definidas para um sistema com base nos SLIs. Eles definem o nível de confiabilidade ou de desempenho desejado.
+    - SLA (Service Level Agreements): Descrevem as promessas e garantias relativas à qualidade do serviço. Os SLAs incluem os SLOs definidos, as métricas de desempenho, as garantias de atividade e quaisquer penalidades ou soluções resultantes caso o provedor não cumpra esses compromissos.
 
-- High availability -> Alta disponibilidade: consiste na capacidade que um sistema tem de permanecer operacional e acessível aos usuários, mesmo em caso de falhas de hardware ou software.
+- High availability (Alta disponibilidade): Consiste na capacidade que um sistema tem de permanecer operacional e acessível aos usuários, mesmo em caso de falhas de hardware ou software.
 
-- DR -> Disaster Recobery -> Recuperação de desastre: se refere ao processo de restauração de um sistema para um estado funcional após uma grande interrupção ou desastre.
+- Disaster Recobery (Recuperação de desastre): Se refere ao processo de restauração de um sistema para um estado funcional após uma grande interrupção ou desastre.
 
-- Redundância: está relacionada à duplicação de componentes ou recursos críticos a fim de fornecer alternativas de backup.
+- Redundância: Está relacionada à duplicação de componentes ou recursos críticos a fim de fornecer alternativas de backup.
 
-- Replicação: envolve a criação de várias cópias de dados ou serviços e a distribuição delas em diferentes servidores ou locais.
+- Replicação: Envolve a criação de várias cópias de dados ou serviços e a distribuição delas em diferentes servidores ou locais.
 
 - Regiões: Os provedores de serviços em nuvem oferecem diversas regiões ou locais de data center espalhados por diferentes áreas geográficas.
 
-- Infra escalavel: são capazes de lidar com diversas cargas de trabalho e acomodar o aumento da demanda sem comprometer o desempenho ou a disponibilidade.
+- Infra escalavel: São capazes de lidar com diversas cargas de trabalho e acomodar o aumento da demanda sem comprometer o desempenho ou a disponibilidade.
 
-- Backups: é essencial que as organizações realizem backups regulares de dados e configurações críticas para garantir que, em caso de perda de dados, falhas de hardware ou ataques cibernéticos, seja possível restaurar os sistemas para um estado anterior.
+- Backups: É essencial que as organizações realizem backups regulares de dados e configurações críticas para garantir que, em caso de perda de dados, falhas de hardware ou ataques cibernéticos, seja possível restaurar os sistemas para um estado anterior.
 
-- Observabilidade: envolve a coleta, a análise e a visualização de dados de várias fontes em um sistema para receber insights sobre o desempenho, a integridade e o comportamento dele.
+- Observabilidade: Envolve a coleta, a análise e a visualização de dados de várias fontes em um sistema para receber insights sobre o desempenho, a integridade e o comportamento dele.
 
-- Pacote de operações -> Monitoramento GCP
-    - Cloud monitoring: fornece uma perspectiva abrangente da infraestrutura e dos aplicativos na nuvem. Ele coleta métricas, registros e traces dos aplicativos e das infraestruturas e fornece insights sobre o desempenho, a integridade e a disponibilidade deles.
-    - Cloud Logging: coleta e armazena todos os registros de aplicativos e infraestruturas.
-    - Cloud trace: ajuda a identificar gargalos de desempenho em aplicativos.
-    - Cloud Profiler: identifica o uso de energia de CPU, memória e outros recursos por um aplicativo.
-    - Error reporting: conta, analisa e agrega em tempo real as falhas na execução de serviços em nuvem.
+- Pacote de operações - Monitoramento GCP
+    - Cloud Monitoring: Fornece uma perspectiva abrangente da infraestrutura e dos aplicativos na nuvem. Ele coleta métricas, registros e traces dos aplicativos e das infraestruturas e fornece insights sobre o desempenho, a integridade e a disponibilidade deles.
+    - Cloud Logging: Coleta e armazena todos os registros de aplicativos e infraestruturas.
+    - Cloud Trace: Ajuda a identificar gargalos de desempenho em aplicativos.
+    - Cloud Profiler: Identifica o uso de energia de CPU, memória e outros recursos por um aplicativo.
+    - Error Reporting: Conta, analisa e agrega em tempo real as falhas na execução de serviços em nuvem.
 
 - Google Cloud Customer Care:
     - Basic: O Suporte Básico é gratuito para todos os clientes do Google Cloud. Ele dá acesso à documentação, ao Suporte da comunidade e do Cloud Billing e às recomendações do Active Assist.
     - Standard: O Suporte Padrão é recomendado para cargas de trabalho em desenvolvimento. É possível começar a usar a nuvem com acesso ilimitado ao suporte técnico, o que permite solucionar problemas, fazer testes e conhecer os recursos.
+        - Casos P2: quatro horas
+        - Casos P3: oito horas
+        - Casos P4: oito horas
+        - Respostas durante o horário comercial em dias úteis para problemas de alto impacto
+        - Atendimento somente em inglês
     - Enhanced: O Suporte Avançado foi pensado para cargas de trabalho em produção. Ele conta com tempos de resposta rápidos e serviços adicionais para otimizar sua experiência com um suporte robusto e de alta qualidade.
+        - Casos P1: uma hora
+        - Casos P2: quatro horas
+        - Casos P3: oito horas
+        - Casos P4: oito horas
+        - Respostas 24 horas para problemas de alto impacto e impacto crítico
+        - Inglês, japonês, mandarim, coreano e francês
     - Premium: O Suporte Premium foi feito para empresas com cargas de trabalho essenciais. Ele tem os menores tempos de resposta, suporte baseado no cliente e um Gerente técnico de contas exclusivo.
+        - Casos P1: 15 minutos
+        - Casos P2: duas horas
+        - Casos P3: quatro horas
+        - Casos P4: oito horas
+        - Respostas 24 horas para problemas de alto impacto e impacto crítico
+        - Inglês, japonês, mandarim, coreano e francês
 
 - Abertura de cases: menos no Basic
+
+<br>
 
 ### Questões
 
 1. O pacote de operações do Google Cloud oferece um conjunto abrangente de ferramentas de monitoramento, geração de registros e diagnóstico. Qual ferramenta coleta dados de latência de aplicativos e fornece insights sobre o desempenho deles?
 
-    - [ ] Cloud Profiler
+    :black_large_square: Cloud Profiler
 
-    - [ ] Cloud Logging
+    :black_large_square: Cloud Logging
 
-    - [ ] Cloud Monitoring
+    :black_large_square: Cloud Monitoring
 
-    - [x] Cloud Trace
+    :white_check_mark: Cloud Trace
+
+---
 
 2. O que a ferramenta Cloud Profiler faz?
 
-    - [x] Ela identifica quanta energia, memória e outros recursos de CPU um aplicativo usa.
+    :white_check_mark: Ela identifica quanta energia, memória e outros recursos de CPU um aplicativo usa.
 
-    - [ ] Ela conta, analisa e agrega as falhas na execução de serviços em nuvem em tempo real.
+    :black_large_square: Ela conta, analisa e agrega as falhas na execução de serviços em nuvem em tempo real.
 
-    - [ ] Ela fornece uma perspectiva abrangente da sua infraestrutura e aplicativos em nuvem.
+    :black_large_square: Ela fornece uma perspectiva abrangente da sua infraestrutura e aplicativos em nuvem.
 
-    - [ ] Ela coleta e armazena todos os registros de aplicativos e infraestrutura.
+    :black_large_square: Ela coleta e armazena todos os registros de aplicativos e infraestrutura.
 
-3. Um dos quatro sinais de outro é a latência. O que a latência mede?
+---
 
-    - [ ] As falhas do sistema ou outros problemas.
+3. Um dos quatro sinais de ouro é a latência. O que a latência mede?
 
-    - [ ] Quantas solicitações chegam a um sistema.
+    :black_large_square: As falhas do sistema ou outros problemas.
 
-    - [ ] A proximidade de um sistema da capacidade.
+    :black_large_square: Quantas solicitações chegam a um sistema.
 
-    - [x] Quanto tempo leva para uma parte específica de um sistema retornar um resultado.
+    :black_large_square: A proximidade de um sistema da capacidade.
+
+    :white_check_mark: Quanto tempo leva para uma parte específica de um sistema retornar um resultado.
+
+---
 
 4. Como a replicação ajuda no projeto de infraestrutura e processos resilientes e tolerantes a falhas em um ambiente de nuvem?
 
-    - [ ] Ela monitora e controla o tráfego de rede que entra e sai com base em regras de segurança predefinidas.
+    :black_large_square: Ela monitora e controla o tráfego de rede que entra e sai com base em regras de segurança predefinidas.
 
-    - [ ] Ela duplica componentes ou recursos críticos para fornecer alternativas de backup.
+    :black_large_square: Ela duplica componentes ou recursos críticos para fornecer alternativas de backup.
 
-    - [x] Ela cria várias cópias de dados ou serviços e as distribui em diferentes servidores ou locais.
+    :white_check_mark: Ela cria várias cópias de dados ou serviços e as distribui em diferentes servidores ou locais.
 
-    - [ ] Ela dimensiona a infraestrutura para lidar com diversas cargas de trabalho e acomodar o aumento da demanda.
+    :black_large_square: Ela dimensiona a infraestrutura para lidar com diversas cargas de trabalho e acomodar o aumento da demanda.
+
+---
 
 5. Qual métrica mostra o desempenho de um sistema ou serviço?
 
-    - [x] Indicadores de nível de serviço
+    :white_check_mark: Indicadores de nível de serviço
 
-    - [ ] Contratos de nível de serviço
+    :black_large_square: Contratos de nível de serviço
 
-    - [ ] Acordos de nível de serviço
+    :black_large_square: Acordos de nível de serviço
 
-    - [ ] Objetivos de nível de serviço
+    :black_large_square: Objetivos de nível de serviço
+
+---
 
 6. De quem é a função de garantir a confiabilidade, disponibilidade e eficiência dos sistemas e serviços de software implantados na nuvem?
 
-    - [ ] Engenheiro de segurança em nuvem
+    :black_large_square: Engenheiro de segurança em nuvem
 
-    - [ ] Cloud Architect
+    :black_large_square: Cloud Architect
 
-    - [x] Engenheiro de confiabilidade do site
+    :white_check_mark: Engenheiro de confiabilidade do site
 
-    - [ ] Engenheiro de DevOps
+    :black_large_square: Engenheiro de DevOps
+
+---
 
 7. Quais destas medidas devem ser automatizadas com frequência e armazenadas em locais geograficamente separados para permitir a rápida recuperação de desastres ou falhas?
 
-    - [ ] Arquivos de registro
+    :black_large_square: Arquivos de registro
 
-    - [ ] Patches de segurança
+    :black_large_square: Patches de segurança
 
-    - [x] Backups
+    :white_check_mark: Backups
 
-    - [ ] Dados de inventário
+    :black_large_square: Dados de inventário
+
+---
 
 8. Por que encaminhar um tíquete de suporte para um supervisor nem sempre é o melhor a se fazer para tentar resolver um problema?
 
-    - [ ] Isso pode diminuir o número de máquinas virtuais disponíveis.
+    :black_large_square: Isso pode diminuir o número de máquinas virtuais disponíveis.
 
-    - [ ] Isso pode aumentar o custo mensal dos planos de suporte.
+    :black_large_square: Isso pode aumentar o custo mensal dos planos de suporte.
 
-    - [x] Isso pode atrapalhar o fluxo de trabalho da equipe de atendimento ao cliente e atrasar a resolução de outros casos.
+    :white_check_mark: Isso pode atrapalhar o fluxo de trabalho da equipe de atendimento ao cliente e atrasar a resolução de outros casos.
 
-    - [ ] Isso pode resultar no aumento do consumo de energia, impactando a neutralidade de carbono.
+    :black_large_square: Isso pode resultar no aumento do consumo de energia, impactando a neutralidade de carbono.
+
+---
 
 9. Qual nível de suporte do Google Cloud Customer Care foi desenvolvido para empresas com cargas de trabalho críticas e apresenta o tempo de resposta mais rápido?
 
-    - [ ] Suporte Avançado
+    :black_large_square: Suporte Avançado
 
-    - [ ] Suporte Básico
+    :black_large_square: Suporte Básico
 
-    - [x] Suporte Premium
+    :white_check_mark: Suporte Premium
 
-    - [ ] Suporte Padrão
+    :black_large_square: Suporte Padrão
+
+<br>
 
 ## 3º módulo - Sustentabilidade com o Google Cloud
 
@@ -272,34 +309,40 @@
 
 - Até 2030, pretendem ser a primeira grande empresa a operar sem carbono.
 
+<br>
+
 ### Questões
 
 1. Os data centers do Google foram os primeiros a conquistar a certificação ISO 14001. Qual é o propósito deste padrão?
 
-    - [ ] É uma estrutura de compras sustentáveis, que é o processo de aquisição de bens e serviços minimizando os impactos ambientais e sociais.
+    :black_large_square: É uma estrutura de compras sustentáveis, que é o processo de aquisição de bens e serviços minimizando os impactos ambientais e sociais.
 
-    - [ ] É uma estrutura para identificar, prever e avaliar os impactos ambientais de um projeto proposto.
+    :black_large_square: É uma estrutura para identificar, prever e avaliar os impactos ambientais de um projeto proposto.
 
-    - [ ] É uma estrutura relacionada à pegada de carbono que calcula a quantidade total de emissões de gases de efeito estufa associadas a um produto, serviço ou organização.
+    :black_large_square: É uma estrutura relacionada à pegada de carbono que calcula a quantidade total de emissões de gases de efeito estufa associadas a um produto, serviço ou organização.
 
-    - [x] Ele representa uma estrutura para uma organização melhorar o próprio desempenho ambiental aprimorando a eficiência dos recursos e reduzindo resíduos.
+    :white_check_mark: Ele representa uma estrutura para uma organização melhorar o próprio desempenho ambiental aprimorando a eficiência dos recursos e reduzindo resíduos.
+
+---
 
 2. Qual meta de sustentabilidade o Google pretende alcançar até 2030?
 
-    - [ ] Ser a primeira grande empresa a gerir a própria usina eólica.
+    :black_large_square: Ser a primeira grande empresa a gerir a própria usina eólica.
 
-    - [ ] Ser a primeira grande empresa a alcançar 100% de energia renovável.
+    :black_large_square: Ser a primeira grande empresa a alcançar 100% de energia renovável.
 
-    - [x] Ser a primeira grande empresa a operar totalmente livre de carbono.
+    :white_check_mark: Ser a primeira grande empresa a operar totalmente livre de carbono.
 
-    - [ ] Ser a primeira grande empresa a ser neutra em carbono.
+    :black_large_square: Ser a primeira grande empresa a ser neutra em carbono.
+
+---
 
 3. Kaluza é uma solução de carregamento inteligente para veículos elétricos. Como ela usa o BigQuery e o Looker Studio?
 
-    - [ ] Ela usa o BigQuery e Looker Studio para conteinerizar cargas de trabalho.
+    :black_large_square: Ela usa o BigQuery e Looker Studio para conteinerizar cargas de trabalho.
 
-    - [ ] Ela usa o BigQuery e Looker Studio para criar e implantar modelos de machine learning.
+    :black_large_square: Ela usa o BigQuery e Looker Studio para criar e implantar modelos de machine learning.
 
-    - [x] Ela usa o BigQuery e Looker Studio para criar painéis com insights operacionais granulares.
+    :white_check_mark: Ela usa o BigQuery e Looker Studio para criar painéis com insights operacionais granulares.
 
-    - [ ] Ela usa o BigQuery e Looker Studio para cumprir regulamentações governamentais.
+    :black_large_square: Ela usa o BigQuery e Looker Studio para cumprir regulamentações governamentais.
