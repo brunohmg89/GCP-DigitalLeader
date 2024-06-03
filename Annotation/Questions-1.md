@@ -273,7 +273,7 @@
     :black_large_square: None of the above
 
     > - Cloud SQL for MySQL - Features
-        - Fully managed MySQL Community Edition databases in the cloud.
+    - Fully managed MySQL Community Edition databases in the cloud.
         - Cloud SQL instances support MySQL 8.0, 5.7 (default), and 5.6, and provide up to 624 GB of RAM and 64 TB of data storage, with the option to automatically increase the storage size, as needed.
         - Create and manage instances in the Google Cloud Console.
         - Instances are available in the Americas, EU, Asia, and Australia.
