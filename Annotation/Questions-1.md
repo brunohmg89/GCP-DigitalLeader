@@ -8,8 +8,6 @@ Reference: <https://www.examtopics.com/exams/google/>
     
     **Tradução:** _Qual serviço ou recurso do Google Cloud permite criar modelos de machine learning usando SQL padrão e dados em um data warehouse?_
 
-<br>
-
     :white_check_mark: BigQuery ML 
     :black_large_square: TensorFlow 
     :black_large_square: C. AutoML Tables 
