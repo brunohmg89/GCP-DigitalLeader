@@ -101,7 +101,7 @@
 ---
 
 7. What characteristics should an organization adopt to be a DevOps organization?<br>
-    _Quais características uma organização deve adotar para ser uma organização DevOps?
+    _Quais características uma organização deve adotar para ser uma organização DevOps?_
 
     :black_large_square: Teamwork over individual work
 
@@ -121,81 +121,129 @@
     :white_check_mark: Storage and Container Registry.
 
     :black_large_square: Container Registry repository.
-
+    
     :black_large_square: None of the Above
 
-    > Container Registry is a single place for your team to manage Docker images, perform vulnerability analysis, and decide who can access what with fine-grained access control<br>
+    > Container Registry is a single place for your team to manage Docker images, perform vulnerability analysis, and decide who can access what with fine-grained access control
     _O Container Registry é um local único para sua equipe gerenciar imagens do Docker, realizar análises de vulnerabilidades e decidir quem pode acessar o quê com controle de acesso refinado_
 
 ---
 
-9. Virtual Machine vCPU and memory usage for each of these categories can receive one of the following discounts? (Select Three Answer) 
+9. Virtual Machine vCPU and memory usage for each of these categories can receive one of the following discounts? (Select Three Answer)<br>
+    _O uso de vCPU e memória da máquina virtual para cada uma dessas categorias pode receber um dos seguintes descontos? (Selecione três respostas)_
 
-    :black_large_square: Military Discounts 
-    :black_large_square: Spot Instances 
-    :black_large_square: Committed-Use    
-    :black_large_square: Sustained-Use 
-    :black_large_square: Preemptible VMs 
+    :black_large_square: Military Discounts
     
-    **Explanation:** Sustained, Committed and Preemptible vCPU and memory usage for each of these categories can receive discounts VM vCPU and memory usage for each of these categories can receive discounts Sustained-use discounts—Google offers up to 30% off for workloads that run for most of the billing month on GCP services. Committed-use discounts—users can save up to 57% by committing to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period. Preemptible VMs—similar to the concept of AWS spot instances, Google offers up to 79% off for Virtual Machines that may be shut down at any time and replaced by others.
+    :black_large_square: Spot Instances
 
-10. A startup is planning to create their entire suite of applications on Google Cloud. They are looking at various open source technologies to build applications. One of the considera-tion is about having a well integrated monitoring tool. They have to be able to constantly review load capacity and performance of their applications and virtual machines. What would you advise them to do? 
+    :white_check_mark: Committed-Use
 
-    :black_large_square: It is best to build a custom solution so that they know it integrates well with all their custom applications. 
-    :black_large_square: Since they are using open source for applications, find another open source monitoring tool and integrate it, which could turn out to be very cheap. 
-    :black_large_square: Use the Google Cloud Operations Suite which contains monitoring among other operations tools. 
-    :black_large_square: Update the application code to regularly write to output logs. Export the logs to BigQuery to analyze them frequently. 
+    :white_check_mark: Sustained-Use
 
-    **Explanation:** Explanation Operations Suite is well integrated into Google and it s the recommended option.
-
-11. A Customer has their current SAP systems using Microsoft SQL Server as the Database. They are migrating to Google Cloud and also preparing to later migrate to the latest version of SAP. The entire IT team is being directed to focus on the migration to the new version of SAP. The new version of SAP does not use Microsoft SQL Server as the Database, Any but the most critical IT management tasks are being deprioritized, How should they migrate their current database to Google Cloud? 
-
-    :black_large_square: Spanner 
-    :black_large_square: Bare Metal 
-    :black_large_square: BigQuery 
-    :black_large_square: Cloud SQL 
+    :white_check_mark: Preemptible VMs
     
-    **Explanation:** Cloud SQL supports SQL Server, Since the IT team's attention is being focused on other activities, they will have less time for existing admin tasks, It would be best to take a managed/hosted version.
+    > Sustained, Committed and Preemptible vCPU and memory usage for each of these categories can receive discounts. Sustained-use discounts—Google offers up to 30% off for workloads that run for most of the billing month on GCP services. Committed-use discounts—users can save up to 57% by committing to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period. Preemptible VMs—similar to the concept of AWS spot instances, Google offers up to 79% off for Virtual Machines that may be shut down at any time and replaced by others.<br>
+    _O uso de vCPU e memória sustentado, comprometido e preemptivo para cada uma dessas categorias pode receber descontos. Descontos por uso prolongado: o Google oferece até 30% de desconto para cargas de trabalho executadas durante a maior parte do mês de faturamento nos serviços do GCP. Descontos por uso contínuo — os usuários podem economizar até 57% ao se comprometerem a usar uma instância por um determinado período, sem pagamento adiantado e com flexibilidade para alterar as instâncias durante o período de compromisso. VMs preemptivas – semelhante ao conceito de instâncias spot da AWS, o Google oferece até 79% de desconto para máquinas virtuais que podem ser desligadas a qualquer momento e substituídas por outras._
 
-12. You are consulting for a client who is migrating to Google Cloud. They presently have a matrix or-ganization. Their IT environments were managed around projects. Each team had multiple projects. All the projects had a flat structure under the company. What would you advise them when plan-ning for the move?
+---
 
-    :black_large_square: On Google Cloud, create a folder corresponding to each team. Under that, there could be projects or further sub folders as the team decides. 
-    :black_large_square: In terms of not disturbing the project developers and testers, advise them that the strategic decision is to retain the structure on Google Cloud also. 
+10. A startup is planning to create their entire suite of applications on Google Cloud. They are looking at various open source technologies to build applications. One of the consideration is about having a well integrated monitoring tool. They have to be able to constantly review load capacity and performance of their applications and virtual machines. What would you advise them to do?<br>
+    _Uma startup está planejando criar todo o seu conjunto de aplicativos no Google Cloud. Eles estão buscando diversas tecnologias de código aberto para criar aplicativos. Uma das considerações é ter uma ferramenta de monitoramento bem integrada. Eles precisam ser capazes de revisar constantemente a capacidade de carga e o desempenho de seus aplicativos e máquinas virtuais. O que você os aconselharia a fazer?_
+
+    :black_large_square: It is best to build a custom solution so that they know it integrates well with all their custom applications.
+
+    :black_large_square: Since they are using open source for applications, find another open source monitoring tool and integrate it, which could turn out to be very cheap.
+
+    :white_check_mark: Use the Google Cloud Operations Suite which contains monitoring among other operations tools.
+
+    :black_large_square: Update the application code to regularly write to output logs. Export the logs to BigQuery to analyze them frequently.
+
+    > Operations Suite is well integrated into Google and it s the recommended option.<br>
+    _O Operations Suite está bem integrado ao Google e é a opção recomendada._
+
+---
+
+11. A Customer has their current SAP systems using Microsoft SQL Server as the Database. They are migrating to Google Cloud and also preparing to later migrate to the latest version of SAP. The entire IT team is being directed to focus on the migration to the new version of SAP. The new version of SAP does not use Microsoft SQL Server as the Database, Any but the most critical IT management tasks are being deprioritized, How should they migrate their current database to Google Cloud?<br>
+    _Um cliente tem seus sistemas SAP atuais usando o Microsoft SQL Server como banco de dados. Eles estão migrando para o Google Cloud e também se preparando para migrar posteriormente para a versão mais recente do SAP. Toda a equipe de TI está sendo direcionada para focar na migração para a nova versão do SAP. A nova versão do SAP não usa o Microsoft SQL Server como banco de dados. Todas as tarefas mais críticas de gerenciamento de TI estão sendo despriorizadas. Como eles deveriam migrar seu banco de dados atual para o Google Cloud?_
+
+    :black_large_square: Spanner
+
+    :black_large_square: Bare Metal
+
+    :black_large_square: BigQuery
+
+    :white_check_mark: Cloud SQL
+    
+    > Cloud SQL supports SQL Server, Since the IT team's attention is being focused on other activities, they will have less time for existing admin tasks, It would be best to take a managed/hosted version.<br>
+    _O Cloud SQL oferece suporte ao SQL Server. Como a atenção da equipe de TI está focada em outras atividades, eles terão menos tempo para as tarefas administrativas existentes. Seria melhor escolher uma versão gerenciada/hospedada._
+
+---
+
+12. You are consulting for a client who is migrating to Google Cloud. They presently have a matrix organization. Their IT environments were managed around projects. Each team had multiple projects. All the projects had a flat structure under the company. What would you advise them when planning for the move?
+    _Você está prestando consultoria para um cliente que está migrando para o Google Cloud. Atualmente possuem uma organização matricial. Seus ambientes de TI eram gerenciados em torno de projetos. Cada equipe tinha vários projetos. Todos os projetos tiveram uma estrutura plana sob a empresa. O que você os aconselharia ao planejar a mudança?_
+
+    :white_check_mark: On Google Cloud, create a folder corresponding to each team. Under that, there could be projects or further sub folders as the team decides.
+
+    :black_large_square: In terms of not disturbing the project developers and testers, advise them that the strategic decision is to retain the structure on Google Cloud also.
+
     :black_large_square: Since a Project could spawn other sub-Projects, on Google Cloud it is better to as-sign a folder for each Project.
+
     :black_large_square: The flat structure is what is currently used in IT organizations, and this can be used as-is which will provide the best results. 
     
-    **Explanation:** Folders for a related group of projects are the recommended approach. -> A flat structure under the organization node is possible on Google Cloud, but it is not recommended. It becomes tougher to manage. -> Projects cannot have sub-projects; there can only be resources within Projects.
+    > Folders for a related group of projects are the recommended approach. A flat structure under the organization node is possible on Google Cloud, but it is not recommended. It becomes tougher to manage. Projects cannot have sub-projects, there can only be resources within Projects.<br>
+    _Pastas para um grupo relacionado de projetos são a abordagem recomendada. Uma estrutura plana no nó da organização é possível no Google Cloud, mas não é recomendada. Torna-se mais difícil de gerenciar. Projetos não podem ter subprojetos, só podem existir recursos dentro de Projetos._
 
-13. Your company has signed up with a cloud provider and you will be using storage and virtual machines with the provider. The provider has provided your organization some expectations for what the service should perform at. What type of agreement provides a guarantee of a certain level of service such as “Uptime”? 
+---
 
-    :black_large_square: Performance Agreement 
-    :black_large_square: Interconnection Agreement 
-    :black_large_square: Warranty 
-    :black_large_square: Service Level Agreement 
+13. Your company has signed up with a cloud provider and you will be using storage and virtual machines with the provider. The provider has provided your organization some expectations for what the service should perform at. What type of agreement provides a guarantee of a certain level of service such as “Uptime”?
+    _Sua empresa se inscreveu em um provedor de nuvem e você usará armazenamento e máquinas virtuais com o provedor. O provedor forneceu à sua organização algumas expectativas sobre o desempenho do serviço. Que tipo de contrato oferece garantia de um determinado nível de serviço como “Uptime”?_
+
+    :black_large_square: Performance Agreement
+
+    :black_large_square: Interconnection Agreement
+
+    :black_large_square: Warranty
+
+    :white_check_mark: Service Level Agreement
     
-    **Explanation:** Service Level Agreement (SLA) A service level agreement (SLA) is a contract between a service provider (either internal or external) and the end user that defines the level of service expected from the service provider. Some common SLA’s are uptime, Response Time, etc.
+    > A service level agreement (SLA) is a contract between a service provider (either internal or external) and the end user that defines the level of service expected from the service provider. Some common SLA’s are uptime, Response Time, etc.<br>
+    _Um acordo de nível de serviço (SLA) é um contrato entre um provedor de serviços (interno ou externo) e o usuário final que define o nível de serviço esperado do provedor de serviços. Alguns SLAs comuns são tempo de atividade, tempo de resposta, etc._
 
-14. Which of the following statements is / are correct about Machine Learning? 
+---
 
-    :black_large_square: Machine learning examples include chatbots and automated virtual assistants to automate routine customer service tasks and speed up issue resolution. 
-    :black_large_square: Machine learning automates the job of building statistical models with Human In-tervention. 
-    :black_large_square: Robotic process automation (RPA) can not be attached with ML. 
-    :black_large_square: None of the Above. 
+14. Which of the following statements is/are correct about Machine Learning?<br>
+    _Qual das seguintes afirmações está correta sobre o aprendizado de máquina?_
+
+    :white_check_mark: Machine learning examples include chatbots and automated virtual assistants to automate routine customer service tasks and speed up issue resolution.
+
+    :black_large_square: Machine learning automates the job of building statistical models with Human Intervention.
+
+    :black_large_square: Robotic process automation (RPA) can not be attached with ML.
+
+    :black_large_square: None of the Above.
     
-    **Explanation:** Customer service Machine learning examples include chatbots and automated virtual assistants to automate routine customer service tasks and speed up issue resolution. 
+    > Machine learning examples include chatbots and automated virtual assistants to automate routine customer service tasks and speed up issue resolution.<br>
+    _Exemplos de aprendizado de máquina incluem chatbots e assistentes virtuais automatizados para automatizar tarefas rotineiras de atendimento ao cliente e acelerar a resolução de problemas._
 
-15. Your application is onboarding a number of users. The details of the users very widely. What kind of database would be most suitable for this use case? 
+---
 
-    :black_large_square: NoSQL database like Firestore 
-    :black_large_square: OLAP database like BigQuery which support SQL 
-    :black_large_square: SQL database like MySQL or PostgreSQL 
-    :black_large_square: OLTP database like Cloud Spanner 
+15. Your application is onboarding a number of users. The details of the users very widely. What kind of database would be most suitable for this use case?<br>
+    _Seu aplicativo está integrando vários usuários. Os detalhes dos usuários são muito amplos. Que tipo de banco de dados seria mais adequado para este caso de uso?_
 
-    **Explanation:** Explanation 1.NoSQL databases are best suited for this use case. Firestore is an appropriate one to use here 2.Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. 
+    :white_check_mark: NoSQL database like Firestore
+
+    :black_large_square: OLAP database like BigQuery which support SQL
+
+    :black_large_square: SQL database like MySQL or PostgreSQL
+
+    :black_large_square: OLTP database like Cloud Spanner
+
+    > 1. NoSQL databases are best suited for this use case. Firestore is an appropriate one to use here
+    2. Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. 
 
 16. Your organization needs to plan its cloud infrastructure expenditures. Which should your organization do? 
 
-    :black_large_square: Review cloud resource costs frequently, because costs change often based on use 
+    :white_check_mark: Review cloud resource costs frequently, because costs change often based on use 
     :black_large_square: Review cloud resource costs annually as part of planning your organization’s overall budget 
     :black_large_square: If your organization uses only cloud resources, infrastructure costs are no longer part of your overall budget 
     :black_large_square: Involve fewer people in cloud resource planning than your organization did for onpremises resource planning 
@@ -205,7 +253,7 @@
 17. In terms of Cloud SQL for MySQL Features offered by Google Cloud Platform which of the statements is/are correct? 
 
     :black_large_square: Do not support Private IP (private service access). 
-    :black_large_square: Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups. 
+    :white_check_mark: Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups. 
     :black_large_square: Do not Provide automated and on-demand backups and point-in-time recovery. 
     :black_large_square: None of the above 
 
@@ -214,7 +262,7 @@
 18. A prospect wants to be able to store and analyze data. Their analysts already know SQL, but are not familiar with other technologies. Which of these databases can the analysts use without addi-tional training? 
 
     :black_large_square: Cloud SQL, BigQuery, Datastore 
-    :black_large_square: Spanner, Cloud SQL, BigQuery 
+    :white_check_mark: Spanner, Cloud SQL, BigQuery 
     :black_large_square: Cloud SQL, Firestore, Datastore
     :black_large_square: Cloud SQL, Bigtable, BigQuery 
 
@@ -223,8 +271,8 @@
 19. Customer Managed Encryption Keys (CMEK) can be used for encrypting data inside Cloud BigTable, which of the following statements is/are correct. (Select two answer) 
 
     :black_large_square: Administrators can not rotate
-    :black_large_square: Not supported for instances that have clustered in more than one region. 
-    :black_large_square: CMEK can only be configured at the cluster level. 
+    :white_check_mark: Not supported for instances that have clustered in more than one region. 
+    :white_check_mark: CMEK can only be configured at the cluster level. 
     :black_large_square: You can not use the same CMEK key in multiple projects 
     
     **Explanation:** Customer-managed encryption keys for Cloud BigTable. By default, all the data at rest in Cloud Bigtable is encrypted using Google's default encryption. Bigtable handles and manages this encryption for you without any additional action on your part. If you have specific compliance or regulatory requirements related to the keys that protect your data, you can use customer-managed encryption keys (CMEK) for BigTable. Instead of Google managing the encryption keys that protect your data, your BigTable instance is protected using a key that you control and manage in Cloud Key Management Service (Cloud KMS). Features Security: CMEK provides the same level of security as Google's default encryption but provides more administrative control. Data access control: Administrators can rotate, manage access to, and disable or destroy the key used to protect data at rest in BigTable . Auditability: All actions on your CMEK keys are logged and viewable in Cloud Logging. Comparable performance: BigTable CMEK-protected instances offer comparable performance to BigTable instances that use Google default encryption. Flexibility: You can use the same CMEK key in multiple projects or instances or you can use separate keys, depending on your business needs. 
@@ -232,7 +280,7 @@
 20. A customer deploys an application to App Engine and needs to check for Open Web Application Security Project (OWASP) vulnerabilities. Which service should be used to accomplish this?
 
     :black_large_square: Cloud Armor 
-    :black_large_square: Cloud Security Scanner 
+    :white_check_mark: Cloud Security Scanner 
     :black_large_square: Binary Authorization 
     :black_large_square: Forseti Security 
     
