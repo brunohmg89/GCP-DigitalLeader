@@ -282,39 +282,74 @@
     _Crie e gerencie instâncias no Console do Google Cloud._
     >   - Instances are available in the Americas, EU, Asia, and Australia.<br>
     _As instâncias estão disponíveis nas Américas, EU, Ásia e Austrália._
-    >   - Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups.
-    >   - Support for secure external connections with the Cloud SQL Auth proxy or with the SSL/TLS protocol.
-    >   - Support for private IP (private services access).
-    >   - Data replication between multiple zones with automatic failover.
-    >   - Import and export databases using mysqldump, or import and export CSV files.
-    >   - Support for MySQL wire protocol and standard MySQL connectors.
-    >   - Automated and on-demand backups and point-in-time recovery.
-    >   - Instance cloning.
-    >   - Integration with Google Cloud's operations suite logging and monitoring. 
+    >   - Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups.<br>
+    _Os dados dos clientes são criptografados nas redes internas do Google e em tabelas de bancos de dados, arquivos temporários e backups._
+    >   - Support for secure external connections with the Cloud SQL Auth proxy or with the SSL/TLS protocol.<br>
+    _Suporte para conexões externas seguras com o proxy Cloud SQL Auth ou com o protocolo SSL/TLS._
+    >   - Support for private IP (private services access).<br>
+    _Suporte para IP privado (acesso a serviços privados)._
+    >   - Data replication between multiple zones with automatic failover.<br>
+    _Replicação de dados entre múltiplas zonas com failover automático._
+    >   - Import and export databases using mysqldump, or import and export CSV files.<br>
+    _Importe e exporte bancos de dados usando mysqldump ou importe e exporte arquivos CSV._
+    >   - Support for MySQL wire protocol and standard MySQL connectors.<br>
+    _Suporte para protocolo MySQL e conectores MySQL padrão._
+    >   - Automated and on-demand backups and point-in-time recovery.<br>
+    _Backups automatizados e sob demanda e recuperação pontual._
+    >   - Instance cloning.<br>
+    _Clonagem de instância._
+    >   - Integration with Google Cloud's operations suite logging and monitoring.<br>
+    _Integração com registro e monitoramento do conjunto de operações do Google Cloud._
 
-18. A prospect wants to be able to store and analyze data. Their analysts already know SQL, but are not familiar with other technologies. Which of these databases can the analysts use without addi-tional training? 
+---
 
-    :black_large_square: Cloud SQL, BigQuery, Datastore 
-    :white_check_mark: Spanner, Cloud SQL, BigQuery 
+18. A prospect wants to be able to store and analyze data. Their analysts already know SQL, but are not familiar with other technologies. Which of these databases can the analysts use without additional training?<br>
+    _Um cliente potencial deseja ser capaz de armazenar e analisar dados. Seus analistas já conhecem SQL, mas não estão familiarizados com outras tecnologias. Quais desses bancos de dados os analistas podem usar sem treinamento adicional?_
+
+    :black_large_square: Cloud SQL, BigQuery, Datastore
+
+    :white_check_mark: Spanner, Cloud SQL, BigQuery
+
     :black_large_square: Cloud SQL, Firestore, Datastore
-    :black_large_square: Cloud SQL, Bigtable, BigQuery 
 
-    **Explanation:** Spanner, Cloud SQL, BigQuery Spanner- Cloud Spanner is a fully managed, mission-critical, relational database service that offers transactional consistency at global scale, automatic, synchronous replication for high availability, and support for two SQL Google Standard SQL and PostgreSQL. Cloud SQL- Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform. BigQuery- Google BigQuery is a cloud-based Architecture and provides exceptional performance as it can auto-scale up and down based on the data load and performs data analysis efficiently. On the other hand, SQL Server is based on client-server architecture and has fixed performance throughout unless the user scales it manually. 
+    :black_large_square: Cloud SQL, Bigtable, BigQuery
 
-19. Customer Managed Encryption Keys (CMEK) can be used for encrypting data inside Cloud BigTable, which of the following statements is/are correct. (Select two answer) 
+    > - Spanner, Cloud SQL, BigQuery
+    >   - Cloud Spanner is a fully managed, mission-critical, relational database service that offers transactional consistency at global scale, automatic, synchronous replication for high availability, and support for two SQL Google Standard SQL and PostgreSQL.<br>
+    _O Cloud Spanner é um serviço de banco de dados relacional de missão crítica totalmente gerenciado que oferece consistência transacional em escala global, replicação automática e síncrona para alta disponibilidade e suporte para dois SQL, SQL padrão do Google e PostgreSQL._
+    >   - Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.<br>
+    _O Cloud SQL é um serviço de banco de dados totalmente gerenciado que ajuda você a configurar, manter, gerenciar e administrar bancos de dados relacionais no Google Cloud Platform._
+    >   - Google BigQuery is a cloud-based Architecture and provides exceptional performance as it can auto-scale up and down based on the data load and performs data analysis efficiently. On the other hand, SQL Server is based on client-server architecture and has fixed performance throughout unless the user scales it manually.<br>
+    _O Google BigQuery é uma arquitetura baseada em nuvem e oferece desempenho excepcional, pois pode aumentar e diminuir automaticamente com base na carga de dados e realizar análises de dados com eficiência. Por outro lado, o SQL Server é baseado na arquitetura cliente-servidor e tem desempenho fixo, a menos que o usuário o dimensione manualmente._
 
-    :black_large_square: Administrators can not rotate
-    :white_check_mark: Not supported for instances that have clustered in more than one region. 
-    :white_check_mark: CMEK can only be configured at the cluster level. 
-    :black_large_square: You can not use the same CMEK key in multiple projects 
+---
+
+19. Customer Managed Encryption Keys (CMEK) can be used for encrypting data inside Cloud BigTable, which of the following statements is/are correct. (Select two answer)<br>
+    _As chaves de criptografia gerenciadas pelo cliente (CMEK) podem ser usadas para criptografar dados dentro do Cloud BigTable, e quais das afirmações a seguir estão corretas. (Selecione duas respostas)_
+
+    :black_large_square: Administrators can not rotate.
+
+    :white_check_mark: Not supported for instances that have clustered in more than one region.
+
+    :white_check_mark: CMEK can only be configured at the cluster level.
+
+    :black_large_square: You can not use the same CMEK key in multiple projects.
     
-    **Explanation:** Customer-managed encryption keys for Cloud BigTable. By default, all the data at rest in Cloud Bigtable is encrypted using Google's default encryption. Bigtable handles and manages this encryption for you without any additional action on your part. If you have specific compliance or regulatory requirements related to the keys that protect your data, you can use customer-managed encryption keys (CMEK) for BigTable. Instead of Google managing the encryption keys that protect your data, your BigTable instance is protected using a key that you control and manage in Cloud Key Management Service (Cloud KMS). Features Security: CMEK provides the same level of security as Google's default encryption but provides more administrative control. Data access control: Administrators can rotate, manage access to, and disable or destroy the key used to protect data at rest in BigTable . Auditability: All actions on your CMEK keys are logged and viewable in Cloud Logging. Comparable performance: BigTable CMEK-protected instances offer comparable performance to BigTable instances that use Google default encryption. Flexibility: You can use the same CMEK key in multiple projects or instances or you can use separate keys, depending on your business needs. 
+    > Customer managed encryption keys for Cloud BigTable. By default, all the data at rest in Cloud Bigtable is encrypted using Google's default encryption. Bigtable handles and manages this encryption for you without any additional action on your part. If you have specific compliance or regulatory requirements related to the keys that protect your data, you can use customer managed encryption keys (CMEK) for BigTable. Instead of Google managing the encryption keys that protect your data, your BigTable instance is protected using a key that you control and manage in Cloud Key Management Service (Cloud KMS). Features Security: CMEK provides the same level of security as Google's default encryption but provides more administrative control. Data access control: Administrators can rotate, manage access to, and disable or destroy the key used to protect data at rest in BigTable. Auditability: All actions on your CMEK keys are logged and viewable in Cloud Logging. Comparable performance: BigTable CMEK protected instances offer comparable performance to BigTable instances that use Google default encryption. Flexibility: You can use the same CMEK key in multiple projects or instances or you can use separate keys, depending on your business needs.<br>
+    _Chaves de criptografia gerenciadas pelo cliente para Cloud BigTable. Por padrão, todos os dados em repouso no Cloud Bigtable são criptografados usando a criptografia padrão do Google. O Bigtable cuida e gerencia essa criptografia para você, sem qualquer ação adicional de sua parte. Se você tiver requisitos regulamentares ou de conformidade específicos relacionados às chaves que protegem seus dados, poderá usar chaves de criptografia gerenciadas pelo cliente (CMEK) para o BigTable. Em vez de o Google gerenciar as chaves de criptografia que protegem seus dados, sua instância do BigTable é protegida por meio de uma chave que você controla e gerencia no Cloud Key Management Service (Cloud KMS). Recursos Segurança: CMEK oferece o mesmo nível de segurança que a criptografia padrão do Google, mas oferece mais controle administrativo. Controle de acesso a dados: os administradores podem alternar, gerenciar o acesso e desabilitar ou destruir a chave usada para proteger os dados em repouso no BigTable. Auditabilidade: todas as ações nas suas chaves CMEK são registradas e visíveis no Cloud Logging. Desempenho comparável: as instâncias protegidas do BigTable CMEK oferecem desempenho comparável às instâncias do BigTable que usam a criptografia padrão do Google. Flexibilidade: você pode usar a mesma chave CMEK em vários projetos ou instâncias ou pode usar chaves separadas, dependendo das necessidades do seu negócio._
 
-20. A customer deploys an application to App Engine and needs to check for Open Web Application Security Project (OWASP) vulnerabilities. Which service should be used to accomplish this?
+---
 
-    :black_large_square: Cloud Armor 
-    :white_check_mark: Cloud Security Scanner 
-    :black_large_square: Binary Authorization 
-    :black_large_square: Forseti Security 
+20. A customer deploys an application to App Engine and needs to check for Open Web Application Security Project (OWASP) vulnerabilities. Which service should be used to accomplish this?<br>
+    _Um cliente implanta um aplicativo no App Engine e precisa verificar vulnerabilidades do Open Web Application Security Project (OWASP). Qual serviço deve ser usado para fazer isso?_
+
+    :black_large_square: Cloud Armor
+
+    :white_check_mark: Cloud Security Scanner
+
+    :black_large_square: Binary Authorization
+
+    :black_large_square: Forseti Security
     
-    **Explanation:** Web Security Scanner identifies security vulnerabilities in your App Engine, Google Kubernetes Engine (GKE), and Compute Engine web applications. It crawls your application, following all links within the scope of your starting URLs, and attempts to exercise as many user inputs and event handlers as possible. Currently, Web Security Scanner only supports public URLs and IPs that aren’t behind a firewall. Web Security Scanner currently supports the App Engine standard environment and App Engine flexible environments, Compute Engine instances, and GKE resources.
+    > Web Security Scanner identifies security vulnerabilities in your App Engine, Google Kubernetes Engine (GKE), and Compute Engine web applications. It crawls your application, following all links within the scope of your starting URLs, and attempts to exercise as many user inputs and event handlers as possible. Currently, Web Security Scanner only supports public URLs and IPs that aren’t behind a firewall. Web Security Scanner currently supports the App Engine standard environment and App Engine flexible environments, Compute Engine instances, and GKE resources.<br>
+    _O Web Security Scanner identifica vulnerabilidades de segurança nos aplicativos da Web do App Engine, do Google Kubernetes Engine (GKE) e do Compute Engine. Ele rastreia seu aplicativo, seguindo todos os links dentro do escopo de seus URLs iniciais, e tenta exercitar o máximo possível de entradas de usuário e manipuladores de eventos. Atualmente, o Web Security Scanner oferece suporte apenas a URLs e IPs públicos que não estão protegidos por firewall. Atualmente, o Web Security Scanner oferece suporte ao ambiente padrão do App Engine e aos ambientes flexíveis do App Engine, às instâncias do Compute Engine e aos recursos do GKE.
