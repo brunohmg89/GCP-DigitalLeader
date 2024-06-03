@@ -64,7 +64,7 @@
     :black_large_square: Use Data Labeling service - outsource the work of marking and extracting the in-formation to others.
 
     > Cloud Vision API allows you to programmatically identify images, text, etc. in the document. This would be the best.<br>
-    _Cloud Vision API allows you to programmatically identify images, text, etc. in the document. This would be the best._
+    _A API Cloud Vision permite identificar programaticamente imagens, texto etc. Este seria o melhor._
 
 ---
 
@@ -124,7 +124,7 @@
     
     :black_large_square: None of the Above
 
-    > Container Registry is a single place for your team to manage Docker images, perform vulnerability analysis, and decide who can access what with fine-grained access control
+    > Container Registry is a single place for your team to manage Docker images, perform vulnerability analysis, and decide who can access what with fine-grained access control<br>
     _O Container Registry é um local único para sua equipe gerenciar imagens do Docker, realizar análises de vulnerabilidades e decidir quem pode acessar o quê com controle de acesso refinado_
 
 ---
@@ -195,7 +195,7 @@
 
 ---
 
-13. Your company has signed up with a cloud provider and you will be using storage and virtual machines with the provider. The provider has provided your organization some expectations for what the service should perform at. What type of agreement provides a guarantee of a certain level of service such as “Uptime”?
+13. Your company has signed up with a cloud provider and you will be using storage and virtual machines with the provider. The provider has provided your organization some expectations for what the service should perform at. What type of agreement provides a guarantee of a certain level of service such as “Uptime”?<br>
     _Sua empresa se inscreveu em um provedor de nuvem e você usará armazenamento e máquinas virtuais com o provedor. O provedor forneceu à sua organização algumas expectativas sobre o desempenho do serviço. Que tipo de contrato oferece garantia de um determinado nível de serviço como “Uptime”?_
 
     :black_large_square: Performance Agreement
@@ -272,8 +272,7 @@
 
     :black_large_square: None of the above
 
-    > - Cloud SQL for MySQL - Features<br>
-    _Cloud SQL para MySQL - Recursos_
+    > - Cloud SQL for MySQL - Features
     >   - Fully managed MySQL Community Edition databases in the cloud.<br>
     _Bancos de dados MySQL Community Edition totalmente gerenciados na nuvem._
     >   - Cloud SQL instances support MySQL 8.0, 5.7 (default), and 5.6, and provide up to 624 GB of RAM and 64 TB of data storage, with the option to automatically increase the storage size, as needed.<br>
