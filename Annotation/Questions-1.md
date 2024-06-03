@@ -238,10 +238,12 @@
 
     :black_large_square: OLTP database like Cloud Spanner
 
-    > - NoSQL databases are best suited for this use case. Firestore is an appropriate one to use here.
+    > - NoSQL databases are best suited for this use case. Firestore is an appropriate one to use here.<br>
     _Os bancos de dados NoSQL são mais adequados para este caso de uso. Firestore é apropriado para usar aqui._
-    > - Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps at global scale.
+    > - Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps at global scale.<br>
     _Cloud Firestore é um banco de dados de documentos NoSQL que permite armazenar, sincronizar e consultar facilmente dados para seus aplicativos móveis e da web em escala global._
+
+---
 
 16. Your organization needs to plan its cloud infrastructure expenditures. Which should your organization do? 
 
