@@ -239,7 +239,7 @@
     :black_large_square: OLTP database like Cloud Spanner
 
     > 1. NoSQL databases are best suited for this use case. Firestore is an appropriate one to use here
-    2. Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. 
+    > 2. Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. 
 
 16. Your organization needs to plan its cloud infrastructure expenditures. Which should your organization do? 
 
