@@ -5,14 +5,15 @@ Reference: <https://www.examtopics.com/exams/google/>
 ## Questions
 
 1. Which Google Cloud service or feature lets you build machine learning models using Standard SQL and data in a data warehouse?
-
-    - [x] BigQuery ML 
-    - [ ] TensorFlow 
-    - [ ] C. AutoML Tables 
-    - [ ] D. Cloud Bigtable ML 
-
+    **Tradução:** _Qual serviço ou recurso do Google Cloud permite criar modelos de machine learning usando SQL padrão e dados em um data warehouse?_
+<br>
+    :white_check_mark: BigQuery ML 
+    :black_large_square: TensorFlow 
+    :black_large_square: C. AutoML Tables 
+    :black_large_square: D. Cloud Bigtable ML 
+<br>
     **Explanation:** BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.
-
+---
 2. What are the key features of Google Cloud Identity. 
 
     - [ ] Multi-factor authentication (MFA) 
