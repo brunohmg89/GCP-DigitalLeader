@@ -12,7 +12,7 @@ _Qual serviço ou recurso do Google Cloud permite criar modelos de machine learn
     :black_large_square: C. AutoML Tables<br>
     :black_large_square: D. Cloud Bigtable ML<br>
 
-    > **Explanation:** BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.
+    > **Explanation:** BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.<br>
     > **Explicação:** O BigQuery ML permite criar e executar modelos de machine learning no BigQuery usando consultas SQL padrão.
 ---
 
