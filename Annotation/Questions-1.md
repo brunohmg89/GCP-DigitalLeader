@@ -273,19 +273,19 @@
     :black_large_square: None of the above
 
     > - Cloud SQL for MySQL - Features
-    - Fully managed MySQL Community Edition databases in the cloud.
-        - Cloud SQL instances support MySQL 8.0, 5.7 (default), and 5.6, and provide up to 624 GB of RAM and 64 TB of data storage, with the option to automatically increase the storage size, as needed.
-        - Create and manage instances in the Google Cloud Console.
-        - Instances are available in the Americas, EU, Asia, and Australia.
-        - Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups.
-        - Support for secure external connections with the Cloud SQL Auth proxy or with the SSL/TLS protocol.
-        - Support for private IP (private services access).
-        - Data replication between multiple zones with automatic failover.
-        - Import and export databases using mysqldump, or import and export CSV files.
-        - Support for MySQL wire protocol and standard MySQL connectors.
-        - Automated and on-demand backups and point-in-time recovery.
-        - Instance cloning.
-        - Integration with Google Cloud's operations suite logging and monitoring. 
+    >   - Fully managed MySQL Community Edition databases in the cloud.
+    >   - Cloud SQL instances support MySQL 8.0, 5.7 (default), and 5.6, and provide up to 624 GB of RAM and 64 TB of data storage, with the option to automatically increase the storage size, as needed.
+    >   - Create and manage instances in the Google Cloud Console.
+    >   - Instances are available in the Americas, EU, Asia, and Australia.
+    >   - Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups.
+    >   - Support for secure external connections with the Cloud SQL Auth proxy or with the SSL/TLS protocol.
+    >   - Support for private IP (private services access).
+    >   - Data replication between multiple zones with automatic failover.
+    >   - Import and export databases using mysqldump, or import and export CSV files.
+    >   - Support for MySQL wire protocol and standard MySQL connectors.
+    >   - Automated and on-demand backups and point-in-time recovery.
+    >   - Instance cloning.
+    >   - Integration with Google Cloud's operations suite logging and monitoring. 
 
 18. A prospect wants to be able to store and analyze data. Their analysts already know SQL, but are not familiar with other technologies. Which of these databases can the analysts use without addi-tional training? 
 
