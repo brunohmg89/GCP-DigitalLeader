@@ -11,7 +11,7 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: TensorFlow<br>
     :black_large_square: C. AutoML Tables<br>
     :black_large_square: D. Cloud Bigtable ML<br>
-<br>
+
     **Explanation:** BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.
 
 ---
