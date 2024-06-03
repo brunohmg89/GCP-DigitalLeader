@@ -6,7 +6,7 @@ Reference: <https://www.examtopics.com/exams/google/>
 
 1. Which Google Cloud service or feature lets you build machine learning models using Standard SQL and data in a data warehouse?
 
-_Qual serviço ou recurso do Google Cloud permite criar modelos de machine learning usando SQL padrão e dados em um data warehouse?_
+    _Qual serviço ou recurso do Google Cloud permite criar modelos de machine learning usando SQL padrão e dados em um data warehouse?_
 
     :white_check_mark: BigQuery ML<br>
     :black_large_square: TensorFlow<br>
