@@ -245,23 +245,47 @@
 
 ---
 
-16. Your organization needs to plan its cloud infrastructure expenditures. Which should your organization do? 
+16. Your organization needs to plan its cloud infrastructure expenditures. Which should your organization do?<br>
+    _Sua organização precisa planejar seus gastos com infraestrutura em nuvem. O que sua organização deve fazer?_
 
-    :white_check_mark: Review cloud resource costs frequently, because costs change often based on use 
-    :black_large_square: Review cloud resource costs annually as part of planning your organization’s overall budget 
-    :black_large_square: If your organization uses only cloud resources, infrastructure costs are no longer part of your overall budget 
-    :black_large_square: Involve fewer people in cloud resource planning than your organization did for onpremises resource planning 
+    :white_check_mark: Review cloud resource costs frequently, because costs change often based on use.
 
-    **Explanation:** Review cloud resource costs frequently, because costs change often based on use because One need to know current usage/ trend for planning; While public cloud eliminates capex, and gets into pay as you go model, the usage pattern determines the cloud cost and hence needs to be measured frequently to enable better forecast
+    :black_large_square: Review cloud resource costs annually as part of planning your organization’s overall budget.
 
-17. In terms of Cloud SQL for MySQL Features offered by Google Cloud Platform which of the statements is/are correct? 
+    :black_large_square: If your organization uses only cloud resources, infrastructure costs are no longer part of your overall budget.
 
-    :black_large_square: Do not support Private IP (private service access). 
-    :white_check_mark: Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups. 
-    :black_large_square: Do not Provide automated and on-demand backups and point-in-time recovery. 
-    :black_large_square: None of the above 
+    :black_large_square: Involve fewer people in cloud resource planning than your organization did for onpremises resource planning.
 
-    **Explanation:** Cloud SQL for MySQL: Features - Fully managed MySQL Community Edition databases in the cloud. - Cloud SQL instances support MySQL 8.0, 5.7 (default), and 5.6, and provide up to 624 GB of RAM and 64 TB of data storage, with the option to automatically increase the storage size, as needed. - Create and manage instances in the Google Cloud Console. - Instances are available in the Americas, EU, Asia, and Australia. - Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups. - Support for secure external connections with the Cloud SQL Auth proxy or with the SSL/TLS protocol. - Support for private IP (private services access). - Data replication between multiple zones with automatic failover. - Import and export databases using mysqldump, or import and export CSV files. - Support for MySQL wire protocol and standard MySQL connectors. - Automated and on-demand backups and point-in-time recovery. - Instance cloning. - Integration with Google Cloud's operations suite logging and monitoring. 
+    > Review cloud resource costs frequently, because costs change often based on use because one need to know current usage/trend for planning, While public cloud eliminates capex, and gets into pay as you go model, the usage pattern determines the cloud cost and hence needs to be measured frequently to enable better forecast.<br>
+    _Revise os custos dos recursos da nuvem com frequência, porque os custos mudam frequentemente com base no uso, porque é necessário conhecer o uso/tendência atual para o planejamento. Embora a nuvem pública elimine o investimento e entre no modelo de pagamento conforme o uso, o padrão de uso determina o custo da nuvem e, portanto, as necessidades ser medido frequentemente para permitir uma melhor previsão._
+
+---
+
+17. In terms of Cloud SQL for MySQL Features offered by Google Cloud Platform which of the statements is/are correct?<br>
+    _Em termos de recursos do Cloud SQL para MySQL oferecidos pelo Google Cloud Platform, quais das afirmações estão corretas?_
+
+    :black_large_square: Do not support Private IP (private service access).
+
+    :white_check_mark: Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups.
+
+    :black_large_square: Do not Provide automated and on-demand backups and point-in-time recovery.
+
+    :black_large_square: None of the above
+
+    > - Cloud SQL for MySQL - Features
+        - Fully managed MySQL Community Edition databases in the cloud.
+        - Cloud SQL instances support MySQL 8.0, 5.7 (default), and 5.6, and provide up to 624 GB of RAM and 64 TB of data storage, with the option to automatically increase the storage size, as needed.
+        - Create and manage instances in the Google Cloud Console.
+        - Instances are available in the Americas, EU, Asia, and Australia.
+        - Customer data is encrypted on Google's internal networks and in database tables, temporary files, and backups.
+        - Support for secure external connections with the Cloud SQL Auth proxy or with the SSL/TLS protocol.
+        - Support for private IP (private services access).
+        - Data replication between multiple zones with automatic failover.
+        - Import and export databases using mysqldump, or import and export CSV files.
+        - Support for MySQL wire protocol and standard MySQL connectors.
+        - Automated and on-demand backups and point-in-time recovery.
+        - Instance cloning.
+        - Integration with Google Cloud's operations suite logging and monitoring. 
 
 18. A prospect wants to be able to store and analyze data. Their analysts already know SQL, but are not familiar with other technologies. Which of these databases can the analysts use without addi-tional training? 
 
