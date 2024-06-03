@@ -15,8 +15,7 @@
 
     :black_large_square: D. Cloud Bigtable ML
 
-    > BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.
-    
+    > BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.<br>
     > _O BigQuery ML permite criar e executar modelos de machine learning no BigQuery usando consultas SQL padrão._
 
 ---
