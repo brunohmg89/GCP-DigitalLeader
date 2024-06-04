@@ -15,6 +15,9 @@ Reference: <https://www.examtopics.com/exams/google/>
 
     :black_large_square: Select a private cloud provider that is only active in the required geographic area
 
+    > The goal of the migration is to serve customers worldwide as quickly as possible According to local regulations, certain data is required to be stored in a specific geographic area, and it can be served worldwide" This characteristic are inherent to the public cloud provider.<br>
+    _O objetivo da migração é atender clientes em todo o mundo o mais rápido possível. De acordo com as regulamentações locais, determinados dados devem ser armazenados em uma área geográfica específica e podem ser atendidos em todo o mundo" Esta característica é inerente ao provedor de nuvem pública_
+
 ---
 
 2. Your organization needs a large amount of extra computing power within the next two weeks. After those two weeks, the need for the additional resources will end. Which is the most cost-effective approach?<br>
@@ -27,6 +30,9 @@ Reference: <https://www.examtopics.com/exams/google/>
     :white_check_mark: Start a very powerful virtual machine without using a committed use discount
 
     :black_large_square: Purchase multiple physical computers and scale workload across them
+
+    > When you purchase a committed use contract, you purchase Compute Engine resources—such as vCPUs, memory, GPUs, local SSDs, and sole-tenant nodes—at a discounted price in return for committing to paying for those resources for 1 year or 3 years.<br>
+    _Ao adquirir um contrato de uso contínuo, você adquire recursos do Compute Engine, como vCPUs, memória, GPUs, SSDs locais e nós de locatário individual, com desconto em troca do compromisso de pagar por esses recursos por 1 ou 3 anos._
 
 ---
 
@@ -171,7 +177,8 @@ Reference: <https://www.examtopics.com/exams/google/>
 
 ---
 
-13. Your organization uses Active Directory to authenticate users. Users' Google account access must be removed when their Active Directory account is terminated. How should your organization meet this requirement?
+13. Your organization uses Active Directory to authenticate users. Users' Google account access must be removed when their Active Directory account is terminated. How should your organization meet this requirement?<br>
+    _Sua organização usa o Active Directory para autenticar usuários. O acesso à conta Google dos usuários deverá ser removido quando a conta do Active Directory for encerrada. Como sua organização deve atender a esse requisito?_
 
     :black_large_square: Configure two-factor authentication in the Google domain
 
@@ -183,7 +190,8 @@ Reference: <https://www.examtopics.com/exams/google/>
 
 ---
 
-14. Your company has recently acquired three growing startups in three different countries. You want to reduce overhead in infrastructure management and keep your costs low without sacrificing security and quality of service to your customers. How should you meet these requirements?
+14. Your company has recently acquired three growing startups in three different countries. You want to reduce overhead in infrastructure management and keep your costs low without sacrificing security and quality of service to your customers. How should you meet these requirements?<br>
+    _Sua empresa adquiriu recentemente três startups em crescimento em três países diferentes. Você deseja reduzir as despesas gerais no gerenciamento da infraestrutura e manter seus custos baixos sem sacrificar a segurança e a qualidade do serviço aos seus clientes. Como você deve atender a esses requisitos?_
 
     :black_large_square: Host all your subsidiaries' services on-premises together with your existing services.
 
@@ -250,4 +258,29 @@ Reference: <https://www.examtopics.com/exams/google/>
 
 --- 
 
-19. 
+19. Your organization needs to build streaming data pipelines. You don't want to manage the individual servers that do the data processing in the pipelines. Instead, you want a managed service that will automatically scale with the amount of data to be processed. Which Google Cloud product or feature should your organization choose?<br>
+    _Sua organização precisa construir pipelines de dados de streaming. Você não deseja gerenciar os servidores individuais que fazem o processamento de dados nos pipelines. Em vez disso, você deseja um serviço gerenciado que seja dimensionado automaticamente de acordo com a quantidade de dados a serem processados. Qual produto ou recurso do Google Cloud sua organização deve escolher?_
+
+    :black_large_square: Pub/Sub
+
+    :white_check_mark: Dataflow
+
+    :black_large_square: Data Catalog
+
+    :black_large_square: Dataprep by Trifacta
+
+    > Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.<br>
+    _O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
+
+---
+
+20. Your organization is building an application running in Google Cloud. Currently, software builds, tests, and regular deployments are done manually, but you want to reduce work for the team. Your organization wants to use Google Cloud managed solutions to automate your build, testing, and deployment process. Which Google Cloud product or feature should your organization use?<br>
+    _Sua organização está criando um aplicativo em execução no Google Cloud. Atualmente, compilações, testes e implantações regulares de software são feitos manualmente, mas você deseja reduzir o trabalho da equipe. Sua organização quer usar soluções gerenciadas do Google Cloud para automatizar o processo de criação, teste e implantação. Qual produto ou recurso do Google Cloud sua organização deve usar?_
+
+    :black_large_square: Cloud Scheduler
+    :black_large_square: Cloud Code
+    :white_check_mark: Cloud Build
+    :black_large_square: Cloud Deployment Manager
+
+    > Deploy your application to App Engine using the gcloud app deploy command. This command automatically builds a container image by using the Cloud Build service and then deploys that image to the App Engine flexible environment.<br>
+    _Implante seu aplicativo no App Engine usando o comando gcloud app deploy. Este comando cria automaticamente uma imagem de contêiner usando o serviço Cloud Build e, em seguida, implanta essa imagem no ambiente flexível do App Engine._

@@ -4,24 +4,6 @@ Reference: <https://www.examtopics.com/exams/google/>
 
 ## Questions
 
-1. Your organization needs to build streaming data pipelines. You don't want to manage the individual servers that do the data processing in the pipelines. Instead, you want a managed service that will automatically scale with the amount of data to be processed. Which Google Cloud product or feature should your organization choose?
-
-    - [ ] Pub/Sub
-    - [x] Dataflow
-    - [ ] Data Catalog
-    - [ ] Dataprep by Trifacta
-
-    **Explanation:** Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.
-
-2. Your organization is building an application running in Google Cloud. Currently, software builds, tests, and regular deployments are done manually, but you want to reduce work for the team. Your organization wants to use Google Cloud managed solutions to automate your build, testing, and deployment process. Which Google Cloud product or feature should your organization use?
-
-    - [ ] Cloud Scheduler
-    - [ ] Cloud Code
-    - [x] Cloud Build
-    - [ ] Cloud Deployment Manager
-
-    **Explanation:** Deploy your application to App Engine using the gcloud app deploy command. This command automatically builds a container image by using the Cloud Build service and then deploys that image to the App Engine flexible environment.
-
 3. Which Google Cloud product can report on and maintain compliance on your entire Google Cloud organization to cover multiple projects?
 
     - [ ] Cloud Logging

@@ -47,15 +47,6 @@ Reference: <https://www.examtopics.com/exams/google/>
 
     **Explanation:** An identity platform is a modern solution for managing the identities of users and devices in a centralized fashion.
 
-6. Which Google Cloud service or feature lets you build machine learning models using Standard SQL and data in a data warehouse?
-
-    - [x] BigQuery ML
-    - [ ] TensorFlow
-    - [ ] AutoML Tables
-    - [ ] Cloud Bigtable ML
-
-    **Explanation:** BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.
-
 7. Your organization runs an application on virtual machines in Google Cloud. This application processes incoming images. This activity takes hours to create a result  for each image. The workload for this application normally stays at a certain baseline level, but at regular intervals it spikes to a much greater workload. Your organization needs to control the cost to run this application. What should your organization do?
     
     - [ ] Purchase committed use discounts for the baseline load
@@ -131,15 +122,6 @@ Reference: <https://www.examtopics.com/exams/google/>
     **Explanation:** Resource hierarchy: Structure and organize your resource hierarchy for fine-grained management and cost allocation using organizations, folders, projects, and labels.
     Billing access control: Enforce organizational policies with granular permissions at different levels in the resource hierarchy to control who can spend and who has administrative and cost-viewing permissions.
     Budgets and alerts: Set budgets to closely monitor your costs and alert stakeholders through email or Pub/Sub when exceeding defined budget thresholds.
-
-16. Your organization needs to process large amounts of data from an online application that operates continuously. You do not want to be required to provision infrastructure or create server clusters. What should your organization choose?
-
-    - [ ] Compute Engine with BigQuery
-    - [ ] Dataproc
-    - [ ] Google Kubernetes Engine with Cloud Bigtable
-    - [x] Dataflow
-
-    **Explanation:** Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.
 
 17. Your organization needs to ensure that the Google Cloud resources of each of your departments are segregated from one another. Each department has several environments of its own: development, testing, and production. Which strategy should your organization choose?
 
