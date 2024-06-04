@@ -55,8 +55,8 @@
 
     > - You do not want to be required to provision infrastructure or create server clusters. Because Unified stream and batch data processing that's serverless, fast, and cost-effective.<br>
     > - Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.<br>
-    > _- Você não quer ser obrigado a provisionar infraestrutura ou criar clusters de servidores. Porque fluxo unificado e processamento de dados em lote, sem servidor, rápido e econômico._<br>
-    > _- O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
+    > - _Você não quer ser obrigado a provisionar infraestrutura ou criar clusters de servidores. Porque fluxo unificado e processamento de dados em lote, sem servidor, rápido e econômico._<br>
+    > - _O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
 
 ---
 
@@ -88,7 +88,7 @@
     :black_large_square: Dataplex
 
     > Because Dataproc is used to run Hadoop/Spark workloads<br>
-    _Porque o Dataproc é usado para executar cargas de trabalho do Hadoop/Spark
+    _Porque o Dataproc é usado para executar cargas de trabalho do Hadoop/Spark_
 
 ---
 
@@ -150,8 +150,14 @@
 
     :white_check_mark: Preemptible VMs
     
-    > Sustained, Committed and Preemptible vCPU and memory usage for each of these categories can receive discounts. Sustained-use discounts—Google offers up to 30% off for workloads that run for most of the billing month on GCP services. Committed-use discounts—users can save up to 57% by committing to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period. Preemptible VMs—similar to the concept of AWS spot instances, Google offers up to 79% off for Virtual Machines that may be shut down at any time and replaced by others.<br>
-    _O uso de vCPU e memória sustentado, comprometido e preemptivo para cada uma dessas categorias pode receber descontos. Descontos por uso prolongado: o Google oferece até 30% de desconto para cargas de trabalho executadas durante a maior parte do mês de faturamento nos serviços do GCP. Descontos por uso contínuo — os usuários podem economizar até 57% ao se comprometerem a usar uma instância por um determinado período, sem pagamento adiantado e com flexibilidade para alterar as instâncias durante o período de compromisso. VMs preemptivas – semelhante ao conceito de instâncias spot da AWS, o Google oferece até 79% de desconto para máquinas virtuais que podem ser desligadas a qualquer momento e substituídas por outras._
+    > - Sustained, Committed and Preemptible vCPU and memory usage for each of these categories can receive discounts.
+    > - Sustained-use discounts—Google offers up to 30% off for workloads that run for most of the billing month on GCP services.
+    > - Committed-use discounts—users can save up to 57% by committing to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period. 
+    > - Preemptible VMs—similar to the concept of AWS spot instances, Google offers up to 79% off for Virtual Machines that may be shut down at any time and replaced by others.<br>
+    > - _O uso de vCPU e memória sustentado, comprometido e preemptivo para cada uma dessas categorias pode receber descontos._
+    > - _Descontos por uso prolongado: o Google oferece até 30% de desconto para cargas de trabalho executadas durante a maior parte do mês de faturamento nos serviços do GCP._
+    > - _Descontos por uso contínuo — os usuários podem economizar até 57% ao se comprometerem a usar uma instância por um determinado período, sem pagamento adiantado e com flexibilidade para alterar as instâncias durante o período de compromisso._
+    > - VMs preemptivas – semelhante ao conceito de instâncias spot da AWS, o Google oferece até 79% de desconto para máquinas virtuais que podem ser desligadas a qualquer momento e substituídas por outras._
 
 ---
 
