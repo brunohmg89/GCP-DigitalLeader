@@ -54,9 +54,9 @@
     :white_check_mark: Dataflow
 
     > - You do not want to be required to provision infrastructure or create server clusters. Because Unified stream and batch data processing that's serverless, fast, and cost-effective.<br>
-    _Você não quer ser obrigado a provisionar infraestrutura ou criar clusters de servidores. Porque fluxo unificado e processamento de dados em lote, sem servidor, rápido e econômico._
     > - Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.<br>
-    _O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
+    > _- Você não quer ser obrigado a provisionar infraestrutura ou criar clusters de servidores. Porque fluxo unificado e processamento de dados em lote, sem servidor, rápido e econômico._<br>
+    > _- O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
 
 ---
 
