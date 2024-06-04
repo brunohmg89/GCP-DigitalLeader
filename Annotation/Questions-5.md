@@ -23,15 +23,6 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
 
     **Explanation:** When you purchase a committed use contract, you purchase Compute Engine resources—such as vCPUs, memory, GPUs, local SSDs, and sole-tenant nodes—at a discounted price in return for committing to paying for those resources for 1 year or 3 years
 
-3. Your organization needs to plan its cloud infrastructure expenditures. Which should your organization do?
-
-    - [x] Review cloud resource costs frequently, because costs change often based on use
-    - [ ] Review cloud resource costs annually as part of planning your organization’s overall budget
-    - [ ] If your organization uses only cloud resources, infrastructure costs are no longer part of your overall budget
-    - [ ] Involve fewer people in cloud resource planning than your organization did for on-premises resource planning
-
-    **Explanation:** Review cloud resource costs frequently, because costs change often based on use because One need to know current usage/ trend for planning; While public cloud eliminates capex, and gets into pay as you go model, the usage pattern determines the cloud cost and hence needs to be measured frequently to enable better forecast
-
 4. The operating systems of some of your organization’s virtual machines may have a security vulnerability. How can your organization most effectively identify all virtual machines that do not have the latest security update?
 
     - [x] View the Security Command Center to identify virtual machines running vulnerable disk images
