@@ -278,8 +278,11 @@ Reference: <https://www.examtopics.com/exams/google/>
     _Sua organização está criando um aplicativo em execução no Google Cloud. Atualmente, compilações, testes e implantações regulares de software são feitos manualmente, mas você deseja reduzir o trabalho da equipe. Sua organização quer usar soluções gerenciadas do Google Cloud para automatizar o processo de criação, teste e implantação. Qual produto ou recurso do Google Cloud sua organização deve usar?_
 
     :black_large_square: Cloud Scheduler
+
     :black_large_square: Cloud Code
+
     :white_check_mark: Cloud Build
+    
     :black_large_square: Cloud Deployment Manager
 
     > Deploy your application to App Engine using the gcloud app deploy command. This command automatically builds a container image by using the Cloud Build service and then deploys that image to the App Engine flexible environment.<br>
