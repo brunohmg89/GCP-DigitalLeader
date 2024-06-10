@@ -260,13 +260,17 @@ Reference: <https://www.examtopics.com/exams/google/>
 17. Your organization needs to restrict access to a Cloud Storage bucket. Only employees who are based in Canada should be allowed to view the contents. What is the most effective and efficient way to satisfy this requirement?<br>
     _Sua organização precisa restringir o acesso a um bucket do Cloud Storage. Somente funcionários residentes no Canadá devem ter permissão para visualizar o conteúdo. Qual é a maneira mais eficaz e eficiente de satisfazer esse requisito?_
 
-    :black_large_square: Deploy the Cloud Storage bucket to a Google Cloud region in Canada
+    :black_large_square: Deploy the Cloud Storage bucket to a Google Cloud region in Canada<br>
+    _Implantar o bucket do Cloud Storage em uma região do Google Cloud no Canadá_
 
-    :white_check_mark: Configure Google Cloud Armor to allow access to the bucket only from IP addresses based in Canada
+    :white_check_mark: Configure Google Cloud Armor to allow access to the bucket only from IP addresses based in Canada<br>
+    _Configure o Google Cloud Armor para permitir acesso ao bucket somente de endereços IP baseados no Canadá_
 
-    :black_large_square: Give each employee who is based in Canada access to the bucket
+    :black_large_square: Give each employee who is based in Canada access to the bucket<br>
+    _Dê a cada funcionário baseado no Canadá acesso ao bucket_
 
-    :black_large_square: Create a group consisting of all Canada-based employees, and give the group access to the bucket
+    :black_large_square: Create a group consisting of all Canada-based employees, and give the group access to the bucket<br>
+    _Crie um grupo composto por todos os funcionários baseados no Canadá e conceda ao grupo acesso ao bucket_
 
     > Google Cloud Armor offers a policy framework and rules language for customizing access to internet-facing applications and deploying defenses against denial of service attacks as well as targeted application attacks. Components of Google Cloud Armor include: L3/L4 volumetric DDos Protection, preconfigured web-application firewall (WAF) rules, and custom rules language.<br>
     _O Google Cloud Armor oferece uma estrutura de políticas e uma linguagem de regras para personalizar o acesso a aplicativos voltados para a Internet e implantar defesas contra ataques de negação de serviço, bem como ataques direcionados a aplicativos. Os componentes do Google Cloud Armor incluem: proteção volumétrica contra DDos L3/L4, regras pré-configuradas de firewall de aplicativo da web (WAF) e linguagem de regras personalizadas._
@@ -292,26 +296,34 @@ Reference: <https://www.examtopics.com/exams/google/>
 19. Your organization is developing and deploying an application on Google Cloud. Tracking your Google Cloud spending needs to stay as simple as possible. What should you do to ensure that workloads in the development environment are fully isolated from production workloads?<br>
     _Sua organização está desenvolvendo e implantando um aplicativo no Google Cloud. O rastreamento de seus gastos com o Google Cloud precisa ser o mais simples possível. O que você deve fazer para garantir que as cargas de trabalho no ambiente de desenvolvimento estejam totalmente isoladas das cargas de trabalho de produção?_
 
-    :black_large_square: Apply a unique tag to development resources
+    :black_large_square: Apply a unique tag to development resources<br>
+    _Aplique uma tag exclusiva aos recursos de desenvolvimento_
 
-    :black_large_square: Associate the development resources with their own network
+    :black_large_square: Associate the development resources with their own network<br>
+    _Associe os recursos de desenvolvimento à sua própria rede_
 
-    :black_large_square: Associate the development resources with their own billing account
+    :black_large_square: Associate the development resources with their own billing account<br>
+    _Associe os recursos de desenvolvimento à sua própria conta de faturamento_
 
-    :white_check_mark: Put the development resources in their own project
+    :white_check_mark: Put the development resources in their own project<br>
+    _Coloque os recursos de desenvolvimento em seu próprio projeto_
 
 ---
 
 20. Your company is running the majority of its workloads in a co-located data center. The workloads are running on virtual machines (VMs) on top of a hypervisor and use either Linux or Windows server editions. As part of your company's transformation strategy, you need to modernize workloads as much as possible by adopting cloud-native technologies. You need to migrate the workloads into Google Cloud. What should you do?<br>
     _Sua empresa executa a maioria de suas cargas de trabalho em um data center co-localizado. As cargas de trabalho são executadas em máquinas virtuais (VMs) em um hipervisor e usam edições de servidor Linux ou Windows. Como parte da estratégia de transformação da sua empresa, é necessário modernizar ao máximo as cargas de trabalho, adotando tecnologias nativas da nuvem. Você precisa migrar as cargas de trabalho para o Google Cloud. O que você deveria fazer?_
 
-    :black_large_square: Export the VMs into VMDK format, and import them into Compute Engine
+    :black_large_square: Export the VMs into VMDK format, and import them into Compute Engine<br>
+    _Exporte as VMs para o formato VMDK e importe-as para o Compute Engine_
 
-    :black_large_square: Export the VMs into VMDK format, and import them into Google Cloud VMware Engine
+    :black_large_square: Export the VMs into VMDK format, and import them into Google Cloud VMware Engine<br>
+    _Exporte as VMs para o formato VMDK e importe-as para o Google Cloud VMware Engine_
 
-    :black_large_square: Migrate the workloads using Migrate for Compute Engine
+    :black_large_square: Migrate the workloads using Migrate for Compute Engine<br>
+    _Migre as cargas de trabalho usando o Migrate for Compute Engine_
 
-    :white_check_mark: Migrate the workloads using Migrate for Anthos
+    :white_check_mark: Migrate the workloads using Migrate for Anthos<br>
+    _Migre as cargas de trabalho usando o Migrate for Anthos_
 
     > Migrate to Containers makes it fast and easy to modernize traditional applications away from virtual machines and into native containers. Our unique automated approach extracts the critical application elements from the VM so you can easily insert those elements into containers in Google Kubernetes Engine, Cloud Run, or Anthos clusters without the VM layers (like Guest OS) that become unnecessary with containers.?<br>
     _O Migrate to Containers torna rápido e fácil a modernização de aplicativos tradicionais, deixando-os de máquinas virtuais e transferindo-os para contêineres nativos. Nossa abordagem automatizada exclusiva extrai os elementos críticos do aplicativo da VM para que você possa inserir facilmente esses elementos em contêineres nos clusters do Google Kubernetes Engine, Cloud Run ou Anthos sem as camadas de VM (como sistema operacional convidado) que se tornam desnecessárias com contêineres._
