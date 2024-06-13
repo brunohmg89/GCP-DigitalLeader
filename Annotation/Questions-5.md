@@ -214,7 +214,7 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
         
     :black_large_square: Any of the above
 
-    > - Option A is incorrect because the Public Cloud deployment model generally offers services to multiple customers unless opted explicitly for. Public Cloud is also not a correct choice because Public Cloud will not be hosted internally.
+    > - Option A is incorrect because the Public Cloud deployment model generally offers services to multiple customers unless opted explicitly for. Public Cloud is also not a correct choice because Public Cloud will not be hosted internally.<br>
     - Option B is correct because the Private Cloud deployment model caters to the below requirements:<br>
         - Solely operated for one customer
         - Hosted internally for the customer
