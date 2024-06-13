@@ -1,7 +1,6 @@
 # Digital Leader
 
-Reference (1): <https://certsqa.com/questions/?exam=Cloud-Digital-Leader/>
-
+Reference (1): <https://certsqa.com/questions/?exam=Cloud-Digital-Leader/><br>
 Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
 
 ## Questions
