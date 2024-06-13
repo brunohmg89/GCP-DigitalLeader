@@ -214,12 +214,22 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
         
     :black_large_square: Any of the above
 
-    > - Option A is incorrect because the Public Cloud deployment model generally offers services to multiple customers unless opted explicitly for. Public Cloud is also not a correct choice because Public Cloud will not be hosted internally.
-    > - Option B is correct because the Private Cloud deployment model caters to the below requirements:
+    > Option A is incorrect because the Public Cloud deployment model generally offers services to multiple customers unless opted explicitly for. Public Cloud is also not a correct choice because Public Cloud will not be hosted internally.<br>
+    _A opção A está incorreta porque o modelo de implantação de nuvem pública geralmente oferece serviços a vários clientes, a menos que opte explicitamente por isso. A Nuvem Pública também não é uma escolha correta porque a Nuvem Pública não será hospedada internamente._
+
+    > Option B is correct because the Private Cloud deployment model caters to the below requirements:
     >   - Solely operated for one customer
-    - Hosted internally for the customer
-    - Option C is incorrect as this option comprises the combination of both the Private and Public Cloud.
-    - Option D is incorrect as Public Cloud and Hybrid one are not a suitable choice.
+    >   - Hosted internally for the customer<br>
+    _A opção B está correta porque o modelo de implantação de nuvem privada atende aos requisitos abaixo:_
+        _- Operado exclusivamente para um cliente_
+        _- Hospedado internamente para o cliente_
+    
+    > Option C is incorrect as this option comprises the combination of both the Private and Public Cloud.
+    _A opção C está incorreta, pois esta opção compreende a combinação da Nuvem Privada e Pública._
+
+    > Option D is incorrect as Public Cloud and Hybrid one are not a suitable choice.<br>
+    _A opção D está incorreta, pois a nuvem pública e a híbrida não são uma escolha adequada._
+
 
 2. You are a Senior Project Manager working on a Request for Proposal (RFP). Architects have completed the high-level architecture of the proposed solution. In addition, this proposed solution includes a section that details how the implementation will ensure that the client application and data will be available in case of unavailability of a particular data center. How will you put this section in your RFP?
 
