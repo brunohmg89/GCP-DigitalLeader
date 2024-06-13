@@ -221,10 +221,10 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     >   - Solely operated for one customer
     >   - Hosted internally for the customer<br>
     _A opção B está correta porque o modelo de implantação de nuvem privada atende aos requisitos abaixo:_
-        _- Operado exclusivamente para um cliente_
-        _- Hospedado internamente para o cliente_
+    - _Operado exclusivamente para um cliente_
+    - _Hospedado internamente para o cliente_
     
-    > Option C is incorrect as this option comprises the combination of both the Private and Public Cloud.
+    > Option C is incorrect as this option comprises the combination of both the Private and Public Cloud.<br>
     _A opção C está incorreta, pois esta opção compreende a combinação da Nuvem Privada e Pública._
 
     > Option D is incorrect as Public Cloud and Hybrid one are not a suitable choice.<br>
