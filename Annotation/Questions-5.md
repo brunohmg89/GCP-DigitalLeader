@@ -220,7 +220,7 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     > Option B is correct because the Private Cloud deployment model caters to the below requirements:
     > - Solely operated for one customer
     > - Hosted internally for the customer<br>
-    _A opção B está correta porque o modelo de implantação de nuvem privada atende aos requisitos abaixo:_
+_A opção B está correta porque o modelo de implantação de nuvem privada atende aos requisitos abaixo:_
     > - _Operado exclusivamente para um cliente_
     > - _Hospedado internamente para o cliente_
     
