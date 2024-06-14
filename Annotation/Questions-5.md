@@ -220,7 +220,7 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     > Option B is correct because the Private Cloud deployment model caters to the below requirements:<br>
     > - Solely operated for one customer
     > - Hosted internally for the customer
-    
+
     > _A opção B está correta porque o modelo de implantação de nuvem privada atende aos requisitos abaixo:_
     > - _Operado exclusivamente para um cliente_
     > - _Hospedado internamente para o cliente_
@@ -231,69 +231,153 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     > Option D is incorrect as Public Cloud and Hybrid one are not a suitable choice.<br>
     _A opção D está incorreta, pois a nuvem pública e a híbrida não são uma escolha adequada._
 
+---
 
-2. You are a Senior Project Manager working on a Request for Proposal (RFP). Architects have completed the high-level architecture of the proposed solution. In addition, this proposed solution includes a section that details how the implementation will ensure that the client application and data will be available in case of unavailability of a particular data center. How will you put this section in your RFP?
+15. You are a Senior Project Manager working on a Request for Proposal (RFP). Architects have completed the high-level architecture of the proposed solution. In addition, this proposed solution includes a section that details how the implementation will ensure that the client application and data will be available in case of unavailability of a particular data center. How will you put this section in your RFP?<br>
+    _Você é um gerente de projeto sênior trabalhando em uma solicitação de proposta (RFP). Os arquitetos concluíram a arquitetura de alto nível da solução proposta. Além disso, esta solução proposta inclui uma seção que detalha como a implementação garantirá que a aplicação cliente e os dados estarão disponíveis em caso de indisponibilidade de um determinado data center. Como você colocará esta seção em sua RFP?_
 
     :white_check_mark: Highlight this as a “Business Continuity Plan.”
-        - Option A is correct. As this part of the solution details how the application and data will be available in case of unavailability of a particular data center, we will need to highlight this as a Business Continuity Plan.
+        
     :black_large_square: Highlight this as “Proactive Monitoring.”
-        - Option B is incorrect. Proactive monitoring is the continuous monitoring of various alerts and monitoring application behavior to identify any potential problem. In the given scenario, the solution discusses ensuring business continuity in case of a particular data center unavailability.
+        
     :black_large_square: Highlight this as a “Continuous Improvement Plan.”
-        - Option C is incorrect. The Continuous Improvement Plan details efforts to improve ongoing services that are being provided.
+        
     :black_large_square: Highlight this as an “Automation” section.
-        - Option D is incorrect. Automation plan details the plans of automation to be implemented and not on Business continuity.
 
-3. Which of the below is a Google Cloud PaaS product offering?
+    > Option A is correct. As this part of the solution details how the application and data will be available in case of unavailability of a particular data center, we will need to highlight this as a Business Continuity Plan.<br>
+    _A opção A está correta. Como esta parte da solução detalha como a aplicação e os dados estarão disponíveis em caso de indisponibilidade de um determinado data center, precisaremos destacá-lo como um Plano de Continuidade de Negócios._
+
+    > Option B is incorrect. Proactive monitoring is the continuous monitoring of various alerts and monitoring application behavior to identify any potential problem. In the given scenario, the solution discusses ensuring business continuity in case of a particular data center unavailability.<br>
+    _A opção B está incorreta. O monitoramento proativo é o monitoramento contínuo de vários alertas e o monitoramento do comportamento do aplicativo para identificar qualquer problema potencial. No cenário determinado, a solução discute a garantia da continuidade dos negócios no caso de indisponibilidade de um determinado data center._
+
+    > Option C is incorrect. The Continuous Improvement Plan details efforts to improve ongoing services that are being provided.<br>
+    _A opção C está incorreta. O Plano de Melhoria Contínua detalha os esforços para melhorar os serviços contínuos que estão sendo prestados._
+
+    > Option D is incorrect. Automation plan details the plans of automation to be implemented and not on Business continuity.<br>
+    _A opção D está incorreta. O plano de automação detalha os planos de automação a serem implementados e não de continuidade do negócio._
+
+---
+
+16. Which of the below is a Google Cloud PaaS product offering?<br>
+    _Qual das opções abaixo é uma oferta de produto PaaS do Google Cloud?_
 
     :black_large_square: Google Workspace
-        - Option A is incorrect. Google Workspace is a SaaS offering.
-    :white_check_mark: Google App Engine
-        - Option B is correct. Google App Engine is a PaaS offering.
-    :black_large_square: Google Compute Engine
-        - Option C is incorrect. Google Compute Engine is an IaaS offering.
-    :black_large_square: Persistent Disk
-        - Option D is incorrect. Persistent Disk is an IaaS offering.
 
-4. Which Cloud Computing models require customers to own Operating System patching?
+    :white_check_mark: Google App Engine
+        
+    :black_large_square: Google Compute Engine
+        
+    :black_large_square: Persistent Disk
+
+    > Option A is incorrect. Google Workspace is a SaaS offering.<br>
+    _A opção A está incorreta. O Google Workspace é uma oferta SaaS._
+
+    > Option B is correct. Google App Engine is a PaaS offering.<br>
+    _A opção B está correta. O Google App Engine é uma oferta PaaS._
+
+    > Option C is incorrect. Google Compute Engine is an IaaS offering.<br>
+    _A opção C está incorreta. O Google Compute Engine é uma oferta IaaS._
+
+    > Option D is incorrect. Persistent Disk is an IaaS offering.<br>
+    _A opção D está incorreta. O disco permanente é uma oferta de IaaS._
+
+---
+
+17. Which Cloud Computing models require customers to own Operating System patching?<br>
+    _Quais modelos de computação em nuvem exigem que os clientes possuam patches do sistema operacional?_
 
     :white_check_mark: IaaS (Infrastructure as a Service)
-        - Option A is correct. The IaaS model requires customers to own the patching of the servers.
-    :black_large_square: PaaS (Platform as a Service)
-        - Option B is incorrect. Cloud provider is responsible for patching the Operating System for their PaaS offerings.
-    :black_large_square: SaaS (Software as a Service)
-        - Option C is incorrect. Cloud provider is responsible for patching the Operating System for their SaaS offerings.
-    :black_large_square: FSaaS (FileSystem as a Service)
-        - Option D is incorrect. FSaaS is not a valid Cloud Computing model.
 
-5. A startup working on self-driving vehicles applications requires to collect data from vehicles on-road. Which offering from Cloud providers will help the organization transmit the data from vehicles currently on-road for data collection?
+    :black_large_square: PaaS (Platform as a Service)
+        
+    :black_large_square: SaaS (Software as a Service)
+        
+    :black_large_square: FSaaS (FileSystem as a Service)
+
+    > Option A is correct. The IaaS model requires customers to own the patching of the servers.<br>
+    _A opção A está correta. O modelo IaaS exige que os clientes sejam proprietários dos patches dos servidores._
+
+    > Option B is incorrect. Cloud provider is responsible for patching the Operating System for their PaaS offerings.<br>
+    _A opção B está incorreta. O provedor de nuvem é responsável por corrigir o sistema operacional para suas ofertas de PaaS._
+
+    > Option C is incorrect. Cloud provider is responsible for patching the Operating System for their SaaS offerings.<br>
+    _A opção C está incorreta. O provedor de nuvem é responsável por corrigir o sistema operacional de suas ofertas de SaaS._
+
+    > Option D is incorrect. FSaaS is not a valid Cloud Computing model.<br>
+    _A opção D está incorreta. FSaaS não é um modelo válido de computação em nuvem._
+
+---
+
+18. A startup working on self-driving vehicles applications requires to collect data from vehicles on-road. Which offering from Cloud providers will help the organization transmit the data from vehicles currently on-road for data collection?<br>
+    _Uma startup que trabalha em aplicações de veículos autônomos precisa coletar dados de veículos na estrada. Qual oferta dos provedores de nuvem ajudará a organização a transmitir os dados dos veículos atualmente em circulação para coleta de dados?_
 
     :black_large_square: Machine Learning product offering
-        - Option A is incorrect. Machine learning product offerings from Cloud providers enable organizations to build, deploy and scale the AI models.
-    :white_check_mark: IoT product offering
-        - Option B is correct. IoT offerings from Cloud providers help in data collection from the field, like collecting data from sensors including self-driving vehicles, farmlands, satellites etc.
-    :black_large_square: Data Analytics product offering
-        - Option C is incorrect. Data Analytics offerings from Cloud providers help unlock big data potential by improving data analysis capabilities and eventually improving businesses’ decision-making.
-    :black_large_square: Storage product offering
-        - Option D is incorrect. Storage product offerings from Cloud providers help facilitate storing of the data of various data types.
 
-6. Which of the Google cloud offerings for Virtual Machine offers block storage that is reliable and high performance ?
+    :white_check_mark: IoT product offering
+
+    :black_large_square: Data Analytics product offering
+
+    :black_large_square: Storage product offering
+
+
+    > Option A is incorrect. Machine learning product offerings from Cloud providers enable organizations to build, deploy and scale the AI models.<br>
+    _A opção A está incorreta. As ofertas de produtos de aprendizado de máquina de provedores de nuvem permitem que as organizações construam, implantem e dimensionem os modelos de IA._
+
+    > Option B is correct. IoT offerings from Cloud providers help in data collection from the field, like collecting data from sensors including self-driving vehicles, farmlands, satellites etc.<br>
+    _A opção B está correta. As ofertas de IoT de provedores de nuvem ajudam na coleta de dados em campo, como coleta de dados de sensores, incluindo veículos autônomos, fazendas, satélites, etc._
+
+    > Option C is incorrect. Data Analytics offerings from Cloud providers help unlock big data potential by improving data analysis capabilities and eventually improving businesses’ decision-making.<br>
+    _A opção C está incorreta. As ofertas de análise de dados dos provedores de nuvem ajudam a desbloquear o potencial do big data, melhorando os recursos de análise de dados e, eventualmente, melhorando a tomada de decisões das empresas._
+
+    > Option D is incorrect. Storage product offerings from Cloud providers help facilitate storing of the data of various data types.<br>
+    _A opção D está incorreta. As ofertas de produtos de armazenamento de provedores de nuvem ajudam a facilitar o armazenamento de vários tipos de dados._
+
+---
+
+19. Which of the Google cloud offerings for Virtual Machine offers block storage that is reliable and high performance?<br>
+    _Qual das ofertas de nuvem do Google para máquinas virtuais oferece armazenamento em bloco confiável e de alto desempenho?_
 
     :black_large_square: Preemptible VMs
-        - Option A is Incorrect. Preemptible VMs are compute instances that are short-lived and are appropriate to be used for batch jobs.
+
     :black_large_square: Cloud storage for Firebase
-        - Option B is Incorrect. Cloud storage for Firebase stores and serves content that is user generated on block storage.
+
     :black_large_square: Local SSD
-        - Option C is Incorrect. Local SSD also offers high performance block storage but is attached locally.
+
     :white_check_mark: Persistent Disk
-        - Option D is Correct. Persistent disk from Google Cloud offers block storage that is reliable and high performance for Virtual Machines.
 
-7. Which of the below could be implemented for fine-grained management and cost allocation using organizations in Google cloud? 
+    > Option A is Incorrect. Preemptible VMs are compute instances that are short-lived and are appropriate to be used for batch jobs.<br>
+    _A opção A está incorreta. VMs preemptivas são instâncias de computação de curta duração e apropriadas para uso em trabalhos em lote._
 
-    :black_large_square: Billing access control 
-        - Option A is Incorrect. Billing access control helps to enforce organizational policies at various levels in the resource hierarchy.
+    > Option B is Incorrect. Cloud storage for Firebase stores and serves content that is user generated on block storage.<br>
+    _A opção B está incorreta. O armazenamento em nuvem para Firebase armazena e veicula conteúdo gerado pelo usuário no armazenamento em bloco._
+
+    > Option C is Incorrect. Local SSD also offers high performance block storage but is attached locally.<br>
+    _A opção C está incorreta. O SSD local também oferece armazenamento em bloco de alto desempenho, mas é conectado localmente._
+
+    > Option D is Correct. Persistent disk from Google Cloud offers block storage that is reliable and high performance for Virtual Machines.<br>
+    _A opção D está correta. O disco permanente do Google Cloud oferece armazenamento em blocos confiável e de alto desempenho para máquinas virtuais._
+
+---
+
+20. Which of the below could be implemented for fine-grained management and cost allocation using organizations in Google cloud?<br>
+    _Qual das opções abaixo poderia ser implementada para gerenciamento refinado e alocação de custos usando organizações na nuvem do Google?_
+
+    :black_large_square: Billing access control
+
     :black_large_square: Quotas
-        - Option B is Incorrect. Quotas help to control the spending and unforeseen usage spikes proactively.
+
     :white_check_mark: Resource hierarchy
-        - Option C is Correct. Resource hierarchy should be implemented for fine-grained management and cost allocation using organizations in Google cloud.
+
     :black_large_square: Budgets
-        - Option D is Incorrect. Budgets are most useful in performing the monitoring of the costs being incurred on google cloud.
+
+    > Option A is Incorrect. Billing access control helps to enforce organizational policies at various levels in the resource hierarchy.<br>
+    _A opção A está incorreta. O controle de acesso à cobrança ajuda a impor políticas organizacionais em vários níveis da hierarquia de recursos._
+
+    > Option B is Incorrect. Quotas help to control the spending and unforeseen usage spikes proactively.<br>
+    _A opção B está incorreta. As cotas ajudam a controlar proativamente os gastos e picos de uso imprevistos._
+
+    > Option C is Correct. Resource hierarchy should be implemented for fine-grained management and cost allocation using organizations in Google cloud.<br>
+    _A opção C está correta. A hierarquia de recursos deve ser implementada para gerenciamento refinado e alocação de custos usando organizações na nuvem do Google._
+
+    > Option D is Incorrect. Budgets are most useful in performing the monitoring of the costs being incurred on google cloud.<br>
+    _A opção D está incorreta. Os orçamentos são mais úteis para realizar o monitoramento dos custos incorridos no Google Cloud._
