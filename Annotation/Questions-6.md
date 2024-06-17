@@ -380,80 +380,146 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
 
 ---
 
-17. Which Google Cloud product helps customers.
-    - Search and analyze log files through query statements?
-    - Use Public Write APIs to write custom logs from on-premise?
-    - Set alerts for notifying when a specific message appears in logs?<br>
+17. Which Google Cloud product helps customers.<bn>
     _Which Google Cloud product helps customers._
+    - Search and analyze log files through query statements?<br>
+    _Pesquisar e analisar arquivos de log por meio de instruções de consulta?_
+    - Use Public Write APIs to write custom logs from on-premise?<br>
+    _Usar APIs de gravação pública para gravar logs personalizados localmente?_
+    - Set alerts for notifying when a specific message appears in logs?<br>
+    _Definir alertas para notificar quando uma mensagem específica aparecer nos logs?_
 
     :white_check_mark: Cloud Logging
-        - Option A is correct. Cloud Logging helps in the real-time analysis and management of logs.
+
     :black_large_square: Cloud Debugger
-        - Option B is incorrect. Cloud Debugger helps in the investigation of code’s behavior in production.
+
     :black_large_square: Cloud Trace
-        - Option C is incorrect. Cloud Trace helps identify bottlenecks in production.
+
     :black_large_square: Cloud Monitoring
-        - Option D is incorrect. Cloud Monitoring facilitates the collection of metrics, creating visualizations for metrics pertaining to applications and Infrastructure’s availability, performance, and health.
+
+    > Option A is correct. Cloud Logging helps in the real-time analysis and management of logs.<br>
+    _A opção A está correta. O Cloud Logging ajuda na análise e gerenciamento de logs em tempo real._
+
+    > Option B is incorrect. Cloud Debugger helps in the investigation of code’s behavior in production.<br>
+    _A opção B está incorreta. Cloud Debugger auxilia na investigação do comportamento do código em produção._
+
+    > Option C is incorrect. Cloud Trace helps identify bottlenecks in production.<br>
+    _A opção C está incorreta. O Cloud Trace ajuda a identificar gargalos na produção._
+
+    > Option D is incorrect. Cloud Monitoring facilitates the collection of metrics, creating visualizations for metrics pertaining to applications and Infrastructure’s availability, performance, and health.<br>
+    _A opção D está incorreta. O Cloud Monitoring facilita a coleta de métricas, criando visualizações de métricas relativas a aplicações e disponibilidade, desempenho e integridade de infraestrutura._
 
 ---
 
-18. Which of the below features of Pub/Sub allows offline examination and debugging of messages to ensure no-delay processing of other messages?
+18. Which of the below features of Pub/Sub allows offline examination and debugging of messages to ensure no-delay processing of other messages?<br>
+    _Qual dos recursos abaixo do Pub/Sub permite o exame e a depuração off-line de mensagens para garantir o processamento sem atraso de outras mensagens?_
 
     :black_large_square: Exactly once processing
-        - Option A is Incorrect. Exactly once processing ensures that the Pub/Sub stream is processed exactly once.
+
     :black_large_square: Seek and replay
-        - Option B is Incorrect. The seek and replay feature of Pub/Sub can reprocess messages by facilitating point-in-time rewind of backlog.
+
     :white_check_mark: Dead Letter topics
-        - Option C is Correct. It allows offline examination and debugging of messages to ensure no-delay processing of other messages.
+
     :black_large_square: Filtering
-        - Option D is Incorrect. Filtering enables message filtering based on message attributes.
+        - 
+
+    > Option A is Incorrect. Exactly once processing ensures that the Pub/Sub stream is processed exactly once.<br>
+    _A opção A está incorreta. O processamento exatamente uma vez garante que o stream do Pub/Sub seja processado exatamente uma vez._
+
+    > A opção B está incorreta. O recurso de busca e reprodução do Pub/Sub pode reprocessar mensagens facilitando o retrocesso pontual do backlog.<br>
+    _A opção B está incorreta. O recurso de busca e reprodução do Pub/Sub pode reprocessar mensagens facilitando o retrocesso pontual do backlog._
+
+    > Option C is Correct. It allows offline examination and debugging of messages to ensure no-delay processing of other messages.<br>
+    _A opção C está correta. Ele permite o exame offline e a depuração de mensagens para garantir o processamento sem atraso de outras mensagens._
+
+    > Option D is Incorrect. Filtering enables message filtering based on message attributes.<br>
+    _A opção D está incorreta. A filtragem permite a filtragem de mensagens com base nos atributos da mensagem._
 
 ---
 
-19. Which of the below-listed use cases should Local SSD be used for?
+19. Which of the below-listed use cases should Local SSD be used for?<br>
+    _Para quais dos casos de uso listados abaixo o SSD local deve ser usado?_
 
     :black_large_square: Genome sequencing
-        - Option A is Incorrect. Since Genome sequencing requires performing analysis and needs speed, scalabiity and security, filestore is most apt.
+
     :white_check_mark: Media rendering
-        - Option B is Correct. Local SSD is appropriate to be used for Media rendering.
+
     :black_large_square: Data archiving
-        - Option C is Incorrect. Cold storage is most optimal for data archiving.
+
     :white_check_mark: Use as cache
-        - Option D is Correct. Local SSD is the most optimal choice for being used as a cache as it provides high IOPS and very low latency.
+
     :black_large_square: Batch Jobs
-        - Option E is Incorrect. Preemptible VMs are appropriate for batch jobs.
+
+    > Option A is Incorrect. Since Genome sequencing requires performing analysis and needs speed, scalabiity and security, filestore is most apt.<br>
+    _A opção A está incorreta. Como o sequenciamento do genoma requer a realização de análises e precisa de velocidade, escalabilidade e segurança, o filestore é o mais adequado._
+
+    > Option B is Correct. Local SSD is appropriate to be used for Media rendering.<br>
+    _A opção B está correta. O SSD local é apropriado para ser usado para renderização de mídia._
+
+    > Option C is Incorrect. Cold storage is most optimal for data archiving.<br>
+    _A opção C está incorreta. O armazenamento frio é ideal para arquivamento de dados._
+
+    > Option D is Correct. Local SSD is the most optimal choice for being used as a cache as it provides high IOPS and very low latency.<br>
+    _A opção D está correta. O SSD local é a escolha ideal para ser usado como cache, pois fornece IOPS alto e latência muito baixa._
+
+    > Option E is Incorrect. Preemptible VMs are appropriate for batch jobs.<br>
+    _A opção E está incorreta. VMs preemptivas são apropriadas para trabalhos em lote._
 
 ---
 
-20. An issue is reported in the code deployed in the production environment. To diagnose the issue, your developer requires injecting a new logging statement and taking a snapshot of the state of running the application. How can this be done?
+20. An issue is reported in the code deployed in the production environment. To diagnose the issue, your developer requires injecting a new logging statement and taking a snapshot of the state of running the application. How can this be done?<br>
+    _Um problema é relatado no código implantado no ambiente de produção. Para diagnosticar o problema, seu desenvolvedor exige a injeção de uma nova instrução de registro e a captura de um instantâneo do estado de execução do aplicativo. Como isso pode ser feito?_
 
     :black_large_square: Cloud Logging
-        - Option A is Incorrect. Cloud logging helps in real-time management and analysis of logs.
+
     :black_large_square: Cloud Monitoring
-        - Option B is Incorrect. Cloud Monitoring helps to monitor the health, availability and performance of infrastructure and the configured application by producing metrics of help.
+
     :black_large_square: Cloud Trace
-        - Option C is Incorrect. Cloud Trace is an offering from Google cloud that helps find production performance bottlenecks by collecting application’s latency data.
+
     :white_check_mark: Cloud Debugger
-        - Option D is Correct. Cloud Debugger helps to investigate the behavior of code in production.
+
+    > Option A is Incorrect. Cloud logging helps in real-time management and analysis of logs.<br>
+    _A opção A está incorreta. O registro em nuvem ajuda no gerenciamento e análise de logs em tempo real._
+
+    > Option B is Incorrect. Cloud Monitoring helps to monitor the health, availability and performance of infrastructure and the configured application by producing metrics of help.<br>
+    _A opção B está incorreta. O Cloud Monitoring ajuda a monitorar a integridade, a disponibilidade e o desempenho da infraestrutura e do aplicativo configurado, produzindo métricas de ajuda._
+
+    > Option C is Incorrect. Cloud Trace is an offering from Google cloud that helps find production performance bottlenecks by collecting application’s latency data.<br>
+    _A opção C está incorreta. Cloud Trace é uma oferta da nuvem do Google que ajuda a encontrar gargalos no desempenho da produção coletando dados de latência do aplicativo._
+
+    > Option D is Correct. Cloud Debugger helps to investigate the behavior of code in production.<br>
+    _A opção D está correta. O Cloud Debugger ajuda a investigar o comportamento do código em produção._
 
 ---
 
-21. Which of the below-listed ways cannot be used to connect to the services and resources hosted in the Google Cloud platform?
+21. Which of the below-listed ways cannot be used to connect to the services and resources hosted in the Google Cloud platform?<br>
+    _Qual das formas listadas abaixo não pode ser usada para se conectar aos serviços e recursos hospedados na plataforma Google Cloud?_
 
     :black_large_square: Cloud SDK
-        - Option A is incorrect as Cloud SDK is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.
-    :black_large_square: Cloud Shell
-        - Option B is incorrect as Cloud Shell is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.
-    :black_large_square: Google Cloud Console
-        - Option C is incorrect as Google Cloud Console is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.
-    :white_check_mark: Google Management Console
-        - Option D is correct as “Google Management Console” is an invalid option.
 
-    **Explanation:** There are three basic ways to interact and connect with the services and resources hosted in Google Cloud Platform.
+    :black_large_square: Cloud Shell
+
+    :black_large_square: Google Cloud Console
+
+    :white_check_mark: Google Management Console
+
+    > Option A is incorrect as Cloud SDK is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.<br>
+    _A opção A está incorreta, pois o Cloud SDK é uma excelente maneira de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+
+    > Option B is incorrect as Cloud Shell is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.<br>
+    _A opção B está incorreta, pois o Cloud Shell é uma excelente forma de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+
+    > Option C is incorrect as Google Cloud Console is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.<br>
+    _A opção C está incorreta, pois o Google Cloud Console é uma excelente maneira de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+
+    > Option D is correct as “Google Management Console” is an invalid option.<br>
+    _A opção D está correta, pois “Google Management Console” é uma opção inválida._
+
+    > There are three basic ways to interact and connect with the services and resources hosted in Google Cloud Platform.
     - Google Cloud Console
     - Command Line Interface (includes Cloud SDK and Cloud Shell)
     - Client Libraries
-
+    
 ---
 
 22. You are asked to deploy applications so that they are fault-tolerant and highly available. Since the customers are based only in India, you plan to use only one region. Which deployment area within a region would you use to deploy the applications?
