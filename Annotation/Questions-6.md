@@ -384,6 +384,7 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     - Search and analyze log files through query statements?
     - Use Public Write APIs to write custom logs from on-premise?
     - Set alerts for notifying when a specific message appears in logs?
+    _Which Google Cloud product helps customers._
 
     :white_check_mark: Cloud Logging
         - Option A is correct. Cloud Logging helps in the real-time analysis and management of logs.
