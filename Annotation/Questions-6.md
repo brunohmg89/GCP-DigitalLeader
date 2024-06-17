@@ -527,26 +527,50 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
 
 ---
 
-22. You are asked to deploy applications so that they are fault-tolerant and highly available. Since the customers are based only in India, you plan to use only one region. Which deployment area within a region would you use to deploy the applications?
+22. You are asked to deploy applications so that they are fault-tolerant and highly available. Since the customers are based only in India, you plan to use only one region. Which deployment area within a region would you use to deploy the applications?<br>
+    _Você será solicitado a implantar aplicativos para que sejam tolerantes a falhas e altamente disponíveis. Como os clientes estão localizados apenas na Índia, você planeja usar apenas uma região. Qual área de implantação dentro de uma região você usaria para implantar os aplicativos?_
 
     :white_check_mark: Zone
-        - Option A is correct. Zones are a deployment area within a region, and Zones can be utilized for deploying applications in a way that they are fault-tolerant and highly available.
+
     :black_large_square: Datacenter
-        - Option B is incorrect. If an application is deployed in a particular data center, and the data center is impacted by, say power failure or some calamity, the application would also go down. Hence, opting for a data center would not be the right choice.
+
     :black_large_square: Sub-Region
-        - Option C is incorrect. Sub-Region is an invalid option.
+
     :black_large_square: Datazone
-        - Option D is incorrect. Datazone is an invalid option.
+
+    > Option A is correct. Zones are a deployment area within a region, and Zones can be utilized for deploying applications in a way that they are fault-tolerant and highly available.<br>
+    _A opção A está correta. As zonas são uma área de implantação dentro de uma região, e as zonas podem ser utilizadas para implantar aplicativos de forma que sejam tolerantes a falhas e altamente disponíveis._
+
+    > Option B is incorrect. If an application is deployed in a particular data center, and the data center is impacted by, say power failure or some calamity, the application would also go down. Hence, opting for a data center would not be the right choice.<br>
+    _A opção B está incorreta. Se um aplicativo for implantado em um data center específico e o data center for afetado, por exemplo, por falha de energia ou alguma calamidade, o aplicativo também ficará inativo. Portanto, optar por um data center não seria a escolha certa._
+
+    > Option C is incorrect. Sub-Region is an invalid option.<br>
+    _A opção C está incorreta. Sub-região é uma opção inválida._
+
+    > Option D is incorrect. Datazone is an invalid option.<br>
+    _A opção D está incorreta. Datazone é uma opção inválida._
 
 ---
 
-23. You are working on implementing a solution that requires you to use a scalable, no-maintenance and serverless document database. Which of the below Google Cloud products would you use?
+23. You are working on implementing a solution that requires you to use a scalable, no-maintenance and serverless document database. Which of the below Google Cloud products would you use?<br>
+    _Você está trabalhando na implementação de uma solução que exige o uso de um banco de dados de documentos escalável, sem manutenção e sem servidor. Quais dos produtos do Google Cloud abaixo você usaria?_
 
     :white_check_mark: Firestore
-        - Option A is correct. Firestore is a Google product that is scalable, requires no maintenance, and it is a serverless document database.
+        - 
     :black_large_square: Cloud Spanner
-        - Option B is incorrect. Cloud Spanner is incorrect because it is a relational database service, not a document database.
+
     :black_large_square: Memorystore
-        - Option C is incorrect. Memorystore, also known as Memorystore for Redis, is a fully managed Google’s in-memory data store service.
+
     :black_large_square: Cloud Bigtable
-        - Option D is incorrect. Cloud Bigtable is a big data database service, not a document database.
+
+    > Option A is correct. Firestore is a Google product that is scalable, requires no maintenance, and it is a serverless document database.<br>
+    _A opção A está correta. Firestore é um produto do Google escalonável, não requer manutenção e é um banco de dados de documentos sem servidor._
+
+    > Option B is incorrect. Cloud Spanner is incorrect because it is a relational database service, not a document database.<br>
+    _A opção B está incorreta. O Cloud Spanner está incorreto porque é um serviço de banco de dados relacional, não um banco de dados de documentos._
+
+    > Option C is incorrect. Memorystore, also known as Memorystore for Redis, is a fully managed Google’s in-memory data store service.<br>
+    _A opção C está incorreta. Memorystore, também conhecido como Memorystore for Redis, é um serviço de armazenamento de dados na memória do Google totalmente gerenciado._
+    
+    > Option D is incorrect. Cloud Bigtable is a big data database service, not a document database.
+    _A opção D está incorreta. O Cloud Bigtable é um serviço de banco de dados de big data, não um banco de dados de documentos._
