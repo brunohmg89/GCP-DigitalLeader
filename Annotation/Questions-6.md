@@ -383,7 +383,7 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
 17. Which Google Cloud product helps customers.
     - Search and analyze log files through query statements?
     - Use Public Write APIs to write custom logs from on-premise?
-    - Set alerts for notifying when a specific message appears in logs?
+    - Set alerts for notifying when a specific message appears in logs?<br>
     _Which Google Cloud product helps customers._
 
     :white_check_mark: Cloud Logging
