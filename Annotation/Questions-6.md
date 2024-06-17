@@ -518,8 +518,12 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     > There are three basic ways to interact and connect with the services and resources hosted in Google Cloud Platform.
     > - Google Cloud Console
     > - Command Line Interface (includes Cloud SDK and Cloud Shell)
-    > - Client Libraries<br>
-    _Existem três maneiras básicas de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+    > - Client Libraries
+    
+    > _Existem três maneiras básicas de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+    > - Google Cloud Console
+    > - Command Line Interface (includes Cloud SDK and Cloud Shell)
+    > - Client Libraries
 
 ---
 
