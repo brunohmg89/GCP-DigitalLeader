@@ -516,10 +516,10 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     _A opção D está correta, pois “Google Management Console” é uma opção inválida._
 
     > There are three basic ways to interact and connect with the services and resources hosted in Google Cloud Platform.
-    - Google Cloud Console
-    - Command Line Interface (includes Cloud SDK and Cloud Shell)
-    - Client Libraries
-    
+    > - Google Cloud Console
+    > - Command Line Interface (includes Cloud SDK and Cloud Shell)
+    > - Client Libraries
+
 ---
 
 22. You are asked to deploy applications so that they are fault-tolerant and highly available. Since the customers are based only in India, you plan to use only one region. Which deployment area within a region would you use to deploy the applications?
