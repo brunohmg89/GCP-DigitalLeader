@@ -2,5 +2,7 @@
 Estudos para certificação GCP Digital Leader
 
 ## Status
-- Trilha concluída
+- Trilha concluída.
+- Workshop concluído.
 - Estudos em andamento
+- Prova marcada.

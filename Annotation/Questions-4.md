@@ -307,8 +307,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :white_check_mark: Migrate the workloads to Compute Engine with a pay-as-you-go (PAYG) model.<br>
     _Migre as cargas de trabalho para o Compute Engine com um modelo de pagamento conforme o uso (PAYG)._
 
-    > The PAYG model is more convenient because you only pay for usage. And the case describes that the workloads are only run on certain days.<br>
-    _O modelo PAYG é mais conveniente porque você paga apenas pelo uso. E o caso descreve que as cargas de trabalho são executadas apenas em determinados dias._
+    > Opting for the BYOL (Bring Your Own License) model when migrating workloads to Compute Engine, as indicated in option C, is a sound decision primarily because it allows the utilization of already owned licenses. This approach avoids the typically higher costs associated with PAYG (Pay-As-You-Go) models, which include continuous licensing fees embedded in usage costs. Furthermore, by choosing BYOL, you capitalize on the licenses already acquired, potentially reducing overall expenses significantly, especially since the system needs to operate only during business hours, not around the clock. This strategy aligns perfectly with optimizing license costs while moving to a cloud environment.<br>
+    _Optar pelo modelo BYOL (Traga sua própria licença) ao migrar cargas de trabalho para o Compute Engine, conforme indicado na opção C, é uma decisão acertada principalmente porque permite a utilização de licenças já possuídas. Esta abordagem evita os custos normalmente mais elevados associados aos modelos PAYG (Pay-As-You-Go), que incluem taxas de licenciamento contínuas incorporadas nos custos de utilização. Além disso, ao escolher o BYOL, você capitaliza as licenças já adquiridas, potencialmente reduzindo significativamente as despesas gerais, especialmente porque o sistema precisa operar apenas durante o horário comercial, e não 24 horas por dia. Essa estratégia se alinha perfeitamente com a otimização dos custos de licença durante a migração para um ambiente de nuvem._
 
 ---
 

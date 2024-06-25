@@ -47,6 +47,9 @@ Reference: <https://www.examtopics.com/exams/google/>
 
     :black_large_square: View the Compliance Reports Manager to identify and download a recent SOC 1 audit
 
+    > Using the Security Command Center offers the most precise method to identify virtual machines with outdated security updates. This tool provides insights about the current security state of each machine, specifically highlighting those running vulnerable disk images. This centralized visibility and precise identification enable timely updates, boosting the overall security of your cloud infrastructure.<br>
+    _Usar o Security Command Center oferece o método mais preciso para identificar máquinas virtuais com atualizações de segurança desatualizadas. Esta ferramenta fornece informações sobre o estado atual de segurança de cada máquina, destacando especificamente aquelas que executam imagens de disco vulneráveis. Essa visibilidade centralizada e identificação precisa permitem atualizações oportunas, aumentando a segurança geral da sua infraestrutura em nuvem._
+
 ---
 
 4. Your organization runs a distributed application in the Compute Engine virtual machines. Your organization needs redundancy, but it also needs extremely fast communication (less than 10 milliseconds) between the parts of the application in different virtual machines. Where should your organization locate this virtual machines?<br>
@@ -59,6 +62,9 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: In multiple regions, using one zone per region
 
     :white_check_mark: In multiple regions, using multiple zones per region
+
+    > Choosing option B, placing VMs in different zones within a single region, best combines redundancy with the requirement for low latency, typically under 10 milliseconds between VMs. This setup avoids the potential latency issues that may arise with inter-regional communication in option D, which although it offers increased redundancy, may not consistently deliver the sub-10-millisecond communication required for some distributed applications.<br>
+    _Escolher a opção B, colocando VMs em zonas diferentes dentro de uma única região, combina melhor a redundância com o requisito de baixa latência, normalmente abaixo de 10 milissegundos entre VMs. Esta configuração evita possíveis problemas de latência que podem surgir com a comunicação inter-regional na opção D, que embora ofereça maior redundância, pode não fornecer consistentemente a comunicação inferior a 10 milissegundos necessária para alguns aplicativos distribuídos._
 
 ---
 
@@ -75,6 +81,9 @@ Reference: <https://www.examtopics.com/exams/google/>
 
     :black_large_square: Fixing application security issues
 
+    > When it comes to public cloud services, the provider takes charge of both hardware maintenance and capacity management. Essentially, they ensure that physical servers and other hardware resources are not only up and running but also adequately scaled to meet user demands. So, there's no need for clients to worry about the nuts and bolts of hardware—they can focus on building and securing their apps!<br>
+    _Quando se trata de serviços de nuvem pública, o provedor se encarrega tanto da manutenção do hardware quanto do gerenciamento da capacidade. Essencialmente, eles garantem que os servidores físicos e outros recursos de hardware não apenas estejam em funcionamento, mas também dimensionados adequadamente para atender às demandas dos usuários. Portanto, os clientes não precisam se preocupar com os detalhes básicos do hardware: eles podem se concentrar na criação e na proteção de seus aplicativos!_
+
 ---
 
 6. You are a program manager within a Software as a Service (SaaS) company that offers rendering software for animation studios. Your team needs the ability to allow scenes to be scheduled at will and to be interrupted at any time to restart later. Any individual scene rendering takes less than 12 hours to complete, and there is no service-level agreement (SLA) for the completion time for all scenes. Results will be stored in a global Cloud Storage bucket. The compute resources are not bound to any single geographical location. This software needs to run on Google Cloud in a cost-optimized way. What should you do?<br>
@@ -87,6 +96,9 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Create a reservation for the minimum number of Compute Engine instances you will use
 
     :black_large_square: Start more instances with fewer virtual centralized processing units (vCPUs) instead of fewer instances with more vCPUs
+
+    > For your SaaS company's animation rendering needs, preemptible VMs on Google Cloud present a highly cost-effective solution. These VMs offer a substantial discount compared to standard instances and are especially suitable for tasks like rendering, which can tolerate interruptions. Since each scene takes less than 12 hours and the process can be paused and resumed, using preemptible VMs allows you to manage compute costs effectively while adapting the workflow to automatically save progress and restart as needed. This setup ensures efficient use of resources and aligns perfectly with the absence of strict SLA requirements for scene completion.<br>
+    _Para as necessidades de renderização de animação da sua empresa de SaaS, as VMs preemptivas no Google Cloud apresentam uma solução altamente econômica. Essas VMs oferecem um desconto substancial em comparação com instâncias padrão e são especialmente adequadas para tarefas como renderização, que podem tolerar interrupções. Como cada cena leva menos de 12 horas e o processo pode ser pausado e retomado, o uso de VMs preemptivas permite gerenciar os custos de computação de maneira eficaz e, ao mesmo tempo, adaptar o fluxo de trabalho para salvar automaticamente o progresso e reiniciar conforme necessário. Essa configuração garante o uso eficiente de recursos e se alinha perfeitamente com a ausência de requisitos rígidos de SLA para conclusão da cena._
 
 ---
 
@@ -113,6 +125,9 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Migrate the workloads to multiple local co-location facilities
 
     :black_large_square: Migrate the workloads to multiple local private clouds
+
+    > Choosing to migrate the workloads to a public cloud perfectly addresses the goals of managing the workloads centrally and consistently while eliminating the need to manage physical infrastructure. This shift not only streamlines management practices across various geographies but also enhances operational efficiency by leveraging cloud technologies. This option is most in line with the desire to decrease direct oversight over hardware and physical systems.<br>
+    _A escolha de migrar as cargas de trabalho para uma nuvem pública atende perfeitamente aos objetivos de gerenciamento das cargas de trabalho de forma centralizada e consistente, ao mesmo tempo que elimina a necessidade de gerenciar a infraestrutura física. Esta mudança não só simplifica as práticas de gestão em várias geografias, mas também aumenta a eficiência operacional ao alavancar tecnologias de nuvem. Esta opção está mais alinhada com o desejo de diminuir a supervisão direta sobre hardware e sistemas físicos._
 
 ---
 
