@@ -8,7 +8,7 @@
 
 - IA Generativa
 
-- Problemas ajustaveis com ML:
+- Problemas ajustaveis com ML
     - Substituir ou simplificar sistemas baseados em regras.
     - Automação de processos.
     - Entender dados não estruturados, como imagens, vídeos e áudio.
@@ -21,8 +21,6 @@
     - Validade: Significa que os dados estão em conformidade com um conjunto de padrões e definições já estabelecidos, como tipo e formato.
     - Acurácia: Reflete a exatidão dos dados, como a data de nascimento correta ou o número exato de unidades vendidas.
     - Consistência: Diz respeito à uniformidade dos dados e se eles não contêm informações contraditórias.
-
-<br>
 
 ### Questões
 
@@ -144,30 +142,26 @@
 
     :black_large_square: Se todas as informações necessárias estão presentes.
 
-<br>
-
 ## 2º módulo - Soluções de IA e ML do Google Cloud
 
 - Modelos de ML
     - BigQuery ML: Ele é uma ferramenta que usa consultas SQL para criar e executar modelos de machine learning no BigQuery.
     - APIs Pré treinadas (API Vision - Natural Language - Cloud Translation - Speech to text - Text to Speech - Video Intelligence):  é possível usar modelos de machine learning que foram criados e treinados pelo Google
-    - AutoML: que é uma solução sem código, que permite criar modelos próprios de machine learning na Vertex AI em uma interface de apontar e clicar.
-    - Custom Training: com os quais é possível programar seu próprio ambiente de machine learning
+    - AutoML: É uma solução sem código, que permite criar modelos próprios de machine learning na Vertex AI em uma interface de apontar e clicar.
+    - Custom Training: É possível programar seu próprio ambiente de machine learning
 
 - Vertex AI: Plataforma essencial para criar modelos de machine learnings de ponta a ponta.
     - Coleta de dados -> Criação -> Implantação e monitoramento de modelo de ML
-    - Tensorflow: plataforma completa de código aberto para machine learning. O TensorFlow tem um ecossistema flexível de ferramentas, bibliotecas e recursos comunitários que ajudam os pesquisadores a inovar no ML e os desenvolvedores a criar e implantar aplicativos com tecnologia de ML. Usa TPU mais rapido que CPU e GPU
+    - Tensorflow: Plataforma completa de código aberto para machine learning. O TensorFlow tem um ecossistema flexível de ferramentas, bibliotecas e recursos comunitários que ajudam os pesquisadores a inovar no ML e os desenvolvedores a criar e implantar aplicativos com tecnologia de ML. Usa TPU mais rapido que CPU e GPU
 
-- Soluções de IA:
-    - Contact Center IA: fornece modelos para interagir com clientes e auxiliar agentes humanos
-    - Document IA: gera insights extraindo e classificando informações de documentos não estruturados
-    - Discovery IA: usa machine learning para otimizar a ordem dos produtos no site de e-commerce de um varejista quando os compradores escolhem uma categoria
-    - Cloud Talent Solution IA: usa IA com recursos de pesquisa de vagas e aquisição de talentos, agiliza a correlação de candidatos com as vagas ideais 
+- Soluções de IA
+    - Contact Center IA: Fornece modelos para interagir com clientes e auxiliar agentes humanos
+    - Document IA: Gera insights extraindo e classificando informações de documentos não estruturados
+    - Discovery IA: Usa machine learning para otimizar a ordem dos produtos no site de e-commerce de um varejista quando os compradores escolhem uma categoria
+    - Cloud Talent Solution IA: Usa IA com recursos de pesquisa de vagas e aquisição de talentos, agiliza a correlação de candidatos com as vagas ideais 
 
-- Considerações para escolher a melhor IA:
+- Considerações para escolher a melhor IA
     - Velocidade -> Diferenciação -> Experiencia -> Esforço
-
-<br>
 
 ### Questões
 

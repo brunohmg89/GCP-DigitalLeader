@@ -19,9 +19,9 @@
     - Level 3: Folder
     - Level 4: Organization
 
-- Policy: é um conjunto de regras que definem quem pode acessar um recurso e o que a pessoa pode fazer com ele.
+- Policy: É um conjunto de regras que definem quem pode acessar um recurso e o que a pessoa pode fazer com ele.
 
-- Beneficios de controle de acesso a nuvem:
+- Beneficios de controle de acesso a nuvem
     - Primeiro, ela fornece controle de acesso granular, o que significa que você pode atribuir funções e permissões em diferentes níveis da hierarquia, como no nível da pasta, do projeto ou de um recurso individual.
     - Segundo, como a hierarquia de recursos segue regras de herança e propagação, as permissões definidas em níveis superiores são herdadas de modo automático pelos recursos de nível inferior.
     - Terceiro, a hierarquia de recursos aumenta a segurança e a conformidade através de princípios de privilégio mínimo.
@@ -33,8 +33,6 @@
     - Cloud Billing reports: oferecem um método reativo para monitorar e entender o que já foi gasto nos recursos do Google Cloud e otimizar os custos.
 
 - CUD Commited Use Discounts (Descontos por compromisso): Oferece preços com desconto em troca do compromisso de usar um nível mínimo de recursos por um período específico.
-
-<br>
 
 ### Questões
 
@@ -120,19 +118,17 @@
 
     :black_large_square: Projetos
 
-<br>
-
 ## 2º Módulo - Excelência operacional e confiabilidade em escala
 
 - Unir os desenvolvedores e os operadores (DevOps)
 
-- SRE: engenharia de confiabilidade de site que garante a confiabilidade, a disponibilidade e a eficiência dos sistemas de software e serviços implantados na nuvem.
+- SRE: Engenharia de confiabilidade de site que garante a confiabilidade, a disponibilidade e a eficiência dos sistemas de software e serviços implantados na nuvem.
 
 - Four golden signals
-    - Latência: mede o tempo que uma parte específica de um sistema leva para retornar um resultado.
-    - Tráfego: mede quantas solicitações chegam ao sistema.
-    - Saturação: mede o quão próximo um sistema está de atingir sua capacidade.
-    - Erros: são eventos que medem as falhas do sistema ou outros problemas.
+    - Latência: Mede o tempo que uma parte específica de um sistema leva para retornar um resultado.
+    - Tráfego: Mede quantas solicitações chegam ao sistema.
+    - Saturação: Mede o quão próximo um sistema está de atingir sua capacidade.
+    - Erros: São eventos que medem as falhas do sistema ou outros problemas.
 
 - Conceitos de SRE:
     - SLI (Service Level Indicators): Consistem em medidas que mostram o desempenho de um sistema ou serviço e as métricas específicas associadas, como tempo de resposta, taxa de erro ou percentual de atividade, que é a quantidade de tempo que um sistema fica disponível para uso.
@@ -165,29 +161,27 @@
 - Google Cloud Customer Care:
     - Basic: O Suporte Básico é gratuito para todos os clientes do Google Cloud. Ele dá acesso à documentação, ao Suporte da comunidade e do Cloud Billing e às recomendações do Active Assist.
     - Standard: O Suporte Padrão é recomendado para cargas de trabalho em desenvolvimento. É possível começar a usar a nuvem com acesso ilimitado ao suporte técnico, o que permite solucionar problemas, fazer testes e conhecer os recursos.
-        - Casos P2: quatro horas
-        - Casos P3: oito horas
-        - Casos P4: oito horas
+        - Casos P2: Quatro horas
+        - Casos P3: Oito horas
+        - Casos P4: Oito horas
         - Respostas durante o horário comercial em dias úteis para problemas de alto impacto
         - Atendimento somente em inglês
     - Enhanced: O Suporte Avançado foi pensado para cargas de trabalho em produção. Ele conta com tempos de resposta rápidos e serviços adicionais para otimizar sua experiência com um suporte robusto e de alta qualidade.
-        - Casos P1: uma hora
-        - Casos P2: quatro horas
-        - Casos P3: oito horas
-        - Casos P4: oito horas
+        - Casos P1: Uma hora
+        - Casos P2: Quatro horas
+        - Casos P3: Oito horas
+        - Casos P4: Oito horas
         - Respostas 24 horas para problemas de alto impacto e impacto crítico
         - Inglês, japonês, mandarim, coreano e francês
     - Premium: O Suporte Premium foi feito para empresas com cargas de trabalho essenciais. Ele tem os menores tempos de resposta, suporte baseado no cliente e um Gerente técnico de contas exclusivo.
         - Casos P1: 15 minutos
-        - Casos P2: duas horas
-        - Casos P3: quatro horas
-        - Casos P4: oito horas
+        - Casos P2: Duas horas
+        - Casos P3: Quatro horas
+        - Casos P4: Oito horas
         - Respostas 24 horas para problemas de alto impacto e impacto crítico
         - Inglês, japonês, mandarim, coreano e francês
 
-- Abertura de cases: menos no Basic
-
-<br>
+- Abertura de cases: Menos no Basic
 
 ### Questões
 
@@ -297,8 +291,6 @@
 
     :black_large_square: Suporte Padrão
 
-<br>
-
 ## 3º módulo - Sustentabilidade com o Google Cloud
 
 - Primeiro data center a receber a certificação ISO 14001 (Trata-se de um padrão que define a estrutura para que uma organização melhore seu desempenho ambiental aumentando a eficiência no uso dos recursos e reduzindo o desperdício.)
@@ -308,8 +300,6 @@
 - Em 20 anos, fomos a primeira empresa a usar energia 100% renovável.
 
 - Até 2030, pretendem ser a primeira grande empresa a operar sem carbono.
-
-<br>
 
 ### Questões
 

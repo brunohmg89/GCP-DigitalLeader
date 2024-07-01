@@ -3,33 +3,31 @@
 ## 1º Módulo - O valor dos dados
 
 - Tipos de dados:
-    - **Estruturados:** São altamente organizados e bem definidos. Normalmente, eles são armazenados em uma tabela com relações entre diferentes linhas e colunas, como em uma planilha ou banco de dados.
+    - Estruturados: São altamente organizados e bem definidos. Normalmente, eles são armazenados em uma tabela com relações entre diferentes linhas e colunas, como em uma planilha ou banco de dados.
     - Semi estruturados: Estão entre os estruturados e não estruturados. Eles são organizados em uma hierarquia, mas sem diferenciação total ou ordem específica. Os exemplos incluem e-mails, arquivos HTML, JSON e XML.
-    - Não estruturados: são informações que não têm um modelo de dados predefinido ou não são organizadas de forma predefinida. As categorias incluem texto, que é mais comum, é gerado com mais frequência e é coletado de fontes como documentos, apresentações e postagens de redes sociais.
+    - Não estruturados: São informações que não têm um modelo de dados predefinido ou não são organizadas de forma predefinida. As categorias incluem texto, que é mais comum, é gerado com mais frequência e é coletado de fontes como documentos, apresentações e postagens de redes sociais.
 
 - Locais de armazenamento de dados:
     - Banco de dados: É uma coleção organizada de dados armazenados em tabelas e acessados eletronicamente em um sistema de computador.
-        - Banco de dados relacional (CloudSQL e Cloud Spanner): armazenam e concedem acesso a pontos de dados relacionados entre si. Isso significa armazenar informações em tabelas, linhas e colunas que têm um esquema bem definido que representa a estrutura ou a configuração lógica do banco de dados.
+        - Banco de dados relacional (CloudSQL e Cloud Spanner): Armazenam e concedem acesso a pontos de dados relacionados entre si. Isso significa armazenar informações em tabelas, linhas e colunas que têm um esquema bem definido que representa a estrutura ou a configuração lógica do banco de dados.
         - Banco de dados não relacional (BigTable): Às vezes conhecido como banco de dados NoSQL, é menos estruturado em formato e não usa um formato tabular de linhas nem colunas como bancos de dados relacionais.
-    - Data Warehouse (BigQuery): é um sistema empresarial usado para análise e relatório de dados estruturados e semiestruturados de várias origens. 
-    - Data Lake (Cloud Storage): é um repositório feito para ingerir, armazenar, explorar, processar e analisar qualquer tipo ou volume de dados brutos, seja qual for a origem, como sistemas operacionais, fontes da Web, mídias sociais e Internet das Coisas (IoT).
+    - Data Warehouse (BigQuery): É um sistema empresarial usado para análise e relatório de dados estruturados e semiestruturados de várias origens. 
+    - Data Lake (Cloud Storage): É um repositório feito para ingerir, armazenar, explorar, processar e analisar qualquer tipo ou volume de dados brutos, seja qual for a origem, como sistemas operacionais, fontes da Web, mídias sociais e Internet das Coisas (IoT).
 
 - Dados
-    - Dados próprios: são conjuntos de dados dos clientes reservados que uma empresa coleta do cliente ou de interações ou transações com o público.
-    - Dados secundários: geralmente são dados próprios de outra organização, como um parceiro.
-    - Dados de terceiros: que são conjuntos de dados coletados e gerenciados por organizações que não interagem diretamente com os negócios nem com os clientes de uma organização.
+    - Dados próprios: São conjuntos de dados dos clientes reservados que uma empresa coleta do cliente ou de interações ou transações com o público.
+    - Dados secundários: Geralmente são dados próprios de outra organização, como um parceiro.
+    - Dados de terceiros: São conjuntos de dados coletados e gerenciados por organizações que não interagem diretamente com os negócios nem com os clientes de uma organização.
 
 - Linha de dados
-    - Data Genesis: é a criação inicial de uma unidade de dados.
-    - Data Collection: traz essa unidade inicial de dados para a linha de montagem pela ingestão.
-    - Data Processing: é onde os dados brutos coletados são convertidos para uma forma que possibilita a extração de insights.
-    - Data Storage: é o local em que os dados podem ser encontrados e estão prontos para análise e ação.
-    - Data Analysis: oferece orientação para ações direcionadas aos negócios.
+    - Data Genesis: É a criação inicial de uma unidade de dados.
+    - Data Collection: Traz essa unidade inicial de dados para a linha de montagem pela ingestão.
+    - Data Processing: É onde os dados brutos coletados são convertidos para uma forma que possibilita a extração de insights.
+    - Data Storage: É o local em que os dados podem ser encontrados e estão prontos para análise e ação.
+    - Data Analysis: Oferece orientação para ações direcionadas aos negócios.
     - Data Activation: Quando uma análise é feita, ela precisa ser enviada para os procedimentos relevantes do negócio
 
-- Governaça de Dados: significa definir padrões internos, políticas de dados que se aplicam a forma como os dados são coletados, armazenados, processados e descartados.
-
-<br>
+- Governaça de Dados: Significa definir padrões internos, políticas de dados que se aplicam a forma como os dados são coletados, armazenados, processados e descartados.
 
 ### Questões
 
@@ -149,20 +147,17 @@
 
     :black_large_square: Um banco de dados XML
 
-<br>
-
 ## 2º Módulo - Soluções de gerenciamento de dados do Google Cloud
 
 - Tipo de recursos para armazenamento de dados
     
-    - Cloud Storage: que é um serviço que oferece armazenamento de objetos altamente disponível e durável a desenvolvedores e organizações de TI. (Dados não estruturados)
+    - Cloud Storage: É um serviço que oferece armazenamento de objetos altamente disponível e durável a desenvolvedores e organizações de TI. (Dados não estruturados)
         - Armazenamento de objetos: É uma arquitetura de computador de armazenamento de dados que gerencia os dados como objetos, em vez de armazenamento de arquivos. Esses objetos são armazenados em formato de pacote que contém o formato binário dos dados reais e metadados associados relevantes. Esses tipos de dados são conhecidos como não estruturados. 
-        
-        - Tipos de armazenamento do Cloud Storage:
-            - Standard Storage: Ela é considerada ideal para dados acessados frequentemente.
-            - Nearline Storage: Essa opção é melhor para armazenar dados acessados com pouca frequência, como leitura ou modificação de dados em média uma vez por mês ou menos.
-            - Coldline Storage: Ela também é uma opção de baixo custo para armazenamento de dados acessados com pouca frequência. destinada a leitura ou modificação de dados no máximo uma vez a cada 90 dias.
-            - Archive Storage: Essa é a opção de menor custo, ideal para arquivamento de dados, backup on-line e recuperação de desastres. opção ideal para dados que você planeja acessar menos de uma vez por ano
+            - Tipos de armazenamento do Cloud Storage:
+                - Standard Storage: Ela é considerada ideal para dados acessados frequentemente.
+                - Nearline Storage: Essa opção é melhor para armazenar dados acessados com pouca frequência, como leitura ou modificação de dados em média uma vez por mês ou menos.
+                - Coldline Storage: Ela também é uma opção de baixo custo para armazenamento de dados acessados com pouca frequência. destinada a leitura ou modificação de dados no máximo uma vez a cada 90 dias.
+                - Archive Storage: Essa é a opção de menor custo, ideal para arquivamento de dados, backup on-line e recuperação de desastres. opção ideal para dados que você planeja acessar menos de uma vez por ano
     
     - Cloud SQL (Dados estruturados) (Disponibilidade 99,95%)
         - MySQL -> PostgreSQL -> SQL Server
@@ -179,9 +174,7 @@
     
 - Lift and shift: É aqui que os bancos de dados são migrados de ambientes de nuvem no local e privados para o mesmo tipo de banco de dados hospedado por um provedor de nuvem pública, como o Google Cloud.
 
-- Migração de dados gerenciada: permite a migração de bancos de dados do SQL Server, MySQL, PostgreSQL e outros para um banco de dados Google Cloud totalmente gerenciado.
-
-<br>
+- Migração de dados gerenciada: Permite a migração de bancos de dados do SQL Server, MySQL, PostgreSQL e outros para um banco de dados Google Cloud totalmente gerenciado.
 
 ### Questões
 
@@ -303,19 +296,15 @@
 
     :black_large_square: Cloud Spanner
 
-<br>
-
 ## 3º Módulo - Como ter dados eficientes e acessíveis
 
-- Looker: é uma plataforma de Business Intelligence do Google Cloud projetada para ajudar pessoas e equipes a analisar, visualizar e compartilhar dados.
+- Looker: É uma plataforma de Business Intelligence do Google Cloud projetada para ajudar pessoas e equipes a analisar, visualizar e compartilhar dados.
 
 - Streaming Analytics: para analisar dados em tempo real e fornecer insights sobre uma ampla variedade de atividades, como medição, atividade do servidor, geolocalização de dispositivos ou cliques para acessar o site. Os casos de uso incluem e-commerce.
 
 - O Google Cloud oferece dois produtos principais de análise de streaming para ingerir, processar, e analisar streams de eventos em tempo real, o que deixa os dados mais úteis e acessíveis desde o momento em que são gerados.
-    - Pub/Sub: é um serviço de distribuição que pode receber mensagens de vários streams de dispositivos, como eventos de jogos, dispositivos IoT e aplicativos.
-    - Dataflow: cria um pipeline para processar dados tanto de streaming quanto em lote. Nesse caso, "processar" significa as etapas para extrair, transformar e carregar dados, às vezes chamadas de ETL. Uma solução conhecida para o design de pipelines é o Apache Beam.
-
-<br>
+    - Pub/Sub: É um serviço de distribuição que pode receber mensagens de vários streams de dispositivos, como eventos de jogos, dispositivos IoT e aplicativos.
+    - Dataflow: Cria um pipeline para processar dados tanto de streaming quanto em lote. Nesse caso, "processar" significa as etapas para extrair, transformar e carregar dados, às vezes chamadas de ETL. Uma solução conhecida para o design de pipelines é o Apache Beam.
 
 ### Questões
 

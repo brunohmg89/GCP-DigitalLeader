@@ -35,11 +35,9 @@
 - Cloud Run: Ferramenta para executar aplicativos conteinerizados. é uma plataforma sem servidor e totalmente gerenciada para implantar e executar aplicativos conteinerizados sem se preocupar com a infraestrutura.
 
 - Opções Serverless
-    - Cloud Function: que é a plataforma para hospedar funções de propósito único, que são anexadas a eventos emitidos pela infraestrutura e serviços de nuvem.
-    - Cloud Run: um ambiente totalmente gerenciado para executar aplicativos conteinerizados.
-    - App Engine: um serviço para compilar e implantar aplicativos da Web.
-
-<br>
+    - Cloud Function: É a plataforma para hospedar funções de propósito único, que são anexadas a eventos emitidos pela infraestrutura e serviços de nuvem.
+    - Cloud Run: É um ambiente totalmente gerenciado para executar aplicativos conteinerizados.
+    - App Engine: É um serviço para compilar e implantar aplicativos da Web.
 
 ### Questões
 
@@ -113,8 +111,6 @@
 
     :black_large_square: Flexibilidade
 
-<br>
-
 ## 2º módulo - Como modernizar aplicativos na nuvem
 
 - Beneficios de app na nuvem
@@ -122,15 +118,13 @@
     - Custo
     - Escalonabilidade
 
-- Google Cloud VMware Engine: Solução para re hospedar aplicativos legados. que migra cargas de trabalho VMware para a nuvem sem alterar aplicativos ou operações.
+- Google Cloud VMware Engine: Solução para re hospedar aplicativos legados. Ele migra cargas de trabalho VMware para a nuvem sem alterar aplicativos ou operações.
 
 - Bare Metal Solution: Outra solução para re hospedar aplicativos legados. Com essa solução de infraestrutura em nuvem totalmente gerenciada, as organizações executam cargas de trabalho Oracle em servidores Bare Metal dedicados na nuvem.
 
-- Apigee API Management: serviço de gerenciamento de APIs do Google Cloud para operar APIs com escalonamento, segurança e automação aprimorados.
+- Apigee API Management: Serviço de gerenciamento de APIs do Google Cloud para operar APIs com escalonamento, segurança e automação aprimorados.
 
 - GKE Enterprise: Nessa plataforma gerenciada e pronta para uso, é possível executar aplicativos do Kubernetes em vários ambientes de nuvem. É uma forma consistente de gerenciar clusters e aplicativos do Kubernetes e serviços executados em qualquer lugar. Solução para ambientes multicloud ou hibridos.
-
-<br>
 
 ### Questões
 

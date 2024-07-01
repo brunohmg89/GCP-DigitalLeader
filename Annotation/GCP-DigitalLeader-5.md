@@ -34,8 +34,6 @@
     - Sistemas vulneraveis de terceiros
     - Erros de configuração
 
-<br>
-
 ### Questões
 
 1. Em qual ameaça cibernética a vítima é obrigada a pagar um resgate para reaver o acesso aos arquivos e sistemas?
@@ -156,8 +154,6 @@
 
     :black_large_square: Configurar os aplicativos do cliente.
 
-<br>
-
 ## 2º módulo - Infraestrutura confiável do Google
 
 - Infra confiavel
@@ -167,35 +163,38 @@
     - PUE - Power usage effectiveness (eficiência no uso de energia)
 
 - KMS Cloud Key Management Service - Recurso de criptografia de dados
-    - o Google criptografa os dados em repouso automaticamente sem custo adicional.
+    - O Google criptografa os dados em repouso automaticamente sem custo adicional.
 
 - Principal recurso utilizado pela google de criptografia é o AES (Advanced Encryption Standard)
 
 - Google criptografa os dados em "repouso" em "transito" e em "uso"
 
-- Os 3 A: Autenticação, Autorização e Auditoria
+- Os 3 "A"
+    - Autenticação
+    - Autorização
+    - Auditoria
 
 - IAM (Identity and Access Management): Para ter controle granular sobre quem está autorizado a acessar os recursos do Google Cloud e quais ações são permitidas neles
 
-- Zero Trust: Recurso: BeyondCorp Entrerprise é possível implementar um modelo de segurança de confiança zero.
+- Zero Trust
+    - BeyondCorp Entrerprise: É possível implementar um modelo de segurança de confiança zero.
 
-- Segurança de rede: Recursos: Cloud VPN e Cloud Interconnect que permitem estabelecer conexões seguras entre suas redes locais e os recursos do Google Cloud.
+- Segurança de rede
+    - Cloud VPN e Cloud Interconnect que permitem estabelecer conexões seguras entre suas redes locais e os recursos do Google Cloud.
 
 - Proteção de perimetro com Firewall e Virtual Private Cloud 
 
-- Shared VPC que é como ter uma grande cerca separando cada projeto do Google Cloud para que eles possam funcionar independentemente e com segurança.
+- Shared VPC: É como ter uma grande cerca separando cada projeto do Google Cloud para que eles possam funcionar independentemente e com segurança.
 
-- Cloud Armor: firewall de aplicativos da Web. fornecendo uma proteção robusta contra DDoS.
+- Cloud Armor: Firewall de aplicativos da Web, fornecendo uma proteção robusta contra DDoS.
 
 - SecOps - Security Operation
-    - Vulnerability Management: é o processo de identificar e corrigir vulnerabilidades de segurança em aplicativos e infraestruturas na nuvem
-        - Security Command Center (SCC) oferece uma visão centralizada da sua postura de segurança.
-    Log Management
-        - Cloud Logging: um serviço para coletar e analisar registros de segurança de todo o seu ambiente do Google Cloud.
+    - Vulnerability Management: É o processo de identificar e corrigir vulnerabilidades de segurança em aplicativos e infraestruturas na nuvem.
+        - Security Command Center (SCC): Oferece uma visão centralizada da sua postura de segurança.
+    - Log Management
+        - Cloud Logging: Um serviço para coletar e analisar registros de segurança de todo o seu ambiente do Google Cloud.
     - Incidente Response
     - Educação dos usuários
-
-<br>
 
 ### Questões
 
@@ -293,28 +292,24 @@
 
     :black_large_square: Eficiência da infraestrutura do data center (DCiE)
 
-<br>
-
 ## 3º Módulo - Compliance e princípios de confiança do Google Cloud
 
 - Principios do google
-    - Primeiro: os dados são seus, e não do Google.
-    - Segundo: o Google não vende os dados dos clientes a terceiros.
-    - Terceiro: o Google Cloud não usa dados dos clientes em publicidade.
-    - Quarto: todos os dados dos clientes são criptografados por padrão.
-    - Quinto: oferecemos proteção contra o acesso interno aos seus dados.
-    - Sexto: nunca damos a entidades governamentais acesso "backdoor" aos seus dados.
+    - Primeiro: Os dados são seus, e não do Google.
+    - Segundo: O Google não vende os dados dos clientes a terceiros.
+    - Terceiro: O Google Cloud não usa dados dos clientes em publicidade.
+    - Quarto: Todos os dados dos clientes são criptografados por padrão.
+    - Quinto: Oferecemos proteção contra o acesso interno aos seus dados.
+    - Sexto: Nunca damos a entidades governamentais acesso "backdoor" aos seus dados.
     - Sétimo: Nossas práticas de privacidade são auditadas de acordo com padrões internacionais.
 
-- Data sovereignty (Soberania): refere-se ao conceito legal de que os dados estão sujeitos às leis e regulamentações do país onde eles residem.
+- Data Sovereignty (Soberania): Refere-se ao conceito legal de que os dados estão sujeitos às leis e regulamentações do país onde eles residem.
 
-- Data residency: se refere ao local físico onde os dados são armazenados ou tratados.
+- Data Residency: Se refere ao local físico onde os dados são armazenados ou tratados.
 
 - Compliance Resource Center: Esse hub abrangente fornece informações detalhadas sobre as certificações e padrões de conformidade que atendemos.
 
-- Compliance Reports Manager: uma ferramenta potente à sua disposição. Essa plataforma intuitiva oferece acesso fácil e sob demanda a recursos críticos de conformidade, sem custo financeiro adicional.
-
-<br>
+- Compliance Reports Manager: Uma ferramenta potente à sua disposição. Essa plataforma intuitiva oferece acesso fácil e sob demanda a recursos críticos de conformidade, sem custo financeiro adicional.
 
 ### Questões
 
