@@ -16,7 +16,8 @@
     :black_large_square: D. Cloud Bigtable ML
 
     > BigQuery ML lets you create and execute machine learning models in BigQuery using standard SQL queries.<br>
-    _O BigQuery ML permite criar e executar modelos de machine learning no BigQuery usando consultas SQL padrão._
+    
+    > _O BigQuery ML permite criar e executar modelos de machine learning no BigQuery usando consultas SQL padrão._
 
 ---
 
@@ -180,7 +181,8 @@
     :black_large_square: Update the application code to regularly write to output logs. Export the logs to BigQuery to analyze them frequently.
 
     > Operations Suite is well integrated into Google and it s the recommended option.<br>
-    _O Operations Suite está bem integrado ao Google e é a opção recomendada._
+    
+    > _O Operations Suite está bem integrado ao Google e é a opção recomendada._
 
 ---
 
@@ -196,7 +198,8 @@
     :white_check_mark: Cloud SQL
     
     > Cloud SQL supports SQL Server, Since the IT team's attention is being focused on other activities, they will have less time for existing admin tasks, It would be best to take a managed/hosted version.<br>
-    _O Cloud SQL oferece suporte ao SQL Server. Como a atenção da equipe de TI está focada em outras atividades, eles terão menos tempo para as tarefas administrativas existentes. Seria melhor escolher uma versão gerenciada/hospedada._
+    
+    > _O Cloud SQL oferece suporte ao SQL Server. Como a atenção da equipe de TI está focada em outras atividades, eles terão menos tempo para as tarefas administrativas existentes. Seria melhor escolher uma versão gerenciada/hospedada._
 
 ---
 
@@ -212,7 +215,8 @@
     :black_large_square: The flat structure is what is currently used in IT organizations, and this can be used as-is which will provide the best results. 
     
     > Folders for a related group of projects are the recommended approach. A flat structure under the organization node is possible on Google Cloud, but it is not recommended. It becomes tougher to manage. Projects cannot have sub-projects, there can only be resources within Projects.<br>
-    _Pastas para um grupo relacionado de projetos são a abordagem recomendada. Uma estrutura plana no nó da organização é possível no Google Cloud, mas não é recomendada. Torna-se mais difícil de gerenciar. Projetos não podem ter subprojetos, só podem existir recursos dentro de Projetos._
+    
+    > _Pastas para um grupo relacionado de projetos são a abordagem recomendada. Uma estrutura plana no nó da organização é possível no Google Cloud, mas não é recomendada. Torna-se mais difícil de gerenciar. Projetos não podem ter subprojetos, só podem existir recursos dentro de Projetos._
 
 ---
 
@@ -228,7 +232,8 @@
     :white_check_mark: Service Level Agreement
     
     > A service level agreement (SLA) is a contract between a service provider (either internal or external) and the end user that defines the level of service expected from the service provider. Some common SLA’s are uptime, Response Time, etc.<br>
-    _Um acordo de nível de serviço (SLA) é um contrato entre um provedor de serviços (interno ou externo) e o usuário final que define o nível de serviço esperado do provedor de serviços. Alguns SLAs comuns são tempo de atividade, tempo de resposta, etc._
+    
+    > _Um acordo de nível de serviço (SLA) é um contrato entre um provedor de serviços (interno ou externo) e o usuário final que define o nível de serviço esperado do provedor de serviços. Alguns SLAs comuns são tempo de atividade, tempo de resposta, etc._
 
 ---
 
@@ -244,7 +249,8 @@
     :black_large_square: None of the Above.
     
     > Machine learning examples include chatbots and automated virtual assistants to automate routine customer service tasks and speed up issue resolution.<br>
-    _Exemplos de aprendizado de máquina incluem chatbots e assistentes virtuais automatizados para automatizar tarefas rotineiras de atendimento ao cliente e acelerar a resolução de problemas._
+    
+    > _Exemplos de aprendizado de máquina incluem chatbots e assistentes virtuais automatizados para automatizar tarefas rotineiras de atendimento ao cliente e acelerar a resolução de problemas._
 
 ---
 
@@ -261,6 +267,7 @@
 
     > - NoSQL databases are best suited for this use case. Firestore is an appropriate one to use here.<br>
     >   - Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps at global scale.<br>
+    
     > - _Os bancos de dados NoSQL são mais adequados para este caso de uso. Firestore é apropriado para usar aqui._
     >   - _Cloud Firestore é um banco de dados de documentos NoSQL que permite armazenar, sincronizar e consultar facilmente dados para seus aplicativos móveis e da web em escala global._
 
@@ -278,7 +285,8 @@
     :black_large_square: Involve fewer people in cloud resource planning than your organization did for onpremises resource planning.
 
     > Review cloud resource costs frequently, because costs change often based on use because one need to know current usage/trend for planning, While public cloud eliminates capex, and gets into pay as you go model, the usage pattern determines the cloud cost and hence needs to be measured frequently to enable better forecast.<br>
-    _Revise os custos dos recursos da nuvem com frequência, porque os custos mudam frequentemente com base no uso, porque é necessário conhecer o uso/tendência atual para o planejamento. Embora a nuvem pública elimine o investimento e entre no modelo de pagamento conforme o uso, o padrão de uso determina o custo da nuvem e, portanto, as necessidades ser medido frequentemente para permitir uma melhor previsão._
+    
+    > _Revise os custos dos recursos da nuvem com frequência, porque os custos mudam frequentemente com base no uso, porque é necessário conhecer o uso/tendência atual para o planejamento. Embora a nuvem pública elimine o investimento e entre no modelo de pagamento conforme o uso, o padrão de uso determina o custo da nuvem e, portanto, as necessidades ser medido frequentemente para permitir uma melhor previsão._
 
 ---
 
@@ -307,6 +315,7 @@
     >   - Automated and on-demand backups and point-in-time recovery.<br>
     >   - Instance cloning.<br>
     >   - Integration with Google Cloud's operations suite logging and monitoring.<br>
+    
     > - Cloud SQL for MySQL - Features
     >   - _Bancos de dados MySQL Community Edition totalmente gerenciados na nuvem._
     >   - _As instâncias do Cloud SQL são compatíveis com MySQL 8.0, 5.7 (padrão) e 5.6 e fornecem até 624 GB de RAM e 64 TB de armazenamento de dados, com a opção de aumentar automaticamente o tamanho do armazenamento, conforme necessário._
@@ -340,6 +349,7 @@
     >   - Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.<br>
     >   - Google BigQuery is a cloud-based Architecture and provides exceptional performance as it can auto-scale up and down based on the data load and performs data analysis efficiently. On the other hand, SQL Server is based on client-server architecture and has fixed performance throughout unless the user scales it manually.<br>
     > - Spanner, Cloud SQL, BigQuery
+    
     >   - _O Cloud Spanner é um serviço de banco de dados relacional de missão crítica totalmente gerenciado que oferece consistência transacional em escala global, replicação automática e síncrona para alta disponibilidade e suporte para dois SQL, SQL padrão do Google e PostgreSQL._
     >   - _O Cloud SQL é um serviço de banco de dados totalmente gerenciado que ajuda você a configurar, manter, gerenciar e administrar bancos de dados relacionais no Google Cloud Platform._
     >   - _O Google BigQuery é uma arquitetura baseada em nuvem e oferece desempenho excepcional, pois pode aumentar e diminuir automaticamente com base na carga de dados e realizar análises de dados com eficiência. Por outro lado, o SQL Server é baseado na arquitetura cliente-servidor e tem desempenho fixo, a menos que o usuário o dimensione manualmente._
@@ -358,7 +368,8 @@
     :black_large_square: You can not use the same CMEK key in multiple projects.
     
     > Customer managed encryption keys for Cloud BigTable. By default, all the data at rest in Cloud Bigtable is encrypted using Google's default encryption. Bigtable handles and manages this encryption for you without any additional action on your part. If you have specific compliance or regulatory requirements related to the keys that protect your data, you can use customer managed encryption keys (CMEK) for BigTable. Instead of Google managing the encryption keys that protect your data, your BigTable instance is protected using a key that you control and manage in Cloud Key Management Service (Cloud KMS). Features Security: CMEK provides the same level of security as Google's default encryption but provides more administrative control. Data access control: Administrators can rotate, manage access to, and disable or destroy the key used to protect data at rest in BigTable. Auditability: All actions on your CMEK keys are logged and viewable in Cloud Logging. Comparable performance: BigTable CMEK protected instances offer comparable performance to BigTable instances that use Google default encryption. Flexibility: You can use the same CMEK key in multiple projects or instances or you can use separate keys, depending on your business needs.<br>
-    _Chaves de criptografia gerenciadas pelo cliente para Cloud BigTable. Por padrão, todos os dados em repouso no Cloud Bigtable são criptografados usando a criptografia padrão do Google. O Bigtable cuida e gerencia essa criptografia para você, sem qualquer ação adicional de sua parte. Se você tiver requisitos regulamentares ou de conformidade específicos relacionados às chaves que protegem seus dados, poderá usar chaves de criptografia gerenciadas pelo cliente (CMEK) para o BigTable. Em vez de o Google gerenciar as chaves de criptografia que protegem seus dados, sua instância do BigTable é protegida por meio de uma chave que você controla e gerencia no Cloud Key Management Service (Cloud KMS). Recursos Segurança: CMEK oferece o mesmo nível de segurança que a criptografia padrão do Google, mas oferece mais controle administrativo. Controle de acesso a dados: os administradores podem alternar, gerenciar o acesso e desabilitar ou destruir a chave usada para proteger os dados em repouso no BigTable. Auditabilidade: todas as ações nas suas chaves CMEK são registradas e visíveis no Cloud Logging. Desempenho comparável: as instâncias protegidas do BigTable CMEK oferecem desempenho comparável às instâncias do BigTable que usam a criptografia padrão do Google. Flexibilidade: você pode usar a mesma chave CMEK em vários projetos ou instâncias ou pode usar chaves separadas, dependendo das necessidades do seu negócio._
+    
+    > _Chaves de criptografia gerenciadas pelo cliente para Cloud BigTable. Por padrão, todos os dados em repouso no Cloud Bigtable são criptografados usando a criptografia padrão do Google. O Bigtable cuida e gerencia essa criptografia para você, sem qualquer ação adicional de sua parte. Se você tiver requisitos regulamentares ou de conformidade específicos relacionados às chaves que protegem seus dados, poderá usar chaves de criptografia gerenciadas pelo cliente (CMEK) para o BigTable. Em vez de o Google gerenciar as chaves de criptografia que protegem seus dados, sua instância do BigTable é protegida por meio de uma chave que você controla e gerencia no Cloud Key Management Service (Cloud KMS). Recursos Segurança: CMEK oferece o mesmo nível de segurança que a criptografia padrão do Google, mas oferece mais controle administrativo. Controle de acesso a dados: os administradores podem alternar, gerenciar o acesso e desabilitar ou destruir a chave usada para proteger os dados em repouso no BigTable. Auditabilidade: todas as ações nas suas chaves CMEK são registradas e visíveis no Cloud Logging. Desempenho comparável: as instâncias protegidas do BigTable CMEK oferecem desempenho comparável às instâncias do BigTable que usam a criptografia padrão do Google. Flexibilidade: você pode usar a mesma chave CMEK em vários projetos ou instâncias ou pode usar chaves separadas, dependendo das necessidades do seu negócio._
 
 ---
 
@@ -374,4 +385,5 @@
     :black_large_square: Forseti Security
     
     > Web Security Scanner identifies security vulnerabilities in your App Engine, Google Kubernetes Engine (GKE), and Compute Engine web applications. It crawls your application, following all links within the scope of your starting URLs, and attempts to exercise as many user inputs and event handlers as possible. Currently, Web Security Scanner only supports public URLs and IPs that aren’t behind a firewall. Web Security Scanner currently supports the App Engine standard environment and App Engine flexible environments, Compute Engine instances, and GKE resources.<br>
-    _O Web Security Scanner identifica vulnerabilidades de segurança nos aplicativos da Web do App Engine, do Google Kubernetes Engine (GKE) e do Compute Engine. Ele rastreia seu aplicativo, seguindo todos os links dentro do escopo de seus URLs iniciais, e tenta exercitar o máximo possível de entradas de usuário e manipuladores de eventos. Atualmente, o Web Security Scanner oferece suporte apenas a URLs e IPs públicos que não estão protegidos por firewall. Atualmente, o Web Security Scanner oferece suporte ao ambiente padrão do App Engine e aos ambientes flexíveis do App Engine, às instâncias do Compute Engine e aos recursos do GKE._
+    
+    > _O Web Security Scanner identifica vulnerabilidades de segurança nos aplicativos da Web do App Engine, do Google Kubernetes Engine (GKE) e do Compute Engine. Ele rastreia seu aplicativo, seguindo todos os links dentro do escopo de seus URLs iniciais, e tenta exercitar o máximo possível de entradas de usuário e manipuladores de eventos. Atualmente, o Web Security Scanner oferece suporte apenas a URLs e IPs públicos que não estão protegidos por firewall. Atualmente, o Web Security Scanner oferece suporte ao ambiente padrão do App Engine e aos ambientes flexíveis do App Engine, às instâncias do Compute Engine e aos recursos do GKE._
