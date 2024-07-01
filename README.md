@@ -5,7 +5,5 @@ Estudos para certificação GCP Digital Leader
 - Trilha concluída.
 - Workshop concluído.
 - Estudos concluídos.
-- Prova marcada.
-
-## Status
+- Prova agendada.
 - Certificado :tada: :tada: :tada:
