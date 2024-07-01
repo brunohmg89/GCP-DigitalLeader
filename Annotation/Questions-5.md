@@ -21,7 +21,8 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     _O Migrate for Anthos migra para contêineres e o Migrate for Compute Engine migra para máquinas virtuais._
 
     > Use Migrate to Containers to modernize traditional applications away from virtual machine (VM) instances and into native containers that run on Google Kubernetes Engine (GKE) or Cloud Run platform.<br>
-    _Use o Migrate to Containers para modernizar aplicativos tradicionais de instâncias de máquinas virtuais (VM) e para contêineres nativos executados no Google Kubernetes Engine (GKE) ou na plataforma Cloud Run.
+    
+    > _Use o Migrate to Containers para modernizar aplicativos tradicionais de instâncias de máquinas virtuais (VM) e para contêineres nativos executados no Google Kubernetes Engine (GKE) ou na plataforma Cloud Run.
 
 ---
 
@@ -37,7 +38,8 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :black_large_square: Use the Identity Platform REST API to create users
 
     > You can run a single instance of Google Cloud Directory Sync to synchronize user accounts and groups to Google Cloud.<br>
-    _Você pode executar uma única instância do Google Cloud Directory Sync para sincronizar contas de usuários e grupos com o Google Cloud._
+    
+    > _Você pode executar uma única instância do Google Cloud Directory Sync para sincronizar contas de usuários e grupos com o Google Cloud._
 
 ---
 
@@ -83,7 +85,8 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :black_large_square: TensorFlow
 
     > Take advantage of Google's expertise in recommendations, powered by state-of-the-art machine learning models. Provide effective and real-time personalization with the recommendations capability (formerly Recommendations AI) of Vertex AI Search. Earn your customers’ trust and loyalty by proving how well you understand them. Google delivers content to billions across consumer facing platforms including Google Ads, Google Search, and YouTube.<br>
-    _Aproveite a experiência do Google em recomendações, com base em modelos de aprendizado de máquina de última geração. Forneça personalização eficaz e em tempo real com o recurso de recomendações (anteriormente Recommendations AI) do Vertex AI Search. Conquiste a confiança e a lealdade de seus clientes, provando o quão bem você os entende. O Google fornece conteúdo para bilhões de pessoas em plataformas voltadas para o consumidor, incluindo Google Ads, Pesquisa Google e YouTube._
+    
+    > _Aproveite a experiência do Google em recomendações, com base em modelos de aprendizado de máquina de última geração. Forneça personalização eficaz e em tempo real com o recurso de recomendações (anteriormente Recommendations AI) do Vertex AI Search. Conquiste a confiança e a lealdade de seus clientes, provando o quão bem você os entende. O Google fornece conteúdo para bilhões de pessoas em plataformas voltadas para o consumidor, incluindo Google Ads, Pesquisa Google e YouTube._
 
 ---
 
@@ -215,7 +218,8 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :black_large_square: Any of the above
 
     > Option A is incorrect because the Public Cloud deployment model generally offers services to multiple customers unless opted explicitly for. Public Cloud is also not a correct choice because Public Cloud will not be hosted internally.<br>
-    _A opção A está incorreta porque o modelo de implantação de nuvem pública geralmente oferece serviços a vários clientes, a menos que opte explicitamente por isso. A Nuvem Pública também não é uma escolha correta porque a Nuvem Pública não será hospedada internamente._
+    
+    > _A opção A está incorreta porque o modelo de implantação de nuvem pública geralmente oferece serviços a vários clientes, a menos que opte explicitamente por isso. A Nuvem Pública também não é uma escolha correta porque a Nuvem Pública não será hospedada internamente._
 
     > Option B is correct because the Private Cloud deployment model caters to the below requirements:<br>
     > - Solely operated for one customer
@@ -226,10 +230,12 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     > - _Hospedado internamente para o cliente_
     
     > Option C is incorrect as this option comprises the combination of both the Private and Public Cloud.<br>
-    _A opção C está incorreta, pois esta opção compreende a combinação da Nuvem Privada e Pública._
+    
+    > _A opção C está incorreta, pois esta opção compreende a combinação da Nuvem Privada e Pública._
 
     > Option D is incorrect as Public Cloud and Hybrid one are not a suitable choice.<br>
-    _A opção D está incorreta, pois a nuvem pública e a híbrida não são uma escolha adequada._
+    
+    > _A opção D está incorreta, pois a nuvem pública e a híbrida não são uma escolha adequada._
 
 ---
 
@@ -245,16 +251,20 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :black_large_square: Highlight this as an “Automation” section.
 
     > Option A is correct. As this part of the solution details how the application and data will be available in case of unavailability of a particular data center, we will need to highlight this as a Business Continuity Plan.<br>
-    _A opção A está correta. Como esta parte da solução detalha como a aplicação e os dados estarão disponíveis em caso de indisponibilidade de um determinado data center, precisaremos destacá-lo como um Plano de Continuidade de Negócios._
+    
+    > _A opção A está correta. Como esta parte da solução detalha como a aplicação e os dados estarão disponíveis em caso de indisponibilidade de um determinado data center, precisaremos destacá-lo como um Plano de Continuidade de Negócios._
 
     > Option B is incorrect. Proactive monitoring is the continuous monitoring of various alerts and monitoring application behavior to identify any potential problem. In the given scenario, the solution discusses ensuring business continuity in case of a particular data center unavailability.<br>
-    _A opção B está incorreta. O monitoramento proativo é o monitoramento contínuo de vários alertas e o monitoramento do comportamento do aplicativo para identificar qualquer problema potencial. No cenário determinado, a solução discute a garantia da continuidade dos negócios no caso de indisponibilidade de um determinado data center._
+    
+    > _A opção B está incorreta. O monitoramento proativo é o monitoramento contínuo de vários alertas e o monitoramento do comportamento do aplicativo para identificar qualquer problema potencial. No cenário determinado, a solução discute a garantia da continuidade dos negócios no caso de indisponibilidade de um determinado data center._
 
     > Option C is incorrect. The Continuous Improvement Plan details efforts to improve ongoing services that are being provided.<br>
-    _A opção C está incorreta. O Plano de Melhoria Contínua detalha os esforços para melhorar os serviços contínuos que estão sendo prestados._
+    
+    > _A opção C está incorreta. O Plano de Melhoria Contínua detalha os esforços para melhorar os serviços contínuos que estão sendo prestados._
 
     > Option D is incorrect. Automation plan details the plans of automation to be implemented and not on Business continuity.<br>
-    _A opção D está incorreta. O plano de automação detalha os planos de automação a serem implementados e não de continuidade do negócio._
+    
+    > _A opção D está incorreta. O plano de automação detalha os planos de automação a serem implementados e não de continuidade do negócio._
 
 ---
 
@@ -270,16 +280,20 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :black_large_square: Persistent Disk
 
     > Option A is incorrect. Google Workspace is a SaaS offering.<br>
-    _A opção A está incorreta. O Google Workspace é uma oferta SaaS._
+    
+    > _A opção A está incorreta. O Google Workspace é uma oferta SaaS._
 
     > Option B is correct. Google App Engine is a PaaS offering.<br>
-    _A opção B está correta. O Google App Engine é uma oferta PaaS._
+    
+    > _A opção B está correta. O Google App Engine é uma oferta PaaS._
 
     > Option C is incorrect. Google Compute Engine is an IaaS offering.<br>
-    _A opção C está incorreta. O Google Compute Engine é uma oferta IaaS._
+    
+    > _A opção C está incorreta. O Google Compute Engine é uma oferta IaaS._
 
     > Option D is incorrect. Persistent Disk is an IaaS offering.<br>
-    _A opção D está incorreta. O disco permanente é uma oferta de IaaS._
+    
+    > _A opção D está incorreta. O disco permanente é uma oferta de IaaS._
 
 ---
 
@@ -295,16 +309,20 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :black_large_square: FSaaS (FileSystem as a Service)
 
     > Option A is correct. The IaaS model requires customers to own the patching of the servers.<br>
-    _A opção A está correta. O modelo IaaS exige que os clientes sejam proprietários dos patches dos servidores._
+    
+    > _A opção A está correta. O modelo IaaS exige que os clientes sejam proprietários dos patches dos servidores._
 
     > Option B is incorrect. Cloud provider is responsible for patching the Operating System for their PaaS offerings.<br>
-    _A opção B está incorreta. O provedor de nuvem é responsável por corrigir o sistema operacional para suas ofertas de PaaS._
+    
+    > _A opção B está incorreta. O provedor de nuvem é responsável por corrigir o sistema operacional para suas ofertas de PaaS._
 
     > Option C is incorrect. Cloud provider is responsible for patching the Operating System for their SaaS offerings.<br>
-    _A opção C está incorreta. O provedor de nuvem é responsável por corrigir o sistema operacional de suas ofertas de SaaS._
+    
+    > _A opção C está incorreta. O provedor de nuvem é responsável por corrigir o sistema operacional de suas ofertas de SaaS._
 
     > Option D is incorrect. FSaaS is not a valid Cloud Computing model.<br>
-    _A opção D está incorreta. FSaaS não é um modelo válido de computação em nuvem._
+    
+    > _A opção D está incorreta. FSaaS não é um modelo válido de computação em nuvem._
 
 ---
 
@@ -321,16 +339,20 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
 
 
     > Option A is incorrect. Machine learning product offerings from Cloud providers enable organizations to build, deploy and scale the AI models.<br>
-    _A opção A está incorreta. As ofertas de produtos de aprendizado de máquina de provedores de nuvem permitem que as organizações construam, implantem e dimensionem os modelos de IA._
+    
+    > _A opção A está incorreta. As ofertas de produtos de aprendizado de máquina de provedores de nuvem permitem que as organizações construam, implantem e dimensionem os modelos de IA._
 
     > Option B is correct. IoT offerings from Cloud providers help in data collection from the field, like collecting data from sensors including self-driving vehicles, farmlands, satellites etc.<br>
-    _A opção B está correta. As ofertas de IoT de provedores de nuvem ajudam na coleta de dados em campo, como coleta de dados de sensores, incluindo veículos autônomos, fazendas, satélites, etc._
+    
+    > _A opção B está correta. As ofertas de IoT de provedores de nuvem ajudam na coleta de dados em campo, como coleta de dados de sensores, incluindo veículos autônomos, fazendas, satélites, etc._
 
     > Option C is incorrect. Data Analytics offerings from Cloud providers help unlock big data potential by improving data analysis capabilities and eventually improving businesses’ decision-making.<br>
-    _A opção C está incorreta. As ofertas de análise de dados dos provedores de nuvem ajudam a desbloquear o potencial do big data, melhorando os recursos de análise de dados e, eventualmente, melhorando a tomada de decisões das empresas._
+    
+    > _A opção C está incorreta. As ofertas de análise de dados dos provedores de nuvem ajudam a desbloquear o potencial do big data, melhorando os recursos de análise de dados e, eventualmente, melhorando a tomada de decisões das empresas._
 
     > Option D is incorrect. Storage product offerings from Cloud providers help facilitate storing of the data of various data types.<br>
-    _A opção D está incorreta. As ofertas de produtos de armazenamento de provedores de nuvem ajudam a facilitar o armazenamento de vários tipos de dados._
+    
+    > _A opção D está incorreta. As ofertas de produtos de armazenamento de provedores de nuvem ajudam a facilitar o armazenamento de vários tipos de dados._
 
 ---
 
@@ -346,16 +368,20 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :white_check_mark: Persistent Disk
 
     > Option A is Incorrect. Preemptible VMs are compute instances that are short-lived and are appropriate to be used for batch jobs.<br>
-    _A opção A está incorreta. VMs preemptivas são instâncias de computação de curta duração e apropriadas para uso em trabalhos em lote._
+    
+    > _A opção A está incorreta. VMs preemptivas são instâncias de computação de curta duração e apropriadas para uso em trabalhos em lote._
 
     > Option B is Incorrect. Cloud storage for Firebase stores and serves content that is user generated on block storage.<br>
-    _A opção B está incorreta. O armazenamento em nuvem para Firebase armazena e veicula conteúdo gerado pelo usuário no armazenamento em bloco._
+    
+    > _A opção B está incorreta. O armazenamento em nuvem para Firebase armazena e veicula conteúdo gerado pelo usuário no armazenamento em bloco._
 
     > Option C is Incorrect. Local SSD also offers high performance block storage but is attached locally.<br>
-    _A opção C está incorreta. O SSD local também oferece armazenamento em bloco de alto desempenho, mas é conectado localmente._
+    
+    > _A opção C está incorreta. O SSD local também oferece armazenamento em bloco de alto desempenho, mas é conectado localmente._
 
     > Option D is Correct. Persistent disk from Google Cloud offers block storage that is reliable and high performance for Virtual Machines.<br>
-    _A opção D está correta. O disco permanente do Google Cloud oferece armazenamento em blocos confiável e de alto desempenho para máquinas virtuais._
+    
+    > _A opção D está correta. O disco permanente do Google Cloud oferece armazenamento em blocos confiável e de alto desempenho para máquinas virtuais._
 
 ---
 
@@ -371,13 +397,17 @@ Reference (2): <https://www.itexams.com/exam/Cloud-Digital-Leader>
     :black_large_square: Budgets
 
     > Option A is Incorrect. Billing access control helps to enforce organizational policies at various levels in the resource hierarchy.<br>
-    _A opção A está incorreta. O controle de acesso à cobrança ajuda a impor políticas organizacionais em vários níveis da hierarquia de recursos._
+    
+    > _A opção A está incorreta. O controle de acesso à cobrança ajuda a impor políticas organizacionais em vários níveis da hierarquia de recursos._
 
     > Option B is Incorrect. Quotas help to control the spending and unforeseen usage spikes proactively.<br>
-    _A opção B está incorreta. As cotas ajudam a controlar proativamente os gastos e picos de uso imprevistos._
+    
+    > _A opção B está incorreta. As cotas ajudam a controlar proativamente os gastos e picos de uso imprevistos._
 
     > Option C is Correct. Resource hierarchy should be implemented for fine-grained management and cost allocation using organizations in Google cloud.<br>
-    _A opção C está correta. A hierarquia de recursos deve ser implementada para gerenciamento refinado e alocação de custos usando organizações na nuvem do Google._
+    
+    > _A opção C está correta. A hierarquia de recursos deve ser implementada para gerenciamento refinado e alocação de custos usando organizações na nuvem do Google._
 
     > Option D is Incorrect. Budgets are most useful in performing the monitoring of the costs being incurred on google cloud.<br>
-    _A opção D está incorreta. Os orçamentos são mais úteis para realizar o monitoramento dos custos incorridos no Google Cloud._
+    
+    > _A opção D está incorreta. Os orçamentos são mais úteis para realizar o monitoramento dos custos incorridos no Google Cloud._

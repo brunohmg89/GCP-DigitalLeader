@@ -260,7 +260,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Contact Technical Support.
 
     > After you create a commitment, you can't cancel it. You must pay the agreed upon monthly amount for the duration of the commitment. Commitments are not affected by future pricing changes to the standard prices for Compute Engine resources. If you accidentally purchased a commitment or made a mistake configuring your commitment, contact Google Cloud Billing Support for help.<br>
-    _Depois de criar um compromisso, você não poderá cancelá-lo. Você deve pagar o valor mensal acordado durante a vigência do compromisso. Os compromissos não são afetados por alterações futuras nos preços padrão dos recursos do Compute Engine. Se você comprou um compromisso acidentalmente ou cometeu um erro ao configurá-lo, entre em contato com o suporte do Google Cloud Billing para receber ajuda._
+    
+    > _Depois de criar um compromisso, você não poderá cancelá-lo. Você deve pagar o valor mensal acordado durante a vigência do compromisso. Os compromissos não são afetados por alterações futuras nos preços padrão dos recursos do Compute Engine. Se você comprou um compromisso acidentalmente ou cometeu um erro ao configurá-lo, entre em contato com o suporte do Google Cloud Billing para receber ajuda._
 
 ---
 
@@ -276,7 +277,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: The Compute Engine instance
 
     > When a principal (a user, group, or service account) calls a Google Cloud API, that principal must have the appropriate IAM permissions to use the resource. To give a principal the required permissions, you grant an IAM role to the principal.<br>
-    _Quando um principal (um usuário, grupo ou conta de serviço) chama uma API do Google Cloud, esse principal precisa ter as permissões apropriadas do IAM para usar o recurso. Para conceder a um principal as permissões necessárias, você concede uma função do IAM ao principal._
+    
+    > _Quando um principal (um usuário, grupo ou conta de serviço) chama uma API do Google Cloud, esse principal precisa ter as permissões apropriadas do IAM para usar o recurso. Para conceder a um principal as permissões necessárias, você concede uma função do IAM ao principal._
 
 ---
 
@@ -296,7 +298,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     _Visualize o Compliance Reports Manager para identificar e baixar uma auditoria SOC 1 recente_
 
     > Security Health Analytics and Web Security Scanner detectors generate vulnerabilities findings that are available in Security Command Center. Your ability to view and edit findings is determined by the Identity and Access Management (IAM) roles and permissions you are assigned. For more information about IAM roles in Security Command Center.<br>
-    _Os detectores Security Health Analytics e Web Security Scanner geram descobertas de vulnerabilidades que estão disponíveis no Security Command Center. Sua capacidade de visualizar e editar descobertas é determinada pelas funções e permissões do Identity and Access Management (IAM) atribuídas a você. Para obter mais informações sobre funções do IAM no Security Command Center._
+    
+    > _Os detectores Security Health Analytics e Web Security Scanner geram descobertas de vulnerabilidades que estão disponíveis no Security Command Center. Sua capacidade de visualizar e editar descobertas é determinada pelas funções e permissões do Identity and Access Management (IAM) atribuídas a você. Para obter mais informações sobre funções do IAM no Security Command Center._
 
 ---
 
@@ -316,7 +319,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     _Migre as cargas de trabalho para o Compute Engine com um modelo de pagamento conforme o uso (PAYG)._
 
     > Opting for the BYOL (Bring Your Own License) model when migrating workloads to Compute Engine, as indicated in option C, is a sound decision primarily because it allows the utilization of already owned licenses. This approach avoids the typically higher costs associated with PAYG (Pay-As-You-Go) models, which include continuous licensing fees embedded in usage costs. Furthermore, by choosing BYOL, you capitalize on the licenses already acquired, potentially reducing overall expenses significantly, especially since the system needs to operate only during business hours, not around the clock. This strategy aligns perfectly with optimizing license costs while moving to a cloud environment.<br>
-    _Optar pelo modelo BYOL (Traga sua própria licença) ao migrar cargas de trabalho para o Compute Engine, conforme indicado na opção C, é uma decisão acertada principalmente porque permite a utilização de licenças já possuídas. Esta abordagem evita os custos normalmente mais elevados associados aos modelos PAYG (Pay-As-You-Go), que incluem taxas de licenciamento contínuas incorporadas nos custos de utilização. Além disso, ao escolher o BYOL, você capitaliza as licenças já adquiridas, potencialmente reduzindo significativamente as despesas gerais, especialmente porque o sistema precisa operar apenas durante o horário comercial, e não 24 horas por dia. Essa estratégia se alinha perfeitamente com a otimização dos custos de licença durante a migração para um ambiente de nuvem._
+    
+    > _Optar pelo modelo BYOL (Traga sua própria licença) ao migrar cargas de trabalho para o Compute Engine, conforme indicado na opção C, é uma decisão acertada principalmente porque permite a utilização de licenças já possuídas. Esta abordagem evita os custos normalmente mais elevados associados aos modelos PAYG (Pay-As-You-Go), que incluem taxas de licenciamento contínuas incorporadas nos custos de utilização. Além disso, ao escolher o BYOL, você capitaliza as licenças já adquiridas, potencialmente reduzindo significativamente as despesas gerais, especialmente porque o sistema precisa operar apenas durante o horário comercial, e não 24 horas por dia. Essa estratégia se alinha perfeitamente com a otimização dos custos de licença durante a migração para um ambiente de nuvem._
 
 ---
 
@@ -332,7 +336,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Host the data on-premises, and set up a Cloud Interconnect connection to allow access to the data.
 
     > Whenever a user accesses a Cloud Storage resource such as a bucket or object, there are charges associated with making and executing the request. Normally, the project owner of the resource is billed for these charges; however, if the requester provides a billing project with their request, the requester's project is billed instead. With Requester Pays enabled on your bucket, you can require requesters to include a billing project in their requests, thus billing the requester's project. Enabling Requester Pays is useful, for example, if you have a lot of data you want to make available to users, but you don't want to be charged for their access to that data.<br>
-    _Sempre que um usuário acessa um recurso do Cloud Storage, como um bucket ou objeto, há cobranças associadas à criação e execução da solicitação. Normalmente, o proprietário do projeto do recurso é cobrado por esses encargos; entretanto, se o solicitante fornecer um projeto de faturamento com sua solicitação, o projeto do solicitante será cobrado. Com o pagamento do solicitante habilitado em seu bucket, você pode exigir que os solicitantes incluam um projeto de faturamento em suas solicitações, cobrando assim o projeto do solicitante. Ativar o pagamento do solicitante é útil, por exemplo, se você tiver muitos dados que deseja disponibilizar aos usuários, mas não quiser ser cobrado pelo acesso a esses dados._
+    
+    > _Sempre que um usuário acessa um recurso do Cloud Storage, como um bucket ou objeto, há cobranças associadas à criação e execução da solicitação. Normalmente, o proprietário do projeto do recurso é cobrado por esses encargos; entretanto, se o solicitante fornecer um projeto de faturamento com sua solicitação, o projeto do solicitante será cobrado. Com o pagamento do solicitante habilitado em seu bucket, você pode exigir que os solicitantes incluam um projeto de faturamento em suas solicitações, cobrando assim o projeto do solicitante. Ativar o pagamento do solicitante é útil, por exemplo, se você tiver muitos dados que deseja disponibilizar aos usuários, mas não quiser ser cobrado pelo acesso a esses dados._
 
 ---
 

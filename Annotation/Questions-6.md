@@ -16,16 +16,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Contact Your Google Account Manager
 
     > Option A is incorrect. This option requires manual effort. Hence, this is not a good choice provided that Google provides a “Pricing Calculator”.<br>
-    _A opção A está incorreta. Esta opção requer esforço manual. Portanto, esta não é uma boa escolha, desde que o Google forneça uma “Calculadora de preços”.
+    
+    > _A opção A está incorreta. Esta opção requer esforço manual. Portanto, esta não é uma boa escolha, desde que o Google forneça uma “Calculadora de preços”.
 
     > Option B is correct. This is the best way to get the estimation. Google pricing calculator is free of cost and can be accessed by anyone.<br>
-    _A opção B está correta. Esta é a melhor maneira de obter a estimativa. A calculadora de preços do Google é gratuita e pode ser acessada por qualquer pessoa._
+    
+    > _A opção B está correta. Esta é a melhor maneira de obter a estimativa. A calculadora de preços do Google é gratuita e pode ser acessada por qualquer pessoa._
 
     > Option C is incorrect. Yes, this is an option provided by Google. However, a pricing calculator will be a good choice as it will give the estimate immediately. Hence, it is a better option to choose.<br>
-    _A opção C está incorreta. Sim, esta é uma opção fornecida pelo Google. No entanto, uma calculadora de preços será uma boa escolha, pois fornecerá a estimativa imediatamente. Portanto, é a melhor opção de escolha._
+    
+    > _A opção C está incorreta. Sim, esta é uma opção fornecida pelo Google. No entanto, uma calculadora de preços será uma boa escolha, pois fornecerá a estimativa imediatamente. Portanto, é a melhor opção de escolha._
 
     > Option D is incorrect. Google Account Manager contact is available only with certain Google Support plans. Since the scenario does not mention if the customer has a Google Support plan, this option is not correct.<br>
-    _A opção D está incorreta. O contato do gerente de contas do Google está disponível apenas em determinados planos de suporte do Google. Como o cenário não menciona se o cliente possui um plano de Suporte do Google, esta opção não está correta._
+    
+    > _A opção D está incorreta. O contato do gerente de contas do Google está disponível apenas em determinados planos de suporte do Google. Como o cenário não menciona se o cliente possui um plano de Suporte do Google, esta opção não está correta._
 
 ---
 
@@ -41,16 +45,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :white_check_mark: Use a managed zonal resource.
 
     > Option A is incorrect. Since you are using multiregional storage services, the application can withstand the loss of an entire region.<br>
-    _A opção A está incorreta. Como você está usando serviços de armazenamento multirregional, o aplicativo pode suportar a perda de uma região inteira._
+    
+    > _A opção A está incorreta. Como você está usando serviços de armazenamento multirregional, o aplicativo pode suportar a perda de uma região inteira._
 
     > Option B is incorrect. Since you are taking a snapshot of data to a multiregional resource, the application can withstand the loss of an entire region.<br>
-    _A opção B está incorreta. Como você está tirando um instantâneo dos dados para um recurso multirregional, o aplicativo pode suportar a perda de uma região inteira._
+    
+    > _A opção B está incorreta. Como você está tirando um instantâneo dos dados para um recurso multirregional, o aplicativo pode suportar a perda de uma região inteira._
 
     > Option C is incorrect. Although zonal resources are being used, data replication is being done to other regions. The application can withstand the loss of an entire region.<br>
-    _A opção C está incorreta. Embora estejam a ser utilizados recursos zonais, a replicação de dados está a ser feita para outras regiões. A aplicação pode suportar a perda de uma região inteira._
+    
+    > _A opção C está incorreta. Embora estejam a ser utilizados recursos zonais, a replicação de dados está a ser feita para outras regiões. A aplicação pode suportar a perda de uma região inteira._
 
     > Option D is correct. Using “zonal resources only” will not be ideal as the application, in this case, will not be able to sustain regional failure.<br>
-    _A opção D está correta. Utilizar “apenas recursos zonais” não será o ideal, pois a aplicação, neste caso, não será capaz de sustentar o fracasso regional._
+    
+    > _A opção D está correta. Utilizar “apenas recursos zonais” não será o ideal, pois a aplicação, neste caso, não será capaz de sustentar o fracasso regional._
 
 ---
 
@@ -66,16 +74,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: There is One Data Center per Region.
     
     > Option A is incorrect. Regions consist of Zones, and Zones consist of Data Centers.<br>
-    _A opção A está incorreta. As regiões consistem em zonas e as zonas consistem em data centers._
+    
+    > _A opção A está incorreta. As regiões consistem em zonas e as zonas consistem em data centers._
 
     > Option B is incorrect. A Region can have multiple Zones.<br>
-    _A opção B está incorreta. Uma região pode ter várias zonas._
+    
+    > _A opção B está incorreta. Uma região pode ter várias zonas._
 
     > Option C is correct. This statement correctly defines a Region.<br>
-    _A opção C está correta. Esta declaração define corretamente uma região._
+    
+    > _A opção C está correta. Esta declaração define corretamente uma região._
 
     > Option D is incorrect. A Region comprises one or more Zones. Regions consist of Zones, and Zones consist of Data Centers.<br>
-    _A opção D está incorreta. Uma região compreende uma ou mais zonas. As regiões consistem em zonas e as zonas consistem em data centers._
+    
+    > _A opção D está incorreta. Uma região compreende uma ou mais zonas. As regiões consistem em zonas e as zonas consistem em data centers._
 
 ---
 
@@ -91,16 +103,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: VM instances are Global.
 
     > Option A is incorrect. Static external IP addresses are Regional, not Zone-specific.<br>
-    _A opção A está incorreta. Os endereços IP externos estáticos são regionais e não específicos da zona._
+    
+    > _A opção A está incorreta. Os endereços IP externos estáticos são regionais e não específicos da zona._
 
     > Option B is incorrect. Disk snapshots are Global, not Region-specific.<br>
-    _A opção B está incorreta. Os instantâneos de disco são globais e não específicos da região._
+    
+    > _A opção B está incorreta. Os instantâneos de disco são globais e não específicos da região._
 
     > Option C is correct. This is a correct statement. All the Google Cloud resources that are being used must necessarily belong to a project.<br>
-    _A opção C está correta. Esta é uma afirmação correta. Todos os recursos do Google Cloud que estão sendo utilizados devem necessariamente pertencer a um projeto._
+    
+    > _A opção C está correta. Esta é uma afirmação correta. Todos os recursos do Google Cloud que estão sendo utilizados devem necessariamente pertencer a um projeto._
 
     > Option D is incorrect. VM instances are Zonal, not Global resources.<br>
-    _A opção D está incorreta. As instâncias de VM são zonais e não globais._
+    
+    > _A opção D está incorreta. As instâncias de VM são zonais e não globais._
 
 ---
 
@@ -116,16 +132,19 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Give pre-authenticated URLs so that the new team member can access the required resources.
 
     > Option A is incorrect. In IAM, permissions are not granted directly to the team member to access resources.<br>
-    _A opção A está incorreta. No IAM, as permissões não são concedidas diretamente ao membro da equipe para acessar recursos._
+    
+    > _A opção A está incorreta. No IAM, as permissões não são concedidas diretamente ao membro da equipe para acessar recursos._
 
     > Option B is correct. The permissions are grouped into roles, and roles can be granted to the team member to access the resources.<br>
     _A opção B está correta. As permissões são agrupadas em funções e as funções podem ser concedidas ao membro da equipe para acessar os recursos._
 
     > Option C is incorrect. This is an incorrect statement. IAM policy is attached to resources, defines and enforces what roles are granted to which members and the policy.<br>
-    _A opção C está incorreta. Esta é uma afirmação incorreta. A política do IAM é anexada aos recursos, define e impõe quais funções são concedidas a quais membros e à política._
+    
+    > _A opção C está incorreta. Esta é uma afirmação incorreta. A política do IAM é anexada aos recursos, define e impõe quais funções são concedidas a quais membros e à política._
 
     > Option D is incorrect. Pre-authenticated URLs are not a valid option to provide access to the resources.<br>
-    _A opção D está incorreta. URLs pré-autenticados não são uma opção válida para fornecer acesso aos recursos._
+    
+    > _A opção D está incorreta. URLs pré-autenticados não são uma opção válida para fornecer acesso aos recursos._
 
 ---
 
@@ -141,10 +160,12 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Depends on the resource type
 
     > Option A is correct. Each resource has exactly one parent.<br>
-    _A opção A está correta. Cada recurso tem exatamente um pai._
+    
+    > _A opção A está correta. Cada recurso tem exatamente um pai._
 
     > Option D is incorrect. Each resource has exactly one parent and does not depend on the resource type.<br>
-    _A opção D está incorreta. Cada recurso possui exatamente um pai e não depende do tipo de recurso._
+    
+    > _A opção D está incorreta. Cada recurso possui exatamente um pai e não depende do tipo de recurso._
 
 ---
 
@@ -160,16 +181,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: The support case is being investigated by another Google engineer team.
 
     > Option A is incorrect. When the case is assigned to one of Google cloud engineers, the status of the support case is “Assigned”.<br>
-    _A opção A está incorreta. Quando o caso é atribuído a um dos engenheiros de nuvem do Google, o status do caso de suporte é “Atribuído”._
+    
+    > _A opção A está incorreta. Quando o caso é atribuído a um dos engenheiros de nuvem do Google, o status do caso de suporte é “Atribuído”._
 
     > Option B is incorrect. When the support case is being worked upon by Google Cloud Customer care engineers, the status of the support case is “In progress Cloud Customer Care”.<br>
-    _A opção B está incorreta. Quando o caso de suporte está sendo trabalhado pelos engenheiros de atendimento ao cliente do Google Cloud, o status do caso de suporte é “Em andamento Cloud Customer Care”._
+    
+    > _A opção B está incorreta. Quando o caso de suporte está sendo trabalhado pelos engenheiros de atendimento ao cliente do Google Cloud, o status do caso de suporte é “Em andamento Cloud Customer Care”._
 
     > Option C is correct. When the support case is being investigated by Google product engineers, the status of the support case is “In progress Google engineering”.<br>
-    _A opção C está correta. Quando o caso de suporte está sendo investigado pelos engenheiros de produto do Google, o status do caso de suporte é “Engenharia do Google em andamento”._
+    
+    > _A opção C está correta. Quando o caso de suporte está sendo investigado pelos engenheiros de produto do Google, o status do caso de suporte é “Engenharia do Google em andamento”._
 
     > Option D is incorrect. When the support case is being investigated by another Google engineer team, the status of the support case is “In progress Google other.”<br>
-    _A opção D está incorreta. Quando o caso de suporte estiver sendo investigado por outra equipe de engenheiros do Google, o status do caso de suporte será “Em andamento, outro Google”._
+    
+    > _A opção D está incorreta. Quando o caso de suporte estiver sendo investigado por outra equipe de engenheiros do Google, o status do caso de suporte será “Em andamento, outro Google”._
 
 ---
 
@@ -186,16 +211,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
         - 
 
     > Option A is incorrect. Intermittent problems occur randomly without a regular failure pattern.<br>
-    _A opção A está incorreta. Problemas intermitentes ocorrem aleatoriamente sem um padrão de falha regular._
+    
+    > _A opção A está incorreta. Problemas intermitentes ocorrem aleatoriamente sem um padrão de falha regular._
 
     > Option B is correct. For momentary problems, the appropriate problem type is Transient.<br>
-    _A opção B está correta. Para problemas momentâneos, o tipo de problema apropriado é Transiente._
+    
+    > _A opção B está correta. Para problemas momentâneos, o tipo de problema apropriado é Transiente._
 
     > Option C is incorrect. Consistent problems are problems that fail completely.<br>
-    _A opção C está incorreta. Problemas consistentes são problemas que falham completamente._
+    
+    > _A opção C está incorreta. Problemas consistentes são problemas que falham completamente._
 
     > Option D is incorrect. Recurring is an invalid problem type.<br>
-    _A opção D está incorreta. Recorrente é um tipo de problema inválido._
+    
+    > _A opção D está incorreta. Recorrente é um tipo de problema inválido._
 
 ---
 
@@ -211,13 +240,16 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: A & B
 
     > Option A is Correct. A secret manager can be used to store API keys, passwords, and certificates.<br>
-    _A opção A está correta. Um gerenciador de segredos pode ser usado para armazenar chaves de API, senhas e certificados._
+    
+    > _A opção A está correta. Um gerenciador de segredos pode ser usado para armazenar chaves de API, senhas e certificados._
 
     > Option B is Incorrect. Cloud Key Management helps manage encryption keys and cannot be used for storing API keys and certificates.<br>
-    _A opção B está incorreta. O Cloud Key Management ajuda a gerenciar chaves de criptografia e não pode ser usado para armazenar chaves de API e certificados._
+    
+    > _A opção B está incorreta. O Cloud Key Management ajuda a gerenciar chaves de criptografia e não pode ser usado para armazenar chaves de API e certificados._
 
     > Option C is Incorrect. The security command center cannot be used for storing API keys and certificates, but it is appropriate to be used to defend Google cloud assets against threats.<br>
-    _A opção C está incorreta. O centro de comando de segurança não pode ser usado para armazenar chaves de API e certificados, mas é apropriado para defender os ativos em nuvem do Google contra ameaças._
+    
+    > _A opção C está incorreta. O centro de comando de segurança não pode ser usado para armazenar chaves de API e certificados, mas é apropriado para defender os ativos em nuvem do Google contra ameaças._
 
 ---
 
@@ -233,16 +265,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Premium Support
 
     > Option A is correct. Basic support from Google Cloud provides phone support for billing issues only along with case and chat support. Basic support is included with Google Cloud subscription, and there are no additional charges. Hence, this is the correct choice.<br>
-    _A opção A está correta. O suporte básico do Google Cloud oferece suporte por telefone apenas para problemas de faturamento, juntamente com suporte por caso e chat. O suporte básico está incluído na assinatura do Google Cloud e não há cobranças adicionais. Portanto, esta é a escolha correta._
+    
+    > _A opção A está correta. O suporte básico do Google Cloud oferece suporte por telefone apenas para problemas de faturamento, juntamente com suporte por caso e chat. O suporte básico está incluído na assinatura do Google Cloud e não há cobranças adicionais. Portanto, esta é a escolha correta._
 
     > Option B is incorrect. Although Standard support provides phone support for billing issues, it’s an incorrect choice since it is a paid plan. The scenario wants us to identify the most cost-efficient support plan.<br>
-    _A opção B está incorreta. Embora o suporte padrão forneça suporte telefônico para questões de cobrança, é uma escolha incorreta, pois é um plano pago. O cenário quer que identifiquemos o plano de suporte com melhor relação custo-benefício._
+    
+    > _A opção B está incorreta. Embora o suporte padrão forneça suporte telefônico para questões de cobrança, é uma escolha incorreta, pois é um plano pago. O cenário quer que identifiquemos o plano de suporte com melhor relação custo-benefício._
 
     > Option C is incorrect. Although Enhanced support provides phone support for billing issues, it’s an incorrect choice since it is a paid plan. The scenario wants us to identify the most cost-efficient support plan.<br>
-    _A opção C está incorreta. Embora o suporte avançado forneça suporte telefônico para problemas de cobrança, é uma escolha incorreta, pois é um plano pago. O cenário quer que identifiquemos o plano de suporte com melhor relação custo-benefício._
+    
+    > _A opção C está incorreta. Embora o suporte avançado forneça suporte telefônico para problemas de cobrança, é uma escolha incorreta, pois é um plano pago. O cenário quer que identifiquemos o plano de suporte com melhor relação custo-benefício._
 
     > Option D is incorrect. Although Premium support provides phone support for billing issues, it’s an incorrect choice since it is a paid plan. The scenario wants us to identify the most cost-efficient support plan.<br>
-    _A opção D está incorreta. Embora o suporte Premium forneça suporte telefônico para questões de cobrança, é uma escolha incorreta, pois é um plano pago. O cenário quer que identifiquemos o plano de suporte com melhor relação custo-benefício._
+    
+    > _A opção D está incorreta. Embora o suporte Premium forneça suporte telefônico para questões de cobrança, é uma escolha incorreta, pois é um plano pago. O cenário quer que identifiquemos o plano de suporte com melhor relação custo-benefício._
 
 --- 
 
@@ -258,16 +294,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Extreme persistent disks (pd-extreme)
 
     > Option A is correct. Standard persistent disks (pd-standard) are backed by HDD (standard Hard Disk Drive). Hence, this option is Correct.<br>
-    _A opção A está correta. Discos persistentes padrão (padrão pd) são suportados por HDD (unidade de disco rígido padrão). Portanto, esta opção está correta._
+    
+    > _A opção A está correta. Discos persistentes padrão (padrão pd) são suportados por HDD (unidade de disco rígido padrão). Portanto, esta opção está correta._
 
     > Option B is incorrect. Balanced persistent disks (pd-balanced) are backed by solid-state drives (SSD).<br>
-    _A opção B está incorreta. Discos permanentes balanceados (balanceados por pd) são apoiados por unidades de estado sólido (SSD)._
+    
+    > _A opção B está incorreta. Discos permanentes balanceados (balanceados por pd) são apoiados por unidades de estado sólido (SSD)._
 
     > Option C is incorrect. SSD persistent disks (pd-ssd) are backed by solid-state drives (SSD).<br>
-    _A opção C está incorreta. Os discos permanentes SSD (pd-ssd) são apoiados por unidades de estado sólido (SSD)._
+    
+    > _A opção C está incorreta. Os discos permanentes SSD (pd-ssd) são apoiados por unidades de estado sólido (SSD)._
 
     > Option D is incorrect. Extreme persistent disks (pd-extreme) are backed by solid-state drives (SSD).<br>
-    _A opção D está incorreta. Os discos persistentes extremos (pd-extreme) são apoiados por unidades de estado sólido (SSD)._
+    
+    > _A opção D está incorreta. Os discos persistentes extremos (pd-extreme) são apoiados por unidades de estado sólido (SSD)._
 
 ---
 
@@ -283,10 +323,12 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Enable “run continuous” feature.
 
     > Option A is correct. To protect the VMs from being deleted, the “delete protection” feature needs to be enabled.<br>
-    _A opção A está correta. Para proteger as VMs contra exclusão, o recurso “proteção contra exclusão” precisa ser habilitado._
+    
+    > _A opção A está correta. Para proteger as VMs contra exclusão, o recurso “proteção contra exclusão” precisa ser habilitado._
 
     > Option B, C and D is incorrect. The “no delete” feature is an invalid option.<br>
-    _As opções B, C e D estão incorretas. O recurso “não excluir” é uma opção inválida._
+    
+    > _As opções B, C e D estão incorretas. O recurso “não excluir” é uma opção inválida._
 
 ---
 
@@ -317,16 +359,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Confidential Computing
 
     > Option A is incorrect. Access Transparency & Access Approval help provide visibility and control by facilitating admin access logs and approval controls.<br>
-    _A opção A está incorreta. A transparência e a aprovação de acesso ajudam a fornecer visibilidade e controle, facilitando registros de acesso de administrador e controles de aprovação._
+    
+    > _A opção A está incorreta. A transparência e a aprovação de acesso ajudam a fornecer visibilidade e controle, facilitando registros de acesso de administrador e controles de aprovação._
 
     > Option B is incorrect. Binary Authorization helps ensure deployment of trusted container images on Google Kubernetes Engine (GKE) or Cloud Run.<br>
-    _A opção B está incorreta. A autorização binária ajuda a garantir a implantação de imagens de contêiner confiáveis ​​no Google Kubernetes Engine (GKE) ou Cloud Run._
+    
+    > _A opção B está incorreta. A autorização binária ajuda a garantir a implantação de imagens de contêiner confiáveis ​​no Google Kubernetes Engine (GKE) ou Cloud Run._
 
     > Option C is correct. Cloud Asset Inventory is a metadata inventory service that facilitates customers to have a view of all the GCP and Anthos assets across projects and services, along with enabling them to monitor and analyze all the GCP and Anthos assets across projects and services.<br>
-    _A opção C está correta. Cloud Asset Inventory é um serviço de inventário de metadados que permite aos clientes ter uma visão de todos os ativos do GCP e do Anthos em projetos e serviços, além de permitir que eles monitorem e analisem todos os ativos do GCP e do Anthos em projetos e serviços._
+    
+    > _A opção C está correta. Cloud Asset Inventory é um serviço de inventário de metadados que permite aos clientes ter uma visão de todos os ativos do GCP e do Anthos em projetos e serviços, além de permitir que eles monitorem e analisem todos os ativos do GCP e do Anthos em projetos e serviços._
 
     > Option D is incorrect. Confidential Computing helps customers encrypt sensitive data while the data is in-use.<br>
-    _A opção D está incorreta. A Computação Confidencial ajuda os clientes a criptografar dados confidenciais enquanto os dados estão em uso._
+    
+    > _A opção D está incorreta. A Computação Confidencial ajuda os clientes a criptografar dados confidenciais enquanto os dados estão em uso._
 
 ---
 
@@ -342,16 +388,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Dialogflow
 
     > Option A is incorrect. Vertex AI helps build, deploy and scale ML models faster within a unified AI platform.<br>
-    _A opção A está incorreta. A Vertex AI ajuda a criar, implantar e dimensionar modelos de ML com mais rapidez em uma plataforma de IA unificada._
+    
+    > _A opção A está incorreta. A Vertex AI ajuda a criar, implantar e dimensionar modelos de ML com mais rapidez em uma plataforma de IA unificada._
 
     > Option B is incorrect. Cloud Translation helps build multilingual applications with the help of machine translation.<br>
-    _A opção B está incorreta. O Cloud Translation ajuda a criar aplicativos multilíngues com a ajuda da tradução automática._
+    
+    > _A opção B está incorreta. O Cloud Translation ajuda a criar aplicativos multilíngues com a ajuda da tradução automática._
 
     > Option C is correct. Natural Language AI is a Google Cloud AI product that helps classify unstructured text and performs sentiment analysis.<br>
-    _A opção C está correta. Natural Language AI é um produto de IA do Google Cloud que ajuda a classificar textos não estruturados e realiza análises de sentimentos._
+    
+    > _A opção C está correta. Natural Language AI é um produto de IA do Google Cloud que ajuda a classificar textos não estruturados e realiza análises de sentimentos._
 
     > Option D is incorrect. Dialog flow helps build conversational applications.<br>
-    _A opção D está incorreta. O fluxo de diálogo ajuda a criar aplicativos de conversação._
+    
+    > _A opção D está incorreta. O fluxo de diálogo ajuda a criar aplicativos de conversação._
 
 ---
 
@@ -367,16 +417,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Cloud Foundation toolkit
 
     > Option A is correct. Cloud Functions help develop Event-Based serverless Functions.<br>
-    _A opção A está correta. O Cloud Functions ajuda a desenvolver funções sem servidor baseadas em eventos._
+    
+    > _A opção A está correta. O Cloud Functions ajuda a desenvolver funções sem servidor baseadas em eventos._
 
     > Option B is incorrect. Cloud Serverless is an invalid option.<br>
-    _A opção B está incorreta. Cloud Serverless é uma opção inválida._
+    
+    > _A opção B está incorreta. Cloud Serverless é uma opção inválida._
 
     > Option C is incorrect. Anthos Cluster helps utilize Kubernetes across Multi-Cloud and Hybrid cloud environments.<br>
-    _A opção C está incorreta. O Anthos Cluster ajuda a utilizar o Kubernetes em ambientes de nuvem híbrida e multinuvem._
+    
+    > _A opção C está incorreta. O Anthos Cluster ajuda a utilizar o Kubernetes em ambientes de nuvem híbrida e multinuvem._
 
     > Option D is incorrect. Cloud foundation toolkit helps provide Infrastructure as a code template<br>
-    _A opção D está incorreta. O kit de ferramentas Cloud Foundation ajuda a fornecer infraestrutura como modelo de código_
+    
+    > _A opção D está incorreta. O kit de ferramentas Cloud Foundation ajuda a fornecer infraestrutura como modelo de código_
 
 ---
 
@@ -398,16 +452,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Cloud Monitoring
 
     > Option A is correct. Cloud Logging helps in the real-time analysis and management of logs.<br>
-    _A opção A está correta. O Cloud Logging ajuda na análise e gerenciamento de logs em tempo real._
+    
+    > _A opção A está correta. O Cloud Logging ajuda na análise e gerenciamento de logs em tempo real._
 
     > Option B is incorrect. Cloud Debugger helps in the investigation of code’s behavior in production.<br>
-    _A opção B está incorreta. Cloud Debugger auxilia na investigação do comportamento do código em produção._
+    
+    > _A opção B está incorreta. Cloud Debugger auxilia na investigação do comportamento do código em produção._
 
     > Option C is incorrect. Cloud Trace helps identify bottlenecks in production.<br>
-    _A opção C está incorreta. O Cloud Trace ajuda a identificar gargalos na produção._
+    
+    > _A opção C está incorreta. O Cloud Trace ajuda a identificar gargalos na produção._
 
     > Option D is incorrect. Cloud Monitoring facilitates the collection of metrics, creating visualizations for metrics pertaining to applications and Infrastructure’s availability, performance, and health.<br>
-    _A opção D está incorreta. O Cloud Monitoring facilita a coleta de métricas, criando visualizações de métricas relativas a aplicações e disponibilidade, desempenho e integridade de infraestrutura._
+    
+    > _A opção D está incorreta. O Cloud Monitoring facilita a coleta de métricas, criando visualizações de métricas relativas a aplicações e disponibilidade, desempenho e integridade de infraestrutura._
 
 ---
 
@@ -424,16 +482,20 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
         - 
 
     > Option A is Incorrect. Exactly once processing ensures that the Pub/Sub stream is processed exactly once.<br>
-    _A opção A está incorreta. O processamento exatamente uma vez garante que o stream do Pub/Sub seja processado exatamente uma vez._
+    
+    > _A opção A está incorreta. O processamento exatamente uma vez garante que o stream do Pub/Sub seja processado exatamente uma vez._
 
     > A opção B está incorreta. O recurso de busca e reprodução do Pub/Sub pode reprocessar mensagens facilitando o retrocesso pontual do backlog.<br>
-    _A opção B está incorreta. O recurso de busca e reprodução do Pub/Sub pode reprocessar mensagens facilitando o retrocesso pontual do backlog._
+    
+    > _A opção B está incorreta. O recurso de busca e reprodução do Pub/Sub pode reprocessar mensagens facilitando o retrocesso pontual do backlog._
 
     > Option C is Correct. It allows offline examination and debugging of messages to ensure no-delay processing of other messages.<br>
-    _A opção C está correta. Ele permite o exame offline e a depuração de mensagens para garantir o processamento sem atraso de outras mensagens._
+    
+    > _A opção C está correta. Ele permite o exame offline e a depuração de mensagens para garantir o processamento sem atraso de outras mensagens._
 
     > Option D is Incorrect. Filtering enables message filtering based on message attributes.<br>
-    _A opção D está incorreta. A filtragem permite a filtragem de mensagens com base nos atributos da mensagem._
+    
+    > _A opção D está incorreta. A filtragem permite a filtragem de mensagens com base nos atributos da mensagem._
 
 ---
 
@@ -451,19 +513,23 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :black_large_square: Batch Jobs
 
     > Option A is Incorrect. Since Genome sequencing requires performing analysis and needs speed, scalabiity and security, filestore is most apt.<br>
-    _A opção A está incorreta. Como o sequenciamento do genoma requer a realização de análises e precisa de velocidade, escalabilidade e segurança, o filestore é o mais adequado._
+    
+    > _A opção A está incorreta. Como o sequenciamento do genoma requer a realização de análises e precisa de velocidade, escalabilidade e segurança, o filestore é o mais adequado._
 
     > Option B is Correct. Local SSD is appropriate to be used for Media rendering.<br>
     _A opção B está correta. O SSD local é apropriado para ser usado para renderização de mídia._
 
     > Option C is Incorrect. Cold storage is most optimal for data archiving.<br>
-    _A opção C está incorreta. O armazenamento frio é ideal para arquivamento de dados._
+    
+    > _A opção C está incorreta. O armazenamento frio é ideal para arquivamento de dados._
 
     > Option D is Correct. Local SSD is the most optimal choice for being used as a cache as it provides high IOPS and very low latency.<br>
-    _A opção D está correta. O SSD local é a escolha ideal para ser usado como cache, pois fornece IOPS alto e latência muito baixa._
+    
+    > _A opção D está correta. O SSD local é a escolha ideal para ser usado como cache, pois fornece IOPS alto e latência muito baixa._
 
     > Option E is Incorrect. Preemptible VMs are appropriate for batch jobs.<br>
-    _A opção E está incorreta. VMs preemptivas são apropriadas para trabalhos em lote._
+    
+    > _A opção E está incorreta. VMs preemptivas são apropriadas para trabalhos em lote._
 
 ---
 
@@ -479,13 +545,17 @@ Reference (1): <https://www.whizlabs.com/blog/google-cloud-certified-digital-lea
     :white_check_mark: Cloud Debugger
 
     > Option A is Incorrect. Cloud logging helps in real-time management and analysis of logs.<br>
-    _A opção A está incorreta. O registro em nuvem ajuda no gerenciamento e análise de logs em tempo real._
+    
+    > _A opção A está incorreta. O registro em nuvem ajuda no gerenciamento e análise de logs em tempo real._
 
     > Option B is Incorrect. Cloud Monitoring helps to monitor the health, availability and performance of infrastructure and the configured application by producing metrics of help.<br>
-    _A opção B está incorreta. O Cloud Monitoring ajuda a monitorar a integridade, a disponibilidade e o desempenho da infraestrutura e do aplicativo configurado, produzindo métricas de ajuda._
+    
+    > _A opção B está incorreta. O Cloud Monitoring ajuda a monitorar a integridade, a disponibilidade e o desempenho da infraestrutura e do aplicativo configurado, produzindo métricas de ajuda._
 
     > Option C is Incorrect. Cloud Trace is an offering from Google cloud that helps find production performance bottlenecks by collecting application’s latency data.<br>
-    _A opção C está incorreta. Cloud Trace é uma oferta da nuvem do Google que ajuda a encontrar gargalos no desempenho da produção coletando dados de latência do aplicativo._
+    
+    > _A opção C está incorreta. Cloud Trace é uma oferta da nuvem do Google que ajuda a encontrar gargalos no desempenho da produção coletando dados de latência do aplicativo._
 
     > Option D is Correct. Cloud Debugger helps to investigate the behavior of code in production.<br>
-    _A opção D está correta. O Cloud Debugger ajuda a investigar o comportamento do código em produção._
+    
+    > _A opção D está correta. O Cloud Debugger ajuda a investigar o comportamento do código em produção._

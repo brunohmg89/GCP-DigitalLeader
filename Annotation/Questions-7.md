@@ -17,16 +17,20 @@ Reference (2): <https://docs.google.com/forms/d/e/1FAIpQLScLXz5OT4dQ4weY8pGa8_Fu
     :white_check_mark: Google Management Console
 
     > Option A is incorrect as Cloud SDK is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.<br>
-    _A opção A está incorreta, pois o Cloud SDK é uma excelente maneira de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+    
+    > _A opção A está incorreta, pois o Cloud SDK é uma excelente maneira de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
 
     > Option B is incorrect as Cloud Shell is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.<br>
-    _A opção B está incorreta, pois o Cloud Shell é uma excelente forma de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+    
+    > _A opção B está incorreta, pois o Cloud Shell é uma excelente forma de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
 
     > Option C is incorrect as Google Cloud Console is an excellent way to interact and connect with the services and resources hosted in the Google Cloud Platform.<br>
-    _A opção C está incorreta, pois o Google Cloud Console é uma excelente maneira de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
+    
+    > _A opção C está incorreta, pois o Google Cloud Console é uma excelente maneira de interagir e se conectar com os serviços e recursos hospedados no Google Cloud Platform._
 
     > Option D is correct as “Google Management Console” is an invalid option.<br>
-    _A opção D está correta, pois “Google Management Console” é uma opção inválida._
+    
+    > _A opção D está correta, pois “Google Management Console” é uma opção inválida._
 
     > There are three basic ways to interact and connect with the services and resources hosted in Google Cloud Platform.
     > - Google Cloud Console
@@ -52,16 +56,20 @@ Reference (2): <https://docs.google.com/forms/d/e/1FAIpQLScLXz5OT4dQ4weY8pGa8_Fu
     :black_large_square: Datazone
 
     > Option A is correct. Zones are a deployment area within a region, and Zones can be utilized for deploying applications in a way that they are fault-tolerant and highly available.<br>
-    _A opção A está correta. As zonas são uma área de implantação dentro de uma região, e as zonas podem ser utilizadas para implantar aplicativos de forma que sejam tolerantes a falhas e altamente disponíveis._
+    
+    > _A opção A está correta. As zonas são uma área de implantação dentro de uma região, e as zonas podem ser utilizadas para implantar aplicativos de forma que sejam tolerantes a falhas e altamente disponíveis._
 
     > Option B is incorrect. If an application is deployed in a particular data center, and the data center is impacted by, say power failure or some calamity, the application would also go down. Hence, opting for a data center would not be the right choice.<br>
-    _A opção B está incorreta. Se um aplicativo for implantado em um data center específico e o data center for afetado, por exemplo, por falha de energia ou alguma calamidade, o aplicativo também ficará inativo. Portanto, optar por um data center não seria a escolha certa._
+    
+    > _A opção B está incorreta. Se um aplicativo for implantado em um data center específico e o data center for afetado, por exemplo, por falha de energia ou alguma calamidade, o aplicativo também ficará inativo. Portanto, optar por um data center não seria a escolha certa._
 
     > Option C is incorrect. Sub-Region is an invalid option.<br>
-    _A opção C está incorreta. Sub-região é uma opção inválida._
+    
+    > _A opção C está incorreta. Sub-região é uma opção inválida._
 
     > Option D is incorrect. Datazone is an invalid option.<br>
-    _A opção D está incorreta. Datazone é uma opção inválida._
+    
+    > _A opção D está incorreta. Datazone é uma opção inválida._
 
 ---
 
@@ -77,16 +85,20 @@ Reference (2): <https://docs.google.com/forms/d/e/1FAIpQLScLXz5OT4dQ4weY8pGa8_Fu
     :black_large_square: Cloud Bigtable
 
     > Option A is correct. Firestore is a Google product that is scalable, requires no maintenance, and it is a serverless document database.<br>
-    _A opção A está correta. Firestore é um produto do Google escalonável, não requer manutenção e é um banco de dados de documentos sem servidor._
+    
+    > _A opção A está correta. Firestore é um produto do Google escalonável, não requer manutenção e é um banco de dados de documentos sem servidor._
 
     > Option B is incorrect. Cloud Spanner is incorrect because it is a relational database service, not a document database.<br>
-    _A opção B está incorreta. O Cloud Spanner está incorreto porque é um serviço de banco de dados relacional, não um banco de dados de documentos._
+    
+    > _A opção B está incorreta. O Cloud Spanner está incorreto porque é um serviço de banco de dados relacional, não um banco de dados de documentos._
 
     > Option C is incorrect. Memorystore, also known as Memorystore for Redis, is a fully managed Google’s in-memory data store service.<br>
-    _A opção C está incorreta. Memorystore, também conhecido como Memorystore for Redis, é um serviço de armazenamento de dados na memória do Google totalmente gerenciado._
+    
+    > _A opção C está incorreta. Memorystore, também conhecido como Memorystore for Redis, é um serviço de armazenamento de dados na memória do Google totalmente gerenciado._
     
     > Option D is incorrect. Cloud Bigtable is a big data database service, not a document database.
-    _A opção D está incorreta. O Cloud Bigtable é um serviço de banco de dados de big data, não um banco de dados de documentos._
+    
+    > _A opção D está incorreta. O Cloud Bigtable é um serviço de banco de dados de big data, não um banco de dados de documentos._
 
 ---
 
