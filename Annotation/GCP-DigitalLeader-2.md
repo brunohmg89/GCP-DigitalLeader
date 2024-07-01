@@ -2,8 +2,8 @@
 
 ## 1º Módulo - O valor dos dados
 
-- 3 tipos de dados:
-    - Estruturados: São altamente organizados e bem definidos. Normalmente, eles são armazenados em uma tabela com relações entre diferentes linhas e colunas, como em uma planilha ou banco de dados.
+- Tipos de dados:
+    - **Estruturados:** São altamente organizados e bem definidos. Normalmente, eles são armazenados em uma tabela com relações entre diferentes linhas e colunas, como em uma planilha ou banco de dados.
     - Semi estruturados: Estão entre os estruturados e não estruturados. Eles são organizados em uma hierarquia, mas sem diferenciação total ou ordem específica. Os exemplos incluem e-mails, arquivos HTML, JSON e XML.
     - Não estruturados: são informações que não têm um modelo de dados predefinido ou não são organizadas de forma predefinida. As categorias incluem texto, que é mais comum, é gerado com mais frequência e é coletado de fontes como documentos, apresentações e postagens de redes sociais.
 

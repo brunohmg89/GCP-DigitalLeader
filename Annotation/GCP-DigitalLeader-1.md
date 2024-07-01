@@ -44,8 +44,6 @@
   - Padrão aberto: É o software que segue padrões específicos, que qualquer pessoa pode acessar e usar.
   - Código aberto: É o software com código-fonte disponível ao público, e qualquer pessoa pode usar, modificar e compartilhar.
 
-<br>
-
 ### Questões
 
 1. Uma organização lançou um novo aplicativo, e a infraestrutura no local não está conseguindo acompanhar o aumento nas assinaturas de usuários. Qual benefício da nuvem ajudaria nessa situação?
@@ -156,17 +154,15 @@
 
     :black_large_square: Garanta melhor segurança dissociando as equipes e seus dados.
 
-<br>
-
 ## 2º Módulo - Conceitos fundamentais da nuvem
 
 - CapEx e OpEx
-  - CapEx - investimentos na compra de hardware, software e tudo que compões uma infraestrutura onprem
+  - CapEx - Investimentos na compra de hardware, software e tudo que compões uma infraestrutura onprem
   - OpEx - Dinheiro gasto com a manutenção da infra onprem
 
 - Latência: Mede o tempo que um pacote de informações leva para viajar da origem até o destino.
 
-- Largura de banda: métrica de desempenho de rede que indica a quantidade de dados que uma rede pode transferir em determinado período
+- Largura de banda: Métrica de desempenho de rede que indica a quantidade de dados que uma rede pode transferir em determinado período
 
 - Locais - Regiões e Zonas
   - América do norte
@@ -174,8 +170,6 @@
   - Local -> Europa (Londres) -> Região: europe-west2 -> Zona -> europe-west2-a
   - Ásia
   - Austrália
-
-<br>
 
 ### Questões
 
@@ -237,8 +231,6 @@
 
     :black_large_square: Confiabilidade da disponibilidade da infraestrutura.
 
-<br>
-
 ## 3º Módulo - Modelos de computação em nuvem e responsabilidade compartilhada
 
 - IaaS: Oferece recursos de infraestrutura, como computação e armazenamento. Exemplos Compute Engine e Cloud Storage
@@ -251,8 +243,6 @@
 
 - SaaS: Entrega aplicativos completos como serviços. Exemplos, ferramentas do Workspace como Gmail, google drive
   - Abstrai completamente a infra utilizada, paga uma taxa ao software e abra ele em um navegador sem a necessidade de instalação nos computadores
-
-<br>
 
 ### Questões
 
