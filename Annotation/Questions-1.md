@@ -56,6 +56,7 @@
 
     > - You do not want to be required to provision infrastructure or create server clusters. Because Unified stream and batch data processing that's serverless, fast, and cost-effective.<br>
     >   - Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.<br>
+    
     > - _Você não quer ser obrigado a provisionar infraestrutura ou criar clusters de servidores. Porque fluxo unificado e processamento de dados em lote, sem servidor, rápido e econômico._<br>
     >   - _O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
 
@@ -73,7 +74,8 @@
     :black_large_square: Use Data Labeling service - outsource the work of marking and extracting the in-formation to others.
 
     > Cloud Vision API allows you to programmatically identify images, text, etc. in the document. This would be the best.<br>
-    _A API Cloud Vision permite identificar programaticamente imagens, texto etc. Este seria o melhor._
+    
+    > _A API Cloud Vision permite identificar programaticamente imagens, texto etc. Este seria o melhor._
 
 ---
 
@@ -89,7 +91,8 @@
     :black_large_square: Dataplex
 
     > Because Dataproc is used to run Hadoop/Spark workloads<br>
-    _Porque o Dataproc é usado para executar cargas de trabalho do Hadoop/Spark_
+    
+    > _Porque o Dataproc é usado para executar cargas de trabalho do Hadoop/Spark_
 
 ---
 
@@ -105,7 +108,8 @@
     :black_large_square: Migrate the workloads to Google Kubernetes Engine
     
     > Migrate for Compute Engine enables you to lift and shift workloads at scale to Google Cloud Compute Engine with minimal changes and risk.<br>
-    _O Migrate for Compute Engine permite transferir cargas de trabalho em escala para o Google Cloud Compute Engine com alterações e riscos mínimos._
+    
+    > _O Migrate for Compute Engine permite transferir cargas de trabalho em escala para o Google Cloud Compute Engine com alterações e riscos mínimos._
 
 ---
 
@@ -134,7 +138,8 @@
     :black_large_square: None of the Above
 
     > Container Registry is a single place for your team to manage Docker images, perform vulnerability analysis, and decide who can access what with fine-grained access control<br>
-    _O Container Registry é um local único para sua equipe gerenciar imagens do Docker, realizar análises de vulnerabilidades e decidir quem pode acessar o quê com controle de acesso refinado_
+    
+    > _O Container Registry é um local único para sua equipe gerenciar imagens do Docker, realizar análises de vulnerabilidades e decidir quem pode acessar o quê com controle de acesso refinado_
 
 ---
 
@@ -155,6 +160,7 @@
     >   - Sustained-use discounts—Google offers up to 30% off for workloads that run for most of the billing month on GCP services.
     >   - Committed-use discounts—users can save up to 57% by committing to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period. 
     >   - Preemptible VMs—similar to the concept of AWS spot instances, Google offers up to 79% off for Virtual Machines that may be shut down at any time and replaced by others.<br>
+    
     > - _O uso de vCPU e memória sustentado, comprometido e preemptivo para cada uma dessas categorias pode receber descontos._
     >   - _Descontos por uso prolongado: o Google oferece até 30% de desconto para cargas de trabalho executadas durante a maior parte do mês de faturamento nos serviços do GCP._
     >   - _Descontos por uso contínuo — os usuários podem economizar até 57% ao se comprometerem a usar uma instância por um determinado período, sem pagamento adiantado e com flexibilidade para alterar as instâncias durante o período de compromisso._
