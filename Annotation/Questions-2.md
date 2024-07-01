@@ -16,7 +16,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Select a private cloud provider that is only active in the required geographic area
 
     > The goal of the migration is to serve customers worldwide as quickly as possible According to local regulations, certain data is required to be stored in a specific geographic area, and it can be served worldwide" This characteristic are inherent to the public cloud provider.<br>
-    _O objetivo da migração é atender clientes em todo o mundo o mais rápido possível. De acordo com as regulamentações locais, determinados dados devem ser armazenados em uma área geográfica específica e podem ser atendidos em todo o mundo" Esta característica é inerente ao provedor de nuvem pública_
+    
+    > _O objetivo da migração é atender clientes em todo o mundo o mais rápido possível. De acordo com as regulamentações locais, determinados dados devem ser armazenados em uma área geográfica específica e podem ser atendidos em todo o mundo" Esta característica é inerente ao provedor de nuvem pública_
 
 ---
 
@@ -32,7 +33,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Purchase multiple physical computers and scale workload across them
 
     > When you purchase a committed use contract, you purchase Compute Engine resources—such as vCPUs, memory, GPUs, local SSDs, and sole-tenant nodes—at a discounted price in return for committing to paying for those resources for 1 year or 3 years.<br>
-    _Ao adquirir um contrato de uso contínuo, você adquire recursos do Compute Engine, como vCPUs, memória, GPUs, SSDs locais e nós de locatário individual, com desconto em troca do compromisso de pagar por esses recursos por 1 ou 3 anos._
+    
+    > _Ao adquirir um contrato de uso contínuo, você adquire recursos do Compute Engine, como vCPUs, memória, GPUs, SSDs locais e nós de locatário individual, com desconto em troca do compromisso de pagar por esses recursos por 1 ou 3 anos._
 
 ---
 
@@ -48,7 +50,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: View the Compliance Reports Manager to identify and download a recent SOC 1 audit
 
     > Using the Security Command Center offers the most precise method to identify virtual machines with outdated security updates. This tool provides insights about the current security state of each machine, specifically highlighting those running vulnerable disk images. This centralized visibility and precise identification enable timely updates, boosting the overall security of your cloud infrastructure.<br>
-    _Usar o Security Command Center oferece o método mais preciso para identificar máquinas virtuais com atualizações de segurança desatualizadas. Esta ferramenta fornece informações sobre o estado atual de segurança de cada máquina, destacando especificamente aquelas que executam imagens de disco vulneráveis. Essa visibilidade centralizada e identificação precisa permitem atualizações oportunas, aumentando a segurança geral da sua infraestrutura em nuvem._
+    
+    > _Usar o Security Command Center oferece o método mais preciso para identificar máquinas virtuais com atualizações de segurança desatualizadas. Esta ferramenta fornece informações sobre o estado atual de segurança de cada máquina, destacando especificamente aquelas que executam imagens de disco vulneráveis. Essa visibilidade centralizada e identificação precisa permitem atualizações oportunas, aumentando a segurança geral da sua infraestrutura em nuvem._
 
 ---
 
@@ -64,7 +67,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :white_check_mark: In multiple regions, using multiple zones per region
 
     > Choosing option B, placing VMs in different zones within a single region, best combines redundancy with the requirement for low latency, typically under 10 milliseconds between VMs. This setup avoids the potential latency issues that may arise with inter-regional communication in option D, which although it offers increased redundancy, may not consistently deliver the sub-10-millisecond communication required for some distributed applications.<br>
-    _Escolher a opção B, colocando VMs em zonas diferentes dentro de uma única região, combina melhor a redundância com o requisito de baixa latência, normalmente abaixo de 10 milissegundos entre VMs. Esta configuração evita possíveis problemas de latência que podem surgir com a comunicação inter-regional na opção D, que embora ofereça maior redundância, pode não fornecer consistentemente a comunicação inferior a 10 milissegundos necessária para alguns aplicativos distribuídos._
+    
+    > _Escolher a opção B, colocando VMs em zonas diferentes dentro de uma única região, combina melhor a redundância com o requisito de baixa latência, normalmente abaixo de 10 milissegundos entre VMs. Esta configuração evita possíveis problemas de latência que podem surgir com a comunicação inter-regional na opção D, que embora ofereça maior redundância, pode não fornecer consistentemente a comunicação inferior a 10 milissegundos necessária para alguns aplicativos distribuídos._
 
 ---
 
@@ -82,7 +86,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Fixing application security issues
 
     > When it comes to public cloud services, the provider takes charge of both hardware maintenance and capacity management. Essentially, they ensure that physical servers and other hardware resources are not only up and running but also adequately scaled to meet user demands. So, there's no need for clients to worry about the nuts and bolts of hardware—they can focus on building and securing their apps!<br>
-    _Quando se trata de serviços de nuvem pública, o provedor se encarrega tanto da manutenção do hardware quanto do gerenciamento da capacidade. Essencialmente, eles garantem que os servidores físicos e outros recursos de hardware não apenas estejam em funcionamento, mas também dimensionados adequadamente para atender às demandas dos usuários. Portanto, os clientes não precisam se preocupar com os detalhes básicos do hardware: eles podem se concentrar na criação e na proteção de seus aplicativos!_
+    
+    > _Quando se trata de serviços de nuvem pública, o provedor se encarrega tanto da manutenção do hardware quanto do gerenciamento da capacidade. Essencialmente, eles garantem que os servidores físicos e outros recursos de hardware não apenas estejam em funcionamento, mas também dimensionados adequadamente para atender às demandas dos usuários. Portanto, os clientes não precisam se preocupar com os detalhes básicos do hardware: eles podem se concentrar na criação e na proteção de seus aplicativos!_
 
 ---
 
@@ -98,7 +103,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Start more instances with fewer virtual centralized processing units (vCPUs) instead of fewer instances with more vCPUs
 
     > For your SaaS company's animation rendering needs, preemptible VMs on Google Cloud present a highly cost-effective solution. These VMs offer a substantial discount compared to standard instances and are especially suitable for tasks like rendering, which can tolerate interruptions. Since each scene takes less than 12 hours and the process can be paused and resumed, using preemptible VMs allows you to manage compute costs effectively while adapting the workflow to automatically save progress and restart as needed. This setup ensures efficient use of resources and aligns perfectly with the absence of strict SLA requirements for scene completion.<br>
-    _Para as necessidades de renderização de animação da sua empresa de SaaS, as VMs preemptivas no Google Cloud apresentam uma solução altamente econômica. Essas VMs oferecem um desconto substancial em comparação com instâncias padrão e são especialmente adequadas para tarefas como renderização, que podem tolerar interrupções. Como cada cena leva menos de 12 horas e o processo pode ser pausado e retomado, o uso de VMs preemptivas permite gerenciar os custos de computação de maneira eficaz e, ao mesmo tempo, adaptar o fluxo de trabalho para salvar automaticamente o progresso e reiniciar conforme necessário. Essa configuração garante o uso eficiente de recursos e se alinha perfeitamente com a ausência de requisitos rígidos de SLA para conclusão da cena._
+    
+    > _Para as necessidades de renderização de animação da sua empresa de SaaS, as VMs preemptivas no Google Cloud apresentam uma solução altamente econômica. Essas VMs oferecem um desconto substancial em comparação com instâncias padrão e são especialmente adequadas para tarefas como renderização, que podem tolerar interrupções. Como cada cena leva menos de 12 horas e o processo pode ser pausado e retomado, o uso de VMs preemptivas permite gerenciar os custos de computação de maneira eficaz e, ao mesmo tempo, adaptar o fluxo de trabalho para salvar automaticamente o progresso e reiniciar conforme necessário. Essa configuração garante o uso eficiente de recursos e se alinha perfeitamente com a ausência de requisitos rígidos de SLA para conclusão da cena._
 
 ---
 
@@ -127,7 +133,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Migrate the workloads to multiple local private clouds
 
     > Choosing to migrate the workloads to a public cloud perfectly addresses the goals of managing the workloads centrally and consistently while eliminating the need to manage physical infrastructure. This shift not only streamlines management practices across various geographies but also enhances operational efficiency by leveraging cloud technologies. This option is most in line with the desire to decrease direct oversight over hardware and physical systems.<br>
-    _A escolha de migrar as cargas de trabalho para uma nuvem pública atende perfeitamente aos objetivos de gerenciamento das cargas de trabalho de forma centralizada e consistente, ao mesmo tempo que elimina a necessidade de gerenciar a infraestrutura física. Esta mudança não só simplifica as práticas de gestão em várias geografias, mas também aumenta a eficiência operacional ao alavancar tecnologias de nuvem. Esta opção está mais alinhada com o desejo de diminuir a supervisão direta sobre hardware e sistemas físicos._
+    
+    > _A escolha de migrar as cargas de trabalho para uma nuvem pública atende perfeitamente aos objetivos de gerenciamento das cargas de trabalho de forma centralizada e consistente, ao mesmo tempo que elimina a necessidade de gerenciar a infraestrutura física. Esta mudança não só simplifica as práticas de gestão em várias geografias, mas também aumenta a eficiência operacional ao alavancar tecnologias de nuvem. Esta opção está mais alinhada com o desejo de diminuir a supervisão direta sobre hardware e sistemas físicos._
 
 ---
 
@@ -143,7 +150,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Enable Private Google Access in your Google Cloud VPC network
 
     > After the service provider provisions your connection, you can start passing traffic between your networks by using the service provider's network.<br>
-    _Depois que o provedor de serviços provisionar sua conexão, você poderá começar a transmitir o tráfego entre suas redes usando a rede do provedor de serviços._
+    
+    > _Depois que o provedor de serviços provisionar sua conexão, você poderá começar a transmitir o tráfego entre suas redes usando a rede do provedor de serviços._
 
 ---
 
@@ -158,8 +166,9 @@ Reference: <https://www.examtopics.com/exams/google/>
 
     :black_large_square: Create a Compute Engine disk containing the application
 
-    > Pushing (uploading) and pulling (downloading) images are two of the most common Container Registry tasks. This document focuses on pushing and pulling images with Docker.<br>
-    _Enviar (carregar) e extrair (baixar) imagens são duas das tarefas mais comuns do Container Registry. Este documento se concentra em enviar e extrair imagens com Docker._
+    > Pushing (uploading) and pulling (downloading) images are two of the most common Container Registry tasks. This document focuses on pushing and pulling images with Docker.
+    
+    > _Enviar (carregar) e extrair (baixar) imagens são duas das tarefas mais comuns do Container Registry. Este documento se concentra em enviar e extrair imagens com Docker._
 
 ---
 
@@ -175,7 +184,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: You want to be able to shift your emphasis between flexibility and management by the cloud provider as business needs change.
 
     > Benefits of SaaS - The main benefit of SaaS is that it offloads all infrastructure and application management to the SaaS vendor.<br>
-    _Benefícios do SaaS - O principal benefício do SaaS é que ele transfere toda a infraestrutura e gerenciamento de aplicativos para o fornecedor de SaaS._
+    
+    > _Benefícios do SaaS - O principal benefício do SaaS é que ele transfere toda a infraestrutura e gerenciamento de aplicativos para o fornecedor de SaaS._
 
 ---
 
@@ -256,7 +266,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Compute Engine
 
     > Cloud Functions gives developers access to Firebase and Google Cloud events, along with scalable computing power to run code in response to those events. While it's expected that Firebase apps will use Cloud Functions in unique ways to meet their unique requirements.<br>
-    _O Cloud Functions oferece aos desenvolvedores acesso a eventos do Firebase e do Google Cloud, além de poder de computação escalonável para executar código em resposta a esses eventos. Embora seja esperado que os aplicativos do Firebase usem o Cloud Functions de maneiras exclusivas para atender aos seus requisitos exclusivos_
+    
+    > _O Cloud Functions oferece aos desenvolvedores acesso a eventos do Firebase e do Google Cloud, além de poder de computação escalonável para executar código em resposta a esses eventos. Embora seja esperado que os aplicativos do Firebase usem o Cloud Functions de maneiras exclusivas para atender aos seus requisitos exclusivos_
 
 ---
 
@@ -285,7 +296,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Dataprep by Trifacta
 
     > Dataflow is a fully-managed service for strongly consistent, parallel data-processing pipelines. It provides an SDK for Java with composable primitives for building data-processing pipelines for batch or continuous processing. This service manages the life cycle of Compute Engine resources of the processing pipeline(s). It also provides a monitoring user interface for understanding pipeline health.<br>
-    _O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
+    
+    > _O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline._
 
 ---
 
@@ -301,4 +313,5 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Cloud Deployment Manager
 
     > Deploy your application to App Engine using the gcloud app deploy command. This command automatically builds a container image by using the Cloud Build service and then deploys that image to the App Engine flexible environment.<br>
-    _Implante seu aplicativo no App Engine usando o comando gcloud app deploy. Este comando cria automaticamente uma imagem de contêiner usando o serviço Cloud Build e, em seguida, implanta essa imagem no ambiente flexível do App Engine._
+    
+    > _Implante seu aplicativo no App Engine usando o comando gcloud app deploy. Este comando cria automaticamente uma imagem de contêiner usando o serviço Cloud Build e, em seguida, implanta essa imagem no ambiente flexível do App Engine._

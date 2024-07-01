@@ -16,7 +16,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Migrate the workloads to Google Kubernetes Engine
 
     > Migrate for Compute Engine enables you to lift and shift workloads at scale to Google Cloud Compute Engine with minimal changes and risk.<br>
-    _O Migrate for Compute Engine permite transferir cargas de trabalho em escala para o Google Cloud Compute Engine com alterações e riscos mínimos._
+    
+    > _O Migrate for Compute Engine permite transferir cargas de trabalho em escala para o Google Cloud Compute Engine com alterações e riscos mínimos._
 
 ---
 
@@ -32,7 +33,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Enroll in Basic Support
 
     > Enhanced Support: Designed to provide fast response times, a robust set of services, and the technical support necessary for workloads in production. Ideal for workloads in production, with 1-hour response time.<br>
-    _Suporte aprimorado: projetado para fornecer tempos de resposta rápidos, um conjunto robusto de serviços e o suporte técnico necessário para cargas de trabalho em produção. Ideal para cargas de trabalho em produção, com tempo de resposta de 1 hora._
+    
+    > _Suporte aprimorado: projetado para fornecer tempos de resposta rápidos, um conjunto robusto de serviços e o suporte técnico necessário para cargas de trabalho em produção. Ideal para cargas de trabalho em produção, com tempo de resposta de 1 hora._
 
 ---
 
@@ -48,7 +50,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Private Google Access
 
     > An identity platform is a modern solution for managing the identities of users and devices in a centralized fashion.<br>
-    _Uma plataforma de identidade é uma solução moderna para gerenciar identidades de usuários e dispositivos de forma centralizada._
+    
+    > _Uma plataforma de identidade é uma solução moderna para gerenciar identidades de usuários e dispositivos de forma centralizada._
 
 ---
 
@@ -64,7 +67,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Run the workload on preemptible VM instances
 
     > The idea of the Sustained Use discount is that the longer you run a VM instance in any given month, the bigger discount you will get from the list price.<br>
-    _A ideia do desconto por uso prolongado é que quanto mais tempo você executar uma instância de VM em um determinado mês, maior será o desconto no preço de tabela._
+    
+    > _A ideia do desconto por uso prolongado é que quanto mais tempo você executar uma instância de VM em um determinado mês, maior será o desconto no preço de tabela._
 
 ---
 
@@ -101,7 +105,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     _Mova todas as cargas de trabalho de todos os projetos diferentes em um único projeto consolidado_
 
     > Compute Engine provides resource-based committed use discounts (CUDs) for your predictable workloads to help you cut costs on resources that you need. You can purchase and renew resource-based committed use contracts or commitments in return for heavily discounted prices for VM usage.<br>
-    _O Compute Engine oferece descontos por uso contínuo (CUDs, na sigla em inglês) baseados em recursos para suas cargas de trabalho previsíveis para ajudar você a reduzir custos com os recursos necessários. Você pode adquirir e renovar contratos ou compromissos de uso contínuo baseados em recursos em troca de preços com grandes descontos para uso de VM._
+    
+    > _O Compute Engine oferece descontos por uso contínuo (CUDs, na sigla em inglês) baseados em recursos para suas cargas de trabalho previsíveis para ajudar você a reduzir custos com os recursos necessários. Você pode adquirir e renovar contratos ou compromissos de uso contínuo baseados em recursos em troca de preços com grandes descontos para uso de VM._
 
 ---
 
@@ -147,7 +152,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Deploy Cloud NAT.
 
     > There are some limitations when leveraging the Standard tier for its pricing benefits. At a high level, these include compliance needs around traffic traversing the public internet, as well as HTTP(S), SSL Proxy, TCP Proxy load-balancing, or usage of Cloud CDN. You can read about these in more detail here. After reviewing some of the recommendations, you’ll be empowered to review your services with your team and determine whether you can benefit from lower Standard Tier pricing without impacting the performance of your external-facing services.<br>
-    _Existem algumas limitações ao aproveitar o nível Standard para obter benefícios de preços. Em alto nível, isso inclui necessidades de conformidade em torno do tráfego que atravessa a Internet pública, bem como HTTP(S), proxy SSL, balanceamento de carga de proxy TCP ou uso de Cloud CDN. Você pode ler sobre isso com mais detalhes aqui. Depois de analisar algumas das recomendações, você poderá revisar seus serviços com sua equipe e determinar se pode se beneficiar de preços mais baixos do nível Standard sem afetar o desempenho de seus serviços externos._
+    
+    > _Existem algumas limitações ao aproveitar o nível Standard para obter benefícios de preços. Em alto nível, isso inclui necessidades de conformidade em torno do tráfego que atravessa a Internet pública, bem como HTTP(S), proxy SSL, balanceamento de carga de proxy TCP ou uso de Cloud CDN. Você pode ler sobre isso com mais detalhes aqui. Depois de analisar algumas das recomendações, você poderá revisar seus serviços com sua equipe e determinar se pode se beneficiar de preços mais baixos do nível Standard sem afetar o desempenho de seus serviços externos._
 
 ---
 
@@ -180,7 +186,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     _Crie o projeto em uma pasta com o mesmo nome do grupo de diretórios LDAP._
 
     > Let’s start at the very beginning. Google Cloud offers several ways to onboard users. Cloud Identity is a centralized hub for Google Cloud and G Suite to define, setup, and manage users and groups—think of Cloud Identity as a provisioning and authentication solution, whereas Cloud IAM is principally an authorization solution. Once they’re onboarded, you’ll be able to assign permissions to these users and groups in Google Cloud IAM to allow them access to resources.<br>
-    _Vamos começar do início. O Google Cloud oferece várias maneiras de integrar usuários. O Cloud Identity é um hub centralizado para o Google Cloud e o G Suite definirem, configurarem e gerenciarem usuários e grupos. Pense no Cloud Identity como uma solução de provisionamento e autenticação, enquanto o Cloud IAM é principalmente uma solução de autorização. Depois que eles estiverem integrados, você poderá atribuir permissões a esses usuários e grupos no Google Cloud IAM para permitir-lhes acesso aos recursos._
+    
+    > _Vamos começar do início. O Google Cloud oferece várias maneiras de integrar usuários. O Cloud Identity é um hub centralizado para o Google Cloud e o G Suite definirem, configurarem e gerenciarem usuários e grupos. Pense no Cloud Identity como uma solução de provisionamento e autenticação, enquanto o Cloud IAM é principalmente uma solução de autorização. Depois que eles estiverem integrados, você poderá atribuir permissões a esses usuários e grupos no Google Cloud IAM para permitir-lhes acesso aos recursos._
 
 ---
 
@@ -198,11 +205,12 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Payments profile
 
     > - Resource hierarchy: Structure and organize your resource hierarchy for fine-grained management and cost allocation using organizations, folders, projects, and labels.<br>
-    Billing access control: Enforce organizational policies with granular permissions at different levels in the resource hierarchy to control who can spend and who has administrative and cost-viewing permissions.<br>
-    - Budgets and alerts: Set budgets to closely monitor your costs and alert stakeholders through email or Pub/Sub when exceeding defined budget thresholds.<br>
-    - Hierarquia de recursos: estruture e organize sua hierarquia de recursos para gerenciamento refinado e alocação de custos usando organizações, pastas, projetos e rótulos.
-    - Controle de acesso à cobrança: aplique políticas organizacionais com permissões granulares em diferentes níveis da hierarquia de recursos para controlar quem pode gastar e quem tem permissões administrativas e de visualização de custos.<br>
-    - Orçamentos e alertas: defina orçamentos para monitorar de perto seus custos e alertar as partes interessadas por e-mail ou Pub/Sub quando excederem os limites orçamentários definidos.
+    > - Billing access control: Enforce organizational policies with granular permissions at different levels in the resource hierarchy to control who can spend and who has administrative and cost-viewing permissions.<br>
+    > - Budgets and alerts: Set budgets to closely monitor your costs and alert stakeholders through email or Pub/Sub when exceeding defined budget thresholds.<br>
+    
+    > - Hierarquia de recursos: estruture e organize sua hierarquia de recursos para gerenciamento refinado e alocação de custos usando organizações, pastas, projetos e rótulos.
+    > - Controle de acesso à cobrança: aplique políticas organizacionais com permissões granulares em diferentes níveis da hierarquia de recursos para controlar quem pode gastar e quem tem permissões administrativas e de visualização de custos.<br>
+    > - Orçamentos e alertas: defina orçamentos para monitorar de perto seus custos e alertar as partes interessadas por e-mail ou Pub/Sub quando excederem os limites orçamentários definidos.
 
 ---
 

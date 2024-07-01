@@ -348,8 +348,8 @@
     >   - Cloud Spanner is a fully managed, mission-critical, relational database service that offers transactional consistency at global scale, automatic, synchronous replication for high availability, and support for two SQL Google Standard SQL and PostgreSQL.<br>
     >   - Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.<br>
     >   - Google BigQuery is a cloud-based Architecture and provides exceptional performance as it can auto-scale up and down based on the data load and performs data analysis efficiently. On the other hand, SQL Server is based on client-server architecture and has fixed performance throughout unless the user scales it manually.<br>
-    > - Spanner, Cloud SQL, BigQuery
     
+    > - Spanner, Cloud SQL, BigQuery
     >   - _O Cloud Spanner é um serviço de banco de dados relacional de missão crítica totalmente gerenciado que oferece consistência transacional em escala global, replicação automática e síncrona para alta disponibilidade e suporte para dois SQL, SQL padrão do Google e PostgreSQL._
     >   - _O Cloud SQL é um serviço de banco de dados totalmente gerenciado que ajuda você a configurar, manter, gerenciar e administrar bancos de dados relacionais no Google Cloud Platform._
     >   - _O Google BigQuery é uma arquitetura baseada em nuvem e oferece desempenho excepcional, pois pode aumentar e diminuir automaticamente com base na carga de dados e realizar análises de dados com eficiência. Por outro lado, o SQL Server é baseado na arquitetura cliente-servidor e tem desempenho fixo, a menos que o usuário o dimensione manualmente._

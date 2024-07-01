@@ -16,7 +16,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Security Command Center
 
     > IAM provides administrators the ability to manage cloud resources centrally by controlling who can take what action on specific resources.<br>
-    _O IAM oferece aos administradores a capacidade de gerenciar centralmente os recursos da nuvem, controlando quem pode realizar quais ações em recursos específicos._
+    
+    > _O IAM oferece aos administradores a capacidade de gerenciar centralmente os recursos da nuvem, controlando quem pode realizar quais ações em recursos específicos._
 
 ---
 
@@ -32,7 +33,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Cloud CDN
 
     > Cloud VPN allows you to connect to your Virtual Private Cloud (VPC) network from your existing network, such as your on-premises network, another VPC network, or another cloud provider's network, through an IPsec connection using (i) Classic VPN, which supports dynamic (BGP) routing or static routing (route-based or policy-based), or (ii) HA (high-availability) VPN, which supports dynamic routing with a simplified redundancy setup, separate failure domains for the gateway interfaces, and a higher service level objective.<br>
-    _O Cloud VPN permite que você se conecte à sua rede de nuvem privada virtual (VPC) a partir de sua rede existente, como sua rede local, outra rede VPC ou rede de outro provedor de nuvem, por meio de uma conexão IPsec usando (i) VPN clássica, que suporta roteamento dinâmico (BGP) ou roteamento estático (baseado em rota ou baseado em política), ou (ii) VPN HA (alta disponibilidade), que suporta roteamento dinâmico com uma configuração de redundância simplificada, domínios de falha separados para as interfaces de gateway, e um objetivo de nível de serviço mais elevado._
+    
+    > _O Cloud VPN permite que você se conecte à sua rede de nuvem privada virtual (VPC) a partir de sua rede existente, como sua rede local, outra rede VPC ou rede de outro provedor de nuvem, por meio de uma conexão IPsec usando (i) VPN clássica, que suporta roteamento dinâmico (BGP) ou roteamento estático (baseado em rota ou baseado em política), ou (ii) VPN HA (alta disponibilidade), que suporta roteamento dinâmico com uma configuração de redundância simplificada, domínios de falha separados para as interfaces de gateway, e um objetivo de nível de serviço mais elevado._
 
 ---
 
@@ -48,7 +50,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: App Engine
 
     > Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.<br>
-    _Firebase é uma plataforma de desenvolvimento de aplicativos que ajuda você a criar e desenvolver aplicativos e jogos que os usuários adoram. Apoiado pelo Google e com a confiança de milhões de empresas em todo o mundo._
+    
+    > _Firebase é uma plataforma de desenvolvimento de aplicativos que ajuda você a criar e desenvolver aplicativos e jogos que os usuários adoram. Apoiado pelo Google e com a confiança de milhões de empresas em todo o mundo._
 
 ---
 
@@ -64,7 +67,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Google Kubernetes Engine
 
     > Compute Engine offers scalable and flexible virtual machine computing capabilities in the cloud, with options to utilize certain CPUs, GPUs, or Cloud TPUs. You can use Compute Engine to solve large-scale processing and analytic problems on Google's computing, storage, and networking infrastructure.<br>
-    _O Compute Engine oferece recursos de computação de máquinas virtuais escalonáveis ​​e flexíveis na nuvem, com opções para utilizar determinadas CPUs, GPUs ou Cloud TPUs. Você pode usar o Compute Engine para resolver problemas de processamento e análise em grande escala na infraestrutura de computação, armazenamento e rede do Google._
+    
+    > _O Compute Engine oferece recursos de computação de máquinas virtuais escalonáveis ​​e flexíveis na nuvem, com opções para utilizar determinadas CPUs, GPUs ou Cloud TPUs. Você pode usar o Compute Engine para resolver problemas de processamento e análise em grande escala na infraestrutura de computação, armazenamento e rede do Google._
 
 ---
 
@@ -80,7 +84,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :white_check_mark: Cloud Spanner
 
     > Cloud Spanner is a fully-managed, mission-critical relational database service. It is designed to provide a scalable online transaction processing (OLTP) database with high availability and strong consistency at global scale.<br>
-    _O Cloud Spanner é um serviço de banco de dados relacional de missão crítica totalmente gerenciado. Ele foi projetado para fornecer um banco de dados escalonável de processamento de transações on-line (OLTP) com alta disponibilidade e forte consistência em escala global._
+    
+    > _O Cloud Spanner é um serviço de banco de dados relacional de missão crítica totalmente gerenciado. Ele foi projetado para fornecer um banco de dados escalonável de processamento de transações on-line (OLTP) com alta disponibilidade e forte consistência em escala global._
 
 ---
 
@@ -96,7 +101,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: AutoML Tables
 
     > Cloud Vision classifies images into categories, detects individual objects and faces, and finds and reads printed words.<br>
-    _O Cloud Vision classifica imagens em categorias, detecta objetos e rostos individuais e encontra e lê palavras impressas._
+    
+    > _O Cloud Vision classifica imagens em categorias, detecta objetos e rostos individuais e encontra e lê palavras impressas._
 
 ---
 
@@ -112,7 +118,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Private Google Access
 
     > Cloud NAT (Network Address Translation): Cloud NAT enables instances in a private network to communicate with the internet.<br>
-    _Cloud NAT (Network Address Translation): O Cloud NAT permite que instâncias em uma rede privada se comuniquem com a Internet._
+    
+    > _Cloud NAT (Network Address Translation): O Cloud NAT permite que instâncias em uma rede privada se comuniquem com a Internet._
 
 ---
 
@@ -128,7 +135,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Secret Manager
 
     > Sensitive Data Protection (including Cloud Data Loss Prevention or DLP): Sensitive Data Protection is a fully-managed service enabling customers to discover, classify, de-identify, and protect sensitive data, such as personally identifiable information.<br>
-    _Proteção de dados confidenciais (incluindo Prevenção contra perda de dados na nuvem ou DLP): A proteção de dados confidenciais é um serviço totalmente gerenciado que permite aos clientes descobrir, classificar, desidentificar e proteger dados confidenciais, como informações de identificação pessoal._
+    
+    > _Proteção de dados confidenciais (incluindo Prevenção contra perda de dados na nuvem ou DLP): A proteção de dados confidenciais é um serviço totalmente gerenciado que permite aos clientes descobrir, classificar, desidentificar e proteger dados confidenciais, como informações de identificação pessoal._
 
 ---
 
@@ -144,7 +152,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Transfer Appliance
 
     > Storage Transfer Service: Storage Transfer Service enables you to import large amounts of online data into Cloud Storage, quickly and cost-effectively. With Storage Transfer Service, you can transfer data from locations reachable by the general internet (e.g., HTTP/HTTPS), including Amazon Simple Storage Service (Amazon S3), as well as transfer data between Google Cloud products (e.g., between two Cloud Storage buckets). You can also use Storage Transfer Service to move data between private data center storage (e.g., NFS) and Google Cloud products (e.g., transfer from NFS to Cloud Storage).<br>
-    _Serviço de transferência de armazenamento: o serviço de transferência de armazenamento permite importar grandes quantidades de dados on-line para o Cloud Storage, de forma rápida e econômica. Com o Storage Transfer Service, você pode transferir dados de locais acessíveis pela Internet geral (por exemplo, HTTP/HTTPS), incluindo Amazon Simple Storage Service (Amazon S3), bem como transferir dados entre produtos do Google Cloud (por exemplo, entre dois Cloud Storage Service). Você também pode usar o Storage Transfer Service para mover dados entre armazenamento de data center privado (por exemplo, NFS) e produtos do Google Cloud (por exemplo, transferência de NFS para Cloud Storage)._
+    
+    > _Serviço de transferência de armazenamento: o serviço de transferência de armazenamento permite importar grandes quantidades de dados on-line para o Cloud Storage, de forma rápida e econômica. Com o Storage Transfer Service, você pode transferir dados de locais acessíveis pela Internet geral (por exemplo, HTTP/HTTPS), incluindo Amazon Simple Storage Service (Amazon S3), bem como transferir dados entre produtos do Google Cloud (por exemplo, entre dois Cloud Storage Service). Você também pode usar o Storage Transfer Service para mover dados entre armazenamento de data center privado (por exemplo, NFS) e produtos do Google Cloud (por exemplo, transferência de NFS para Cloud Storage)._
 
 ---
 
@@ -160,7 +169,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :white_check_mark: BigQuery
 
     > BigQuery is a fully-managed data analysis service that enables businesses to analyze Big Data. It features highly scalable data storage that accommodates up to hundreds of terabytes, the ability to perform ad hoc queries on multi-terabyte datasets, and the ability to share data insights via the web.<br>
-    _O BigQuery é um serviço de análise de dados totalmente gerenciado que permite às empresas analisar Big Data. Ele apresenta armazenamento de dados altamente escalonável que acomoda até centenas de terabytes, a capacidade de realizar consultas ad hoc em conjuntos de dados de vários terabytes e a capacidade de compartilhar insights de dados pela web._
+    
+    > _O BigQuery é um serviço de análise de dados totalmente gerenciado que permite às empresas analisar Big Data. Ele apresenta armazenamento de dados altamente escalonável que acomoda até centenas de terabytes, a capacidade de realizar consultas ad hoc em conjuntos de dados de vários terabytes e a capacidade de compartilhar insights de dados pela web._
 
 ---
 
@@ -176,7 +186,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Compute Engine virtual machines
 
     > Google Kubernetes Engine, powered by the open source container scheduler Kubernetes, enables you to run containers on Google Cloud Platform. Kubernetes Engine takes care of provisioning and maintaining the underlying virtual machine cluster, scaling your application, and operational logistics such as logging, monitoring, and cluster health management.<br>
-    _O Google Kubernetes Engine, desenvolvido com o agendador de contêineres de código aberto Kubernetes, permite executar contêineres no Google Cloud Platform. O Kubernetes Engine cuida do provisionamento e da manutenção do cluster de máquina virtual subjacente, do dimensionamento do seu aplicativo e da logística operacional, como registro, monitoramento e gerenciamento da integridade do cluster._
+    
+    > _O Google Kubernetes Engine, desenvolvido com o agendador de contêineres de código aberto Kubernetes, permite executar contêineres no Google Cloud Platform. O Kubernetes Engine cuida do provisionamento e da manutenção do cluster de máquina virtual subjacente, do dimensionamento do seu aplicativo e da logística operacional, como registro, monitoramento e gerenciamento da integridade do cluster._
 
 ---
 
@@ -192,7 +203,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Google Cloud Armor
 
     > Security Command Center is Google Cloud's centralized vulnerability and threat reporting service. Security Command Center provides asset inventory and discovery and allows you to identify misconfigurations, vulnerabilities and threats, helping you to mitigate and remediate risks.<br>
-    _O Security Command Center é o serviço centralizado de relatórios de vulnerabilidades e ameaças do Google Cloud. O Security Command Center fornece inventário e descoberta de ativos e permite identificar configurações incorretas, vulnerabilidades e ameaças, ajudando a mitigar e remediar riscos._
+    
+    > _O Security Command Center é o serviço centralizado de relatórios de vulnerabilidades e ameaças do Google Cloud. O Security Command Center fornece inventário e descoberta de ativos e permite identificar configurações incorretas, vulnerabilidades e ameaças, ajudando a mitigar e remediar riscos._
 
 ---
 
@@ -208,7 +220,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :white_check_mark: Anthos
 
     > The core technology developed by Google empowering enterprise container platforms everywhere. Get access to Anthos capabilities through Google Kubernetes Engine (GKE) and Google Distributed Cloud (GDC).<br>
-    _A principal tecnologia desenvolvida pelo Google que capacita plataformas de contêineres empresariais em todos os lugares. Obtenha acesso aos recursos do Anthos por meio do Google Kubernetes Engine (GKE) e do Google Distributed Cloud (GDC)._
+    
+    > _A principal tecnologia desenvolvida pelo Google que capacita plataformas de contêineres empresariais em todos os lugares. Obtenha acesso aos recursos do Anthos por meio do Google Kubernetes Engine (GKE) e do Google Distributed Cloud (GDC)._
 
 ---
 
@@ -224,7 +237,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Cloud Spanner
 
     > Firestore is a NoSQL document database for storing, syncing, and querying data for mobile and web apps. Its client libraries provide live synchronization and offline support, while its security features and integrations with Firebase and Google Cloud Platform accelerate building serverless apps.<br>
-    _Firestore é um banco de dados de documentos NoSQL para armazenar, sincronizar e consultar dados para aplicativos móveis e da web. Suas bibliotecas de cliente fornecem sincronização ao vivo e suporte off-line, enquanto seus recursos de segurança e integrações com Firebase e Google Cloud Platform aceleram a criação de aplicativos sem servidor._
+    
+    > _Firestore é um banco de dados de documentos NoSQL para armazenar, sincronizar e consultar dados para aplicativos móveis e da web. Suas bibliotecas de cliente fornecem sincronização ao vivo e suporte off-line, enquanto seus recursos de segurança e integrações com Firebase e Google Cloud Platform aceleram a criação de aplicativos sem servidor._
 
 ---
 
@@ -240,7 +254,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: BigQuery
 
     > Cloud Storage is a RESTful service for storing and accessing your data on Google's infrastructure. The service combines the performance and scalability of Google's cloud with advanced security and sharing capabilities.<br>
-    _Cloud Storage é um serviço RESTful para armazenar e acessar seus dados na infraestrutura do Google. O serviço combina o desempenho e a escalabilidade da nuvem do Google com recursos avançados de segurança e compartilhamento._
+    
+    > _Cloud Storage é um serviço RESTful para armazenar e acessar seus dados na infraestrutura do Google. O serviço combina o desempenho e a escalabilidade da nuvem do Google com recursos avançados de segurança e compartilhamento._
 
 ---
 
@@ -273,7 +288,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     _Crie um grupo composto por todos os funcionários baseados no Canadá e conceda ao grupo acesso ao bucket_
 
     > Google Cloud Armor offers a policy framework and rules language for customizing access to internet-facing applications and deploying defenses against denial of service attacks as well as targeted application attacks. Components of Google Cloud Armor include: L3/L4 volumetric DDos Protection, preconfigured web-application firewall (WAF) rules, and custom rules language.<br>
-    _O Google Cloud Armor oferece uma estrutura de políticas e uma linguagem de regras para personalizar o acesso a aplicativos voltados para a Internet e implantar defesas contra ataques de negação de serviço, bem como ataques direcionados a aplicativos. Os componentes do Google Cloud Armor incluem: proteção volumétrica contra DDos L3/L4, regras pré-configuradas de firewall de aplicativo da web (WAF) e linguagem de regras personalizadas._
+    
+    > _O Google Cloud Armor oferece uma estrutura de políticas e uma linguagem de regras para personalizar o acesso a aplicativos voltados para a Internet e implantar defesas contra ataques de negação de serviço, bem como ataques direcionados a aplicativos. Os componentes do Google Cloud Armor incluem: proteção volumétrica contra DDos L3/L4, regras pré-configuradas de firewall de aplicativo da web (WAF) e linguagem de regras personalizadas._
 
 ---
 
@@ -289,7 +305,8 @@ Reference: <https://www.examtopics.com/exams/google/>
     :black_large_square: Cloud Composer
 
     > O AWS Database Migration Service (AWS DMS) é um serviço de replicação e migração gerenciado que ajuda a mover workloads analíticos e bancos de dados para a AWS rapidamente, de forma segura e com o mínimo possível de inatividade e zero perda de dados.<br>
-    _O AWS Database Migration Service (AWS DMS) é um serviço de replicação e migração gerenciado que ajuda a mover cargas de trabalho analíticas e bancos de dados para a AWS rapidamente, de forma segura e com o mínimo possível de inatividade e zero perda de dados._
+    
+    > _O AWS Database Migration Service (AWS DMS) é um serviço de replicação e migração gerenciado que ajuda a mover cargas de trabalho analíticas e bancos de dados para a AWS rapidamente, de forma segura e com o mínimo possível de inatividade e zero perda de dados._
 
 ---
 
@@ -326,4 +343,5 @@ Reference: <https://www.examtopics.com/exams/google/>
     _Migre as cargas de trabalho usando o Migrate for Anthos_
 
     > Migrate to Containers makes it fast and easy to modernize traditional applications away from virtual machines and into native containers. Our unique automated approach extracts the critical application elements from the VM so you can easily insert those elements into containers in Google Kubernetes Engine, Cloud Run, or Anthos clusters without the VM layers (like Guest OS) that become unnecessary with containers.?<br>
-    _O Migrate to Containers torna rápido e fácil a modernização de aplicativos tradicionais, deixando-os de máquinas virtuais e transferindo-os para contêineres nativos. Nossa abordagem automatizada exclusiva extrai os elementos críticos do aplicativo da VM para que você possa inserir facilmente esses elementos em contêineres nos clusters do Google Kubernetes Engine, Cloud Run ou Anthos sem as camadas de VM (como sistema operacional convidado) que se tornam desnecessárias com contêineres._
+    
+    > _O Migrate to Containers torna rápido e fácil a modernização de aplicativos tradicionais, deixando-os de máquinas virtuais e transferindo-os para contêineres nativos. Nossa abordagem automatizada exclusiva extrai os elementos críticos do aplicativo da VM para que você possa inserir facilmente esses elementos em contêineres nos clusters do Google Kubernetes Engine, Cloud Run ou Anthos sem as camadas de VM (como sistema operacional convidado) que se tornam desnecessárias com contêineres._
