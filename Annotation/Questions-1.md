@@ -24,9 +24,9 @@
 
     :black_large_square: Single sign-on (SSO)
 
-    :black_large_square: Works with your favorite apps and Endpoint management
+    :black_large_square: Funciona com seus aplicativos favoritos e gerenciamento de endpoint
 
-    :white_check_mark: All of the Above 
+    :white_check_mark: Todos os itens acima
     
 > - Uma plataforma unificada de gerenciamento de identidade, acesso, aplicativos e endpoints (IAM/EMM).
 >   - Dê aos usuários acesso fácil a aplicativos com logon único.<br>
@@ -41,24 +41,24 @@
 
     :black_large_square: Dataproc
 
-    :black_large_square: Google Kubernetes Engine with Cloud Bigtable
+    :black_large_square: Google Kubernetes Engine com Cloud Bigtable
 
     :white_check_mark: Dataflow
    
 > - Você não quer ser obrigado a provisionar infraestrutura ou criar clusters de servidores. Porque fluxo unificado e processamento de dados em lote, sem servidor, rápido e econômico.<br>
->  - O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline.
+> - O Dataflow é um serviço totalmente gerenciado para pipelines de processamento de dados paralelos e altamente consistentes. Ele fornece um SDK para Java com primitivos combináveis ​​para construir pipelines de processamento de dados para processamento em lote ou contínuo. Este serviço gerencia o ciclo de vida dos recursos do Compute Engine dos pipelines de processamento. Ele também fornece uma interface de usuário de monitoramento para compreender a integridade do pipeline.
 
 ---
 
 4. A Agência de Segurança de Fronteiras contratou sua empresa de serviços de software para criar um aplicativo que coletará informações sobre vistos carimbados em passaportes. Você recebe imagens carimbadas. Você deve descobrir qual país emitiu o visto e o período de validade. Retire esses dados e coloque-os em um banco de dados. Qual dessas aplicações seria adequada para isso?
 
-    :white_check_mark: Use Cloud Vision API - write code to identify the text blocks, copy the data, and store it
+    :white_check_mark: Use a API Cloud Vision - escreva código para identificar os blocos de texto, copiar os dados e armazená-los
 
-    :black_large_square: Use TensorFlow - write code that will identify the type of visa and the bounding text blocks. Copy the data and then store it.
+    :black_large_square: Use TensorFlow - escreva código que identificará o tipo de visto e os blocos de texto delimitadores. Copie os dados e então armazene-os.
 
-    :black_large_square: Use AutoML - upload other images of visas and run the model creation process which will automatically identify the visas
+    :black_large_square: Use AutoML - carregue outras imagens de vistos e execute o processo de criação do modelo que identificará automaticamente os vistos
 
-    :black_large_square: Use Data Labeling service - outsource the work of marking and extracting the in-formation to others.
+    :black_large_square: Use o serviço de rotulagem de dados - terceirize o trabalho de marcação e extração de informações para terceiros.
     
 > A API Cloud Vision permite identificar programaticamente imagens, texto etc. Este seria o melhor.
 
